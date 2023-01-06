@@ -1,0 +1,859 @@
+﻿neutral_site,home_team,home_points,away_team,away_points
+false,Western Kentucky,38,Austin Peay,27
+true,Northwestern,31,Nebraska,28
+false,UNLV,52,Idaho State,21
+false,Illinois,38,Wyoming,6
+false,Utah State,31,Connecticut,20
+false,Florida State,47,Duquesne,7
+false,Florida Atlantic,43,Charlotte,13
+false,North Carolina,56,Florida A&M,24
+false,UTEP,13,North Texas,31
+false,New Mexico State,12,Nevada,23
+false,Hawai'i,10,Vanderbilt,63
+false,Akron,30,St Francis (PA),23
+false,Tennessee,59,Ball State,10
+false,Oklahoma State,58,Central Michigan,44
+false,UCF,56,South Carolina State,10
+false,Florida International,38,Bryant,37
+false,Pittsburgh,38,West Virginia,31
+false,Toledo,37,Long Island University,0
+false,Wake Forest,44,VMI,10
+false,UAB,59,Alabama A&M,0
+false,Missouri,52,Louisiana Tech,24
+false,Northern Illinois,34,Eastern Illinois,27
+false,Purdue,31,Penn State,35
+false,Minnesota,38,New Mexico State,0
+false,Arizona State,40,Northern Arizona,3
+false,Fresno State,35,Cal Poly,7
+false,San José State,21,Portland State,17
+false,Charlotte,24,William & Mary,41
+false,Michigan State,35,Western Michigan,13
+false,Eastern Michigan,42,Eastern Kentucky,34
+false,Old Dominion,20,Virginia Tech,17
+false,Duke,30,Temple,0
+false,Indiana,23,Illinois,20
+false,Kansas,56,Tennessee Tech,10
+false,Colorado,13,TCU,38
+false,East Carolina,20,NC State,21
+false,Navy,7,Delaware,14
+false,Maryland,31,Buffalo,10
+false,Iowa,7,South Dakota State,3
+false,Connecticut,28,Central Connecticut,3
+false,Boston College,21,Rutgers,22
+false,Texas A&M,31,Sam Houston State,0
+false,Appalachian State,61,North Carolina,63
+false,Michigan,51,Colorado State,7
+false,Virginia,34,Richmond,17
+false,Air Force,48,Northern Iowa,17
+false,Iowa State,42,Southeast Missouri State,10
+false,UCLA,45,Bowling Green,17
+false,Miami,70,Bethune-Cookman,13
+false,Oklahoma,45,UTEP,13
+false,UT San Antonio,35,Houston,37
+false,Marshall,55,Norfolk State,3
+false,Arkansas,31,Cincinnati,24
+false,Wyoming,40,Tulsa,37
+true,Georgia,49,Oregon,3
+false,San Diego State,20,Arizona,38
+false,Nebraska,38,North Dakota,17
+false,California,34,UC Davis,13
+false,Ole Miss,28,Troy,10
+false,South Florida,21,BYU,50
+false,South Alabama,48,Nicholls,7
+false,Nevada,38,Texas State,14
+false,Georgia Southern,59,Morgan State,7
+false,USC,66,Rice,14
+false,James Madison,44,Middle Tennessee,7
+false,Ohio,41,Florida Atlantic,38
+false,Coastal Carolina,38,Army,28
+false,Kentucky,37,Miami (OH),13
+false,Florida,29,Utah,26
+false,Arkansas State,58,Grambling,3
+false,Auburn,42,Mercer,16
+false,Vanderbilt,42,Elon,31
+false,Kansas State,34,South Dakota,0
+false,Tulane,42,UMass,10
+false,Southern Mississippi,27,Liberty,29
+false,Baylor,69,Albany,10
+false,Wisconsin,38,Illinois State,0
+false,Louisiana,24,Southeastern Louisiana,7
+false,Ohio State,21,Notre Dame,10
+false,North Texas,10,SMU,48
+false,Mississippi State,49,Memphis,23
+false,South Carolina,35,Georgia State,14
+false,Alabama,55,Utah State,0
+false,Texas Tech,63,Murray State,10
+false,Stanford,41,Colgate,10
+false,Texas,52,Louisiana Monroe,10
+false,Syracuse,31,Louisville,7
+false,New Mexico,41,Maine,0
+false,Washington State,24,Idaho,17
+false,Washington,45,Kent State,20
+false,Oregon State,34,Boise State,17
+false,Hawai'i,17,Western Kentucky,49
+true,Florida State,24,LSU,23
+true,Georgia Tech,10,Clemson,41
+false,UCF,14,Louisville,20
+false,New Mexico,14,Boise State,31
+false,Arkansas,44,South Carolina,30
+false,Minnesota,62,Western Illinois,10
+false,Northwestern,23,Duke,31
+false,Georgia State,28,North Carolina,35
+false,Army,38,UT San Antonio,41
+false,Kansas State,40,Missouri,12
+false,Miami,30,Southern Mississippi,7
+false,Penn State,46,Ohio,10
+false,Vanderbilt,25,Wake Forest,45
+false,Texas,19,Alabama,20
+false,Ohio State,45,Arkansas State,12
+false,NC State,55,Charleston Southern,3
+false,Central Michigan,24,South Alabama,38
+false,Utah,73,Southern Utah,7
+false,Ball State,30,Western Michigan,37
+false,Temple,30,Lafayette,14
+false,Notre Dame,21,Marshall,26
+false,Wisconsin,14,Washington State,17
+false,Air Force,41,Colorado,10
+false,Navy,13,Memphis,37
+false,Charlotte,21,Maryland,56
+false,Pittsburgh,27,Tennessee,34
+false,Cincinnati,63,Kennesaw State,10
+false,Clemson,35,Furman,12
+false,Texas A&M,14,Appalachian State,17
+false,Purdue,56,Indiana State,0
+false,James Madison,63,Norfolk State,7
+false,Rutgers,66,Wagner,7
+false,Michigan State,52,Akron,0
+false,Georgia,33,Samford,0
+false,California,20,UNLV,14
+false,Texas Tech,33,Houston,30
+false,Iowa,7,Iowa State,10
+false,Illinois,24,Virginia,3
+false,Wyoming,33,Northern Colorado,10
+false,Washington,52,Portland State,6
+false,Bowling Green,57,Eastern Kentucky,59
+false,Colorado State,19,Middle Tennessee,34
+false,UCLA,45,Alabama State,7
+false,Nevada,41,Incarnate Word,55
+false,Miami (OH),31,Robert Morris,14
+false,West Virginia,42,Kansas,55
+false,Coastal Carolina,31,Gardner-Webb,27
+false,East Carolina,39,Old Dominion,21
+false,Buffalo,31,Holy Cross,37
+false,Liberty,21,UAB,14
+false,Florida Atlantic,42,Southeastern Louisiana,9
+false,Toledo,55,UMass,10
+false,Louisiana Tech,52,Stephen F. Austin,17
+false,Utah State,7,Weber State,35
+false,Florida,16,Kentucky,26
+false,Tulane,52,Alcorn State,0
+false,Texas State,41,Florida International,12
+false,South Florida,42,Howard,20
+false,SMU,45,Lamar,16
+false,Connecticut,14,Syracuse,48
+false,Georgia Tech,35,Western Carolina,17
+false,Oklahoma,33,Kent State,3
+false,Louisiana,49,Eastern Michigan,21
+false,Tulsa,38,Northern Illinois,35
+false,Troy,38,Alabama A&M,17
+false,Ole Miss,59,Central Arkansas,3
+false,Nebraska,42,Georgia Southern,45
+false,Oklahoma State,34,Arizona State,17
+false,North Texas,59,Texas Southern,27
+false,Rice,52,McNeese,10
+false,Auburn,24,San José State,16
+false,LSU,65,Southern,17
+false,Stanford,28,USC,41
+false,Michigan,56,Hawai'i,10
+false,San Diego State,38,Idaho State,7
+false,Virginia Tech,27,Boston College,10
+false,TCU,59,Tarleton State,17
+false,Indiana,35,Idaho,22
+false,Louisiana Monroe,35,Nicholls,7
+false,Oregon,70,Eastern Washington,14
+false,UTEP,20,New Mexico State,13
+false,BYU,26,Baylor,20
+false,Fresno State,32,Oregon State,35
+false,Arizona,17,Mississippi State,39
+false,Louisville,31,Florida State,35
+false,Wyoming,17,Air Force,14
+false,Virginia Tech,27,Wofford,7
+false,Syracuse,32,Purdue,29
+false,Kent State,63,Long Island University,10
+false,Army,49,Villanova,10
+false,Northwestern,24,Southern Illinois,31
+false,Missouri,34,Abilene Christian,17
+false,South Carolina,7,Georgia,48
+false,Michigan,59,Connecticut,0
+false,Baylor,42,Texas State,7
+true,Miami (OH),17,Cincinnati,38
+false,Indiana,33,Western Kentucky,30
+false,Nebraska,14,Oklahoma,49
+false,Kentucky,31,Youngstown State,0
+false,Central Michigan,41,Bucknell,0
+false,West Virginia,65,Towson,7
+false,Coastal Carolina,38,Buffalo,26
+false,Iowa State,43,Ohio,10
+false,UCLA,32,South Alabama,31
+false,Temple,14,Rutgers,16
+false,Virginia,16,Old Dominion,14
+false,Ball State,31,Murray State,0
+false,Notre Dame,24,California,17
+false,Kansas State,10,Tulane,17
+false,UNLV,58,North Texas,27
+false,Northern Illinois,28,Vanderbilt,38
+false,Georgia Tech,0,Ole Miss,42
+false,Appalachian State,32,Troy,28
+false,UAB,35,Georgia Southern,21
+false,Auburn,12,Penn State,41
+false,Wisconsin,66,New Mexico State,7
+false,UMass,20,Stony Brook,3
+false,Oregon,41,BYU,20
+false,Minnesota,49,Colorado,7
+false,Boise State,30,UT Martin,7
+false,Alabama,63,Louisiana Monroe,7
+false,Houston,30,Kansas,48
+false,Washington State,38,Colorado State,7
+false,Wake Forest,37,Liberty,36
+false,Bowling Green,34,Marshall,31
+false,LSU,31,Mississippi State,16
+false,East Carolina,49,Campbell,10
+false,Duke,49,North Carolina A&T,20
+false,Georgia State,41,Charlotte,42
+false,NC State,27,Texas Tech,14
+false,Ohio State,77,Toledo,21
+false,Memphis,44,Arkansas State,32
+false,Middle Tennessee,49,Tennessee State,6
+false,Oklahoma State,63,Arkansas-Pine Bluff,7
+false,Arkansas,38,Missouri State,27
+false,Tennessee,63,Akron,6
+false,Tulsa,54,Jacksonville State,17
+false,Southern Mississippi,64,Northwestern State,10
+false,Florida,31,South Florida,28
+false,Florida Atlantic,14,UCF,40
+false,Maryland,34,SMU,27
+false,Boston College,38,Maine,17
+false,Washington,39,Michigan State,28
+false,Western Michigan,13,Pittsburgh,34
+false,Iowa,27,Nevada,0
+false,Rice,33,Louisiana,21
+false,Texas,41,UT San Antonio,20
+false,Clemson,48,Louisiana Tech,20
+false,New Mexico,27,UTEP,10
+true,Oregon State,68,Montana State,28
+false,Texas A&M,17,Miami,9
+false,Utah,35,San Diego State,7
+false,USC,45,Fresno State,17
+false,Arizona State,21,Eastern Michigan,30
+false,Arizona,31,North Dakota State,28
+false,Hawai'i,24,Duquesne,14
+false,Georgia State,24,Coastal Carolina,41
+false,Virginia Tech,10,West Virginia,33
+false,Illinois,31,Chattanooga,0
+false,Syracuse,22,Virginia,20
+false,Air Force,48,Nevada,20
+false,UTEP,27,Boise State,10
+false,Michigan,34,Maryland,27
+false,Auburn,17,Missouri,14
+false,Mississippi State,45,Bowling Green,14
+false,SMU,34,TCU,42
+false,Eastern Michigan,31,Buffalo,50
+false,Georgia,39,Kent State,22
+false,Penn State,33,Central Michigan,14
+false,Iowa State,24,Baylor,31
+false,Wake Forest,45,Clemson,51
+false,Pittsburgh,45,Rhode Island,24
+false,Kansas,35,Duke,27
+false,Louisville,41,South Florida,3
+false,Temple,28,UMass,0
+false,Ohio,59,Fordham,52
+false,Colorado,17,UCLA,45
+false,Western Kentucky,73,Florida International,0
+false,San Diego State,17,Toledo,14
+false,Texas Tech,37,Texas,34
+false,Appalachian State,28,James Madison,32
+false,UT San Antonio,52,Texas Southern,24
+false,North Carolina,32,Notre Dame,45
+false,Michigan State,7,Minnesota,34
+false,Cincinnati,45,Indiana,24
+false,Miami,31,Middle Tennessee,45
+false,Tennessee,38,Florida,33
+false,Memphis,44,North Texas,34
+false,UCF,27,Georgia Tech,10
+false,Colorado State,10,Sacramento State,41
+false,Washington State,41,Oregon,44
+false,Ole Miss,35,Tulsa,27
+false,California,49,Arizona,31
+false,East Carolina,20,Navy,23
+false,Georgia Southern,34,Ball State,23
+false,Old Dominion,29,Arkansas State,26
+false,Liberty,21,Akron,12
+false,Houston,34,Rice,27
+false,Texas State,34,Houston Christian,0
+false,Tulane,24,Southern Mississippi,27
+false,Troy,16,Marshall,7
+false,Utah State,24,UNLV,34
+true,Texas A&M,23,Arkansas,21
+false,South Alabama,38,Louisiana Tech,14
+false,Kentucky,31,Northern Illinois,23
+false,Rutgers,10,Iowa,27
+false,Alabama,55,Vanderbilt,3
+false,NC State,41,Connecticut,10
+false,LSU,38,New Mexico,0
+false,Purdue,28,Florida Atlantic,26
+false,South Carolina,56,Charlotte,20
+false,Ohio State,52,Wisconsin,21
+false,Northwestern,14,Miami (OH),17
+false,Oklahoma,34,Kansas State,41
+false,Florida State,44,Boston College,14
+false,New Mexico State,45,Hawai'i,26
+false,Louisiana Monroe,21,Louisiana,17
+false,Oregon State,14,USC,17
+false,BYU,38,Wyoming,24
+false,San José State,34,Western Michigan,6
+false,Washington,40,Stanford,22
+false,Arizona State,13,Utah,34
+false,South Carolina,50,South Carolina State,10
+false,BYU,38,Utah State,26
+false,Houston,24,Tulane,27
+false,Middle Tennessee,30,UT San Antonio,45
+false,Boise State,35,San Diego State,13
+false,UCLA,40,Washington,32
+false,UNLV,31,New Mexico,20
+false,Wisconsin,10,Illinois,34
+false,Boston College,34,Louisville,33
+false,Minnesota,10,Purdue,20
+false,Ole Miss,22,Kentucky,19
+false,Iowa,14,Michigan,27
+false,TCU,55,Oklahoma,24
+false,Army,14,Georgia State,31
+false,Memphis,24,Temple,3
+false,Air Force,13,Navy,10
+false,Kansas State,37,Texas Tech,28
+false,James Madison,40,Texas State,13
+false,Eastern Michigan,20,UMass,13
+false,Ball State,44,Northern Illinois,38
+false,Utah,42,Oregon State,16
+true,South Florida,28,East Carolina,48
+false,Toledo,38,Central Michigan,17
+false,North Carolina,41,Virginia Tech,10
+false,Appalachian State,49,The Citadel,0
+false,Akron,28,Bowling Green,31
+false,Connecticut,19,Fresno State,14
+false,Florida State,21,Wake Forest,31
+false,Maryland,27,Michigan State,13
+false,Ohio State,49,Rutgers,10
+false,Buffalo,24,Miami (OH),20
+false,Arkansas,26,Alabama,49
+false,Kansas,14,Iowa State,11
+false,Penn State,17,Northwestern,7
+false,Marshall,28,Gardner-Webb,7
+false,Kent State,31,Ohio,24
+false,Baylor,25,Oklahoma State,36
+false,Mississippi State,42,Texas A&M,24
+false,North Texas,45,Florida Atlantic,28
+false,Syracuse,59,Wagner,0
+false,Louisiana,17,South Alabama,20
+false,Washington State,28,California,9
+false,Old Dominion,24,Liberty,38
+false,Western Michigan,44,New Hampshire,7
+false,Charlotte,35,UTEP,41
+false,Coastal Carolina,34,Georgia Southern,30
+false,Auburn,17,LSU,21
+false,Tulsa,21,Cincinnati,31
+false,Western Kentucky,27,Troy,34
+false,Arkansas State,45,Louisiana Monroe,28
+false,Missouri,22,Georgia,26
+false,Nebraska,35,Indiana,21
+false,Wyoming,16,San José State,33
+false,Clemson,30,NC State,20
+false,Texas,38,West Virginia,20
+false,Rice,28,UAB,24
+false,Duke,38,Virginia,17
+false,New Mexico State,7,Florida International,21
+false,Pittsburgh,21,Georgia Tech,26
+false,Arizona,43,Colorado,20
+false,USC,42,Arizona State,25
+false,Oregon,45,Stanford,27
+false,Florida,52,Eastern Washington,17
+false,UCF,41,SMU,19
+false,Rutgers,13,Nebraska,14
+false,Memphis,32,Houston,33
+false,San José State,40,UNLV,7
+false,Nevada,14,Colorado State,17
+false,Bowling Green,7,Buffalo,38
+false,Maryland,29,Purdue,31
+false,Kansas,31,TCU,38
+false,Indiana,10,Michigan,31
+true,Oklahoma,0,Texas,49
+false,Florida,24,Missouri,17
+false,LSU,13,Tennessee,40
+false,Mississippi State,40,Arkansas,17
+false,Western Michigan,23,Eastern Michigan,45
+false,Virginia,17,Louisville,34
+false,Ohio,55,Akron,34
+false,Georgia State,41,Georgia Southern,33
+false,Cincinnati,28,South Florida,24
+false,UCLA,42,Utah,32
+false,Northwestern,7,Wisconsin,42
+false,Tulane,24,East Carolina,9
+false,Georgia,42,Auburn,10
+false,Oklahoma State,41,Texas Tech,31
+false,Navy,53,Tulsa,21
+false,UMass,24,Liberty,42
+false,Pittsburgh,45,Virginia Tech,29
+false,Miami (OH),27,Kent State,24
+false,UAB,41,Middle Tennessee,14
+false,Central Michigan,16,Ball State,17
+false,Northern Illinois,32,Toledo,52
+false,Vanderbilt,28,Ole Miss,52
+false,Miami,24,North Carolina,27
+false,Arizona State,45,Washington,38
+false,Michigan State,20,Ohio State,49
+false,Georgia Tech,23,Duke,20
+false,UT San Antonio,31,Western Kentucky,28
+false,New Mexico,14,Wyoming,27
+false,Troy,27,Southern Mississippi,10
+false,Utah State,34,Air Force,27
+false,Texas State,36,Appalachian State,24
+false,Louisiana Tech,41,UTEP,31
+false,Florida International,12,Connecticut,33
+false,Arkansas State,20,James Madison,42
+false,Kentucky,14,South Carolina,24
+false,Iowa State,9,Kansas State,10
+false,Boston College,3,Clemson,31
+false,Illinois,9,Iowa,6
+false,Wake Forest,45,Army,10
+false,USC,30,Washington State,14
+true,Notre Dame,28,BYU,20
+false,NC State,19,Florida State,17
+false,Alabama,24,Texas A&M,20
+false,Louisiana Monroe,21,Coastal Carolina,28
+false,Arizona,22,Oregon,49
+false,Boise State,40,Fresno State,20
+false,San Diego State,16,Hawai'i,14
+false,Stanford,27,Oregon State,28
+false,Marshall,13,Louisiana,23
+false,West Virginia,43,Baylor,40
+false,UCF,70,Temple,13
+false,SMU,40,Navy,34
+false,Florida International,10,UT San Antonio,30
+false,Illinois,26,Minnesota,14
+false,Akron,21,Central Michigan,28
+false,Bowling Green,17,Miami (OH),13
+false,Ole Miss,48,Auburn,34
+false,Coastal Carolina,21,Old Dominion,49
+false,Army,42,Colgate,17
+false,Oklahoma,52,Kansas,42
+false,Texas,24,Iowa State,21
+false,Michigan,41,Penn State,17
+false,Virginia Tech,14,Miami,20
+false,UMass,7,Buffalo,34
+false,Colorado,20,California,13
+false,Ball State,25,Connecticut,21
+false,Tennessee,52,Alabama,49
+false,Georgia,55,Vanderbilt,0
+false,Toledo,52,Kent State,31
+false,Eastern Michigan,10,Northern Illinois,39
+false,Syracuse,24,NC State,9
+false,Indiana,33,Maryland,38
+false,TCU,43,Oklahoma State,40
+false,BYU,35,Arkansas,52
+false,Middle Tennessee,17,Western Kentucky,35
+false,Troy,17,Texas State,14
+false,UAB,34,Charlotte,20
+false,Western Michigan,14,Ohio,33
+false,Liberty,21,Gardner-Webb,20
+false,Michigan State,34,Wisconsin,28
+false,South Florida,31,Tulane,45
+false,Georgia Southern,45,James Madison,38
+false,North Texas,47,Louisiana Tech,27
+false,Washington,49,Arizona,39
+false,Florida Atlantic,17,Rice,14
+false,South Alabama,41,Louisiana Monroe,34
+false,Florida,35,LSU,45
+false,Colorado State,13,Utah State,17
+false,Southern Mississippi,20,Arkansas State,19
+false,Purdue,43,Nebraska,37
+false,Kentucky,27,Mississippi State,17
+false,East Carolina,47,Memphis,45
+false,Notre Dame,14,Stanford,16
+false,Florida State,28,Clemson,34
+false,Utah,43,USC,42
+false,New Mexico State,21,New Mexico,9
+false,Duke,35,North Carolina,38
+false,Oregon State,24,Washington State,10
+false,UNLV,7,Air Force,42
+false,Fresno State,17,San José State,10
+false,Hawai'i,31,Nevada,16
+false,Appalachian State,42,Georgia State,17
+false,South Alabama,6,Troy,10
+false,Georgia Tech,9,Virginia,16
+false,Temple,16,Tulsa,27
+false,Western Kentucky,20,UAB,17
+false,Kent State,33,Akron,27
+false,Rutgers,24,Indiana,17
+false,Tennessee,65,UT Martin,24
+false,Army,48,Louisiana Monroe,24
+false,Navy,20,Houston,38
+false,Baylor,35,Kansas,23
+false,SMU,27,Cincinnati,29
+false,Clemson,27,Syracuse,21
+false,Ohio State,54,Iowa,10
+false,Miami,21,Duke,45
+false,Central Michigan,18,Bowling Green,34
+false,Buffalo,34,Toledo,27
+false,Ball State,16,Eastern Michigan,20
+false,Ohio,24,Northern Illinois,17
+false,Notre Dame,44,UNLV,21
+false,Texas Tech,48,West Virginia,10
+false,Louisiana Tech,41,Rice,42
+false,Oklahoma State,41,Texas,34
+false,Old Dominion,23,Georgia Southern,28
+false,Tulane,38,Memphis,28
+false,Wake Forest,43,Boston College,15
+false,Maryland,31,Northwestern,24
+false,Wisconsin,35,Purdue,24
+false,Oregon,45,UCLA,30
+false,LSU,45,Ole Miss,20
+false,UT San Antonio,31,North Texas,27
+false,Charlotte,15,Florida International,34
+false,Miami (OH),10,Western Michigan,16
+false,James Madison,12,Marshall,26
+false,Liberty,41,BYU,14
+false,Stanford,15,Arizona State,14
+false,Missouri,17,Vanderbilt,14
+false,UTEP,24,Florida Atlantic,21
+false,Colorado State,17,Hawai'i,13
+false,Louisiana,38,Arkansas State,18
+false,Texas State,14,Southern Mississippi,20
+false,New Mexico State,,San José State,
+false,New Mexico,9,Fresno State,41
+false,Air Force,14,Boise State,19
+false,Alabama,30,Mississippi State,6
+false,South Carolina,30,Texas A&M,24
+false,Penn State,45,Minnesota,17
+false,East Carolina,34,UCF,13
+false,TCU,38,Kansas State,28
+false,Louisville,24,Pittsburgh,10
+false,Oregon State,42,Colorado,9
+false,Wyoming,28,Utah State,14
+false,California,21,Washington,28
+false,Nevada,7,San Diego State,23
+false,Southern Mississippi,39,Louisiana,24
+false,NC State,22,Virginia Tech,21
+false,Washington State,17,Utah,21
+false,BYU,24,East Carolina,27
+false,Florida International,42,Louisiana Tech,34
+false,Auburn,27,Arkansas,41
+false,Connecticut,13,Boston College,3
+false,Syracuse,24,Notre Dame,41
+false,Iowa State,13,Oklahoma,27
+false,Florida State,41,Georgia Tech,16
+false,West Virginia,31,TCU,41
+false,Akron,9,Miami (OH),27
+false,Houston,42,South Florida,27
+false,Eastern Michigan,24,Toledo,27
+false,Penn State,31,Ohio State,44
+false,Virginia,12,Miami,14
+false,Rice,23,Charlotte,56
+false,Minnesota,31,Rutgers,0
+false,Georgia State,31,Old Dominion,17
+false,Louisville,48,Wake Forest,21
+true,Georgia,42,Florida,20
+false,California,24,Oregon,42
+false,Kansas State,48,Oklahoma State,0
+false,UCF,25,Cincinnati,21
+false,Tulsa,34,SMU,45
+false,Appalachian State,42,Robert Morris,3
+false,Navy,27,Temple,20
+false,Western Kentucky,13,North Texas,40
+false,Iowa,33,Northwestern,13
+false,Nebraska,9,Illinois,26
+false,UMass,13,New Mexico State,23
+false,South Carolina,10,Missouri,23
+false,Arkansas State,3,South Alabama,31
+false,Florida Atlantic,24,UAB,17
+false,Arizona,37,USC,45
+false,Boise State,49,Colorado State,10
+false,Marshall,13,Coastal Carolina,24
+false,Tennessee,44,Kentucky,6
+false,Texas A&M,28,Ole Miss,31
+false,Michigan,29,Michigan State,7
+false,Texas Tech,17,Baylor,45
+false,Colorado,34,Arizona State,42
+false,North Carolina,42,Pittsburgh,24
+false,UTEP,13,Middle Tennessee,24
+false,UCLA,38,Stanford,13
+false,San José State,35,Nevada,28
+false,Fresno State,32,San Diego State,28
+false,Hawai'i,20,Wyoming,27
+false,Kent State,20,Ball State,27
+false,Ohio,45,Buffalo,24
+false,Northern Illinois,22,Central Michigan,35
+false,Bowling Green,13,Western Michigan,9
+false,Rice,37,UTEP,30
+false,Coastal Carolina,35,Appalachian State,28
+false,Connecticut,27,UMass,10
+false,Boston College,31,Duke,38
+false,Washington,24,Oregon State,21
+true,Army,7,Air Force,13
+false,Wisconsin,23,Maryland,10
+false,Purdue,3,Iowa,24
+false,Charlotte,7,Western Kentucky,59
+false,Missouri,17,Kentucky,21
+false,Texas A&M,24,Florida,41
+false,TCU,34,Texas Tech,24
+false,Tulsa,13,Tulane,27
+false,Northwestern,7,Ohio State,21
+false,Nebraska,13,Minnesota,20
+false,Virginia,28,North Carolina,31
+false,Virginia Tech,27,Georgia Tech,28
+false,Temple,54,South Florida,28
+false,Old Dominion,0,Marshall,12
+false,Oklahoma,35,Baylor,38
+false,Louisiana Tech,40,Middle Tennessee,24
+false,Southern Mississippi,14,Georgia State,42
+false,Indiana,14,Penn State,45
+false,Utah State,27,New Mexico,10
+false,Georgia,27,Tennessee,13
+false,Pittsburgh,19,Syracuse,9
+false,UAB,38,UT San Antonio,44
+false,Kansas,37,Oklahoma State,16
+false,Colorado,10,Oregon,49
+false,Stanford,14,Washington State,52
+false,Iowa State,31,West Virginia,14
+false,Memphis,28,UCF,35
+false,Illinois,15,Michigan State,23
+false,Georgia Southern,31,South Alabama,38
+false,North Texas,52,Florida International,14
+false,Cincinnati,20,Navy,10
+false,Arkansas,19,Liberty,21
+false,Louisiana,17,Troy,23
+false,Louisiana Monroe,31,Texas State,30
+false,San Diego State,14,UNLV,10
+false,SMU,77,Houston,63
+false,Boise State,28,BYU,31
+false,LSU,32,Alabama,31
+false,Kansas State,27,Texas,34
+false,Vanderbilt,27,South Carolina,38
+false,Mississippi State,39,Auburn,33
+false,Utah,45,Arizona,20
+false,Louisville,34,James Madison,10
+false,Miami,3,Florida State,45
+false,Rutgers,17,Michigan,52
+false,Notre Dame,35,Clemson,14
+false,NC State,30,Wake Forest,21
+false,Fresno State,55,Hawai'i,13
+false,San José State,28,Colorado State,16
+false,Arizona State,36,UCLA,50
+false,USC,41,California,35
+false,Akron,28,Eastern Michigan,34
+false,Miami (OH),21,Ohio,37
+false,Toledo,28,Ball State,21
+false,Bowling Green,6,Kent State,40
+false,Western Michigan,21,Northern Illinois,24
+false,Central Michigan,31,Buffalo,27
+false,Louisiana,36,Georgia Southern,17
+false,Memphis,26,Tulsa,10
+false,Cincinnati,27,East Carolina,25
+false,USC,55,Colorado,17
+false,UNLV,30,Fresno State,37
+false,West Virginia,23,Oklahoma,20
+false,Duke,24,Virginia Tech,7
+false,Illinois,24,Purdue,31
+false,South Florida,23,SMU,41
+false,Ohio State,56,Indiana,14
+false,Michigan State,27,Rutgers,21
+true,Navy,32,Notre Dame,35
+false,Virginia,7,Pittsburgh,37
+false,Tennessee,66,Missouri,24
+false,Arkansas,10,LSU,13
+false,Kentucky,21,Vanderbilt,24
+false,Connecticut,36,Liberty,33
+false,Georgia State,28,Louisiana Monroe,31
+false,Old Dominion,3,James Madison,37
+false,New Mexico State,51,Lamar,14
+false,Western Kentucky,45,Rice,10
+false,Houston,43,Temple,36
+false,Arkansas State,35,UMass,33
+false,Troy,10,Army,9
+false,Air Force,35,New Mexico,3
+false,Penn State,30,Maryland,0
+false,Ole Miss,24,Alabama,30
+false,UAB,41,North Texas,21
+false,Tulane,31,UCF,38
+false,Middle Tennessee,24,Charlotte,14
+false,NC State,20,Boston College,21
+false,Minnesota,31,Northwestern,3
+false,Washington State,28,Arizona State,18
+false,Marshall,28,Appalachian State,21
+false,Georgia Tech,14,Miami,35
+false,Oklahoma State,20,Iowa State,14
+false,Clemson,31,Louisville,16
+false,UT San Antonio,51,Louisiana Tech,7
+false,Iowa,24,Wisconsin,10
+false,Michigan,34,Nebraska,3
+false,Florida,38,South Carolina,6
+false,South Alabama,38,Texas State,21
+false,Mississippi State,19,Georgia,45
+false,Baylor,3,Kansas State,31
+false,Colorado State,13,Wyoming,14
+false,Oregon,34,Washington,37
+false,Texas Tech,43,Kansas,28
+false,Florida International,7,Florida Atlantic,52
+false,Coastal Carolina,26,Southern Mississippi,23
+false,Wake Forest,34,North Carolina,36
+false,Texas,10,TCU,17
+false,Auburn,13,Texas A&M,10
+false,Syracuse,3,Florida State,38
+false,Oregon State,38,California,10
+false,Utah,42,Stanford,7
+false,UCLA,28,Arizona,34
+false,Nevada,3,Boise State,41
+false,San Diego State,43,San José State,27
+false,Hawai'i,34,Utah State,41
+false,Toledo,35,Bowling Green,42
+false,Ball State,18,Ohio,32
+false,Kent State,24,Eastern Michigan,31
+false,Northern Illinois,23,Miami (OH),29
+false,Central Michigan,10,Western Michigan,12
+false,Tulane,59,SMU,24
+false,Tulsa,48,South Florida,42
+false,New Mexico,10,San Diego State,34
+false,UCF,14,Navy,17
+false,Michigan,19,Illinois,17
+false,Texas A&M,20,UMass,3
+false,Florida State,49,Louisiana,17
+false,Liberty,22,Virginia Tech,23
+false,Army,34,Connecticut,17
+false,Nebraska,14,Wisconsin,15
+false,Alabama,34,Austin Peay,0
+false,Mississippi State,56,East Tennessee State,7
+false,Pittsburgh,28,Duke,26
+false,Michigan State,31,Indiana,39
+false,Purdue,17,Northwestern,9
+false,Baylor,28,TCU,29
+false,Vanderbilt,31,Florida,24
+false,Rice,7,UT San Antonio,41
+false,East Carolina,3,Houston,42
+false,Memphis,59,North Alabama,0
+false,James Madison,42,Georgia State,40
+false,West Virginia,31,Kansas State,48
+false,Arizona,20,Washington State,31
+false,Arizona State,7,Oregon State,31
+false,Appalachian State,27,Old Dominion,14
+false,Notre Dame,44,Boston College,0
+false,Troy,34,Louisiana Monroe,16
+false,Charlotte,26,Louisiana Tech,21
+false,Rutgers,10,Penn State,55
+false,Southern Mississippi,20,South Alabama,27
+false,Maryland,30,Ohio State,43
+false,BYU,52,Utah Tech,26
+false,Virginia,,Coastal Carolina,
+false,Clemson,40,Miami,10
+false,Kentucky,6,Georgia,16
+false,Kansas,14,Texas,55
+false,Buffalo,0,Akron,0
+false,Middle Tennessee,49,Florida Atlantic,21
+false,Louisville,25,NC State,10
+false,Auburn,41,Western Kentucky,17
+false,Temple,3,Cincinnati,23
+false,UTEP,40,Florida International,6
+false,Minnesota,10,Iowa,13
+false,Texas State,16,Arkansas State,13
+false,California,27,Stanford,20
+false,North Carolina,17,Georgia Tech,21
+false,Georgia Southern,10,Marshall,23
+false,Iowa State,10,Texas Tech,14
+false,Wyoming,17,Boise State,20
+false,South Carolina,63,Tennessee,38
+false,Arkansas,42,Ole Miss,27
+false,Missouri,45,New Mexico State,14
+false,Oklahoma,28,Oklahoma State,13
+false,UCLA,45,USC,48
+false,Wake Forest,45,Syracuse,35
+false,Washington,54,Colorado,7
+false,Air Force,24,Colorado State,12
+false,LSU,41,UAB,10
+false,Utah State,35,San José State,31
+false,Nevada,14,Fresno State,41
+false,Oregon,20,Utah,17
+false,Hawai'i,31,UNLV,25
+false,Miami (OH),18,Ball State,17
+false,Ohio,38,Bowling Green,14
+false,Ole Miss,22,Mississippi State,24
+false,Boise State,42,Utah State,23
+false,Eastern Michigan,38,Central Michigan,19
+false,Cincinnati,24,Tulane,27
+false,Western Michigan,20,Toledo,14
+false,Texas,38,Baylor,27
+false,Arizona,38,Arizona State,35
+false,North Carolina,27,NC State,30
+false,Colorado State,17,New Mexico,0
+false,Missouri,29,Arkansas,27
+false,Iowa,17,Nebraska,24
+false,California,28,UCLA,35
+false,Florida State,45,Florida,38
+false,Fresno State,30,Wyoming,0
+false,Virginia Tech,,Virginia,
+false,Marshall,28,Georgia State,23
+false,Liberty,14,New Mexico State,49
+false,Florida Atlantic,31,Western Kentucky,32
+false,Georgia,37,Georgia Tech,14
+false,Ohio State,23,Michigan,45
+false,Clemson,30,South Carolina,31
+false,Maryland,37,Rutgers,0
+false,Oklahoma State,19,West Virginia,24
+false,James Madison,47,Coastal Carolina,7
+false,South Alabama,27,Old Dominion,20
+false,UMass,7,Army,44
+false,Temple,46,East Carolina,49
+false,Buffalo,27,Kent State,30
+false,Northern Illinois,12,Akron,44
+false,North Texas,21,Rice,17
+false,Kentucky,26,Louisville,13
+false,Louisiana Tech,27,UAB,37
+false,Oregon State,38,Oregon,34
+false,Arkansas State,19,Troy,48
+false,Wisconsin,16,Minnesota,23
+false,San José State,27,Hawai'i,14
+false,UT San Antonio,34,UTEP,31
+false,Indiana,16,Purdue,30
+false,Duke,34,Wake Forest,31
+false,Alabama,49,Auburn,27
+false,SMU,34,Memphis,31
+false,Northwestern,3,Illinois,41
+false,TCU,62,Iowa State,14
+false,Penn State,35,Michigan State,16
+false,Colorado,21,Utah,63
+false,Louisiana Monroe,10,Southern Mississippi,20
+false,Texas State,13,Louisiana,41
+false,Florida International,28,Middle Tennessee,33
+false,UNLV,27,Nevada,22
+false,Georgia Southern,51,Appalachian State,48
+false,Texas A&M,38,LSU,23
+false,South Florida,39,UCF,46
+false,Texas Tech,51,Oklahoma,48
+false,Houston,30,Tulsa,37
+false,Boston College,23,Syracuse,32
+false,Vanderbilt,0,Tennessee,56
+false,USC,38,Notre Dame,27
+false,Kansas State,47,Kansas,27
+false,Miami,16,Pittsburgh,42
+false,San Diego State,3,Air Force,13
+false,Washington State,33,Washington,51
+false,Stanford,26,BYU,35
+false,Buffalo,23,Akron,22
+false,UT San Antonio,48,North Texas,27
+true,USC,24,Utah,47
+true,Ohio,7,Toledo,17
+true,TCU,28,Kansas State,31
+false,New Mexico State,65,Valparaiso,3
+false,Troy,45,Coastal Carolina,26
+false,Tulane,45,UCF,28
+false,Boise State,16,Fresno State,28
+true,Georgia,50,LSU,30
+true,North Carolina,10,Clemson,39
+true,Michigan,43,Purdue,22
+true,Army,20,Navy,17

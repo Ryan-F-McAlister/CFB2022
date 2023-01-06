@@ -1,0 +1,4193 @@
+﻿season,team,conference,statName,statValue
+2022,BYU,FBS Independents,tacklesForLoss,46
+2022,Miami (OH),Mid-American,penaltyYards,577
+2022,Purdue,Big Ten,possessionTime,25022
+2022,Missouri,SEC,kickReturnTDs,0
+2022,Troy,Sun Belt,firstDowns,256
+2022,Kansas State,Big 12,interceptions,4
+2022,Ohio,Mid-American,thirdDownConversions,72
+2022,Texas Tech,Big 12,penalties,71
+2022,Troy,Sun Belt,penaltyYards,678
+2022,Colorado,Pac-12,tacklesForLoss,49
+2022,Central Michigan,Mid-American,rushingAttempts,444
+2022,Boise State,Mountain West,fumblesRecovered,6
+2022,Mississippi State,SEC,fourthDowns,28
+2022,Florida International,Conference USA,kickReturnYards,712
+2022,San José State,Mountain West,puntReturnYards,39
+2022,Nevada,Mountain West,interceptionTDs,1
+2022,Florida State,ACC,possessionTime,22442
+2022,Nevada,Mountain West,kickReturnYards,636
+2022,Toledo,Mid-American,netPassingYards,2966
+2022,Oklahoma State,Big 12,fumblesRecovered,5
+2022,Colorado State,Mountain West,turnovers,19
+2022,UCLA,Pac-12,kickReturnTDs,0
+2022,Northern Illinois,Mid-American,kickReturns,26
+2022,Pittsburgh,ACC,interceptionYards,202
+2022,North Carolina,ACC,interceptionYards,67
+2022,Miami (OH),Mid-American,possessionTime,21817
+2022,Wyoming,Mountain West,games,12
+2022,Arkansas,SEC,fourthDownConversions,9
+2022,South Alabama,Sun Belt,fourthDownConversions,17
+2022,Utah State,Mountain West,passCompletions,215
+2022,Virginia Tech,ACC,interceptionTDs,1
+2022,Georgia State,Sun Belt,games,12
+2022,Missouri,SEC,games,12
+2022,Marshall,Sun Belt,rushingTDs,19
+2022,Georgia State,Sun Belt,passesIntercepted,13
+2022,Oklahoma,Big 12,games,12
+2022,Texas,Big 12,firstDowns,277
+2022,Washington State,Pac-12,puntReturnYards,206
+2022,Washington,Pac-12,rushingTDs,32
+2022,Rutgers,Big Ten,fumblesRecovered,8
+2022,Akron,Mid-American,possessionTime,19937
+2022,Indiana,Big Ten,possessionTime,18459
+2022,San José State,Mountain West,netPassingYards,2895
+2022,Colorado,Pac-12,penalties,64
+2022,Oklahoma State,Big 12,rushingAttempts,450
+2022,Utah,Pac-12,passAttempts,406
+2022,Stanford,Pac-12,kickReturnTDs,0
+2022,Michigan State,Big Ten,passAttempts,412
+2022,Oregon State,Pac-12,turnovers,18
+2022,Washington State,Pac-12,turnovers,16
+2022,Maryland,Big Ten,interceptions,6
+2022,Central Michigan,Mid-American,rushingTDs,22
+2022,Texas A&M,SEC,passCompletions,220
+2022,San Diego State,Mountain West,passesIntercepted,12
+2022,New Mexico State,FBS Independents,tacklesForLoss,70
+2022,South Carolina,SEC,fourthDowns,20
+2022,Arkansas State,Sun Belt,rushingAttempts,381
+2022,Akron,Mid-American,puntReturnYards,88
+2022,Middle Tennessee,Conference USA,fourthDownConversions,20
+2022,Hawai'i,Mountain West,interceptionYards,124
+2022,Ball State,Mid-American,rushingYards,1893
+2022,Penn State,Big Ten,thirdDowns,167
+2022,SMU,American Athletic,sacks,26
+2022,North Texas,Conference USA,games,13
+2022,Florida,SEC,passesIntercepted,9
+2022,SMU,American Athletic,penalties,53
+2022,Southern Mississippi,Sun Belt,sacks,39
+2022,Kansas,Big 12,interceptionTDs,1
+2022,Southern Mississippi,Sun Belt,thirdDownConversions,58
+2022,Temple,American Athletic,games,12
+2022,Washington State,Pac-12,tacklesForLoss,75
+2022,Baylor,Big 12,kickReturnYards,497
+2022,Memphis,American Athletic,penalties,48
+2022,SMU,American Athletic,fumblesRecovered,12
+2022,Arkansas State,Sun Belt,passAttempts,396
+2022,Clemson,ACC,interceptions,8
+2022,Arizona,Pac-12,netPassingYards,3821
+2022,Fresno State,Mountain West,interceptionYards,140
+2022,BYU,FBS Independents,thirdDownConversions,66
+2022,Bowling Green,Mid-American,passingTDs,24
+2022,Wisconsin,Big Ten,passesIntercepted,15
+2022,Baylor,Big 12,interceptionYards,87
+2022,Middle Tennessee,Conference USA,rushingTDs,20
+2022,Texas Tech,Big 12,passesIntercepted,7
+2022,Ball State,Mid-American,puntReturnTDs,0
+2022,Appalachian State,Sun Belt,possessionTime,22029
+2022,Washington,Pac-12,netPassingYards,4520
+2022,Akron,Mid-American,interceptionYards,119
+2022,Akron,Mid-American,games,13
+2022,Michigan,Big Ten,passingTDs,22
+2022,Illinois,Big Ten,puntReturns,21
+2022,Indiana,Big Ten,tacklesForLoss,63
+2022,UTEP,Conference USA,puntReturnTDs,1
+2022,Oklahoma,Big 12,thirdDownConversions,71
+2022,San Diego State,Mountain West,interceptionYards,34
+2022,Oklahoma State,Big 12,thirdDowns,190
+2022,USC,Pac-12,thirdDownConversions,80
+2022,Georgia Tech,ACC,passCompletions,219
+2022,Iowa State,Big 12,fourthDowns,27
+2022,Virginia Tech,ACC,possessionTime,19239
+2022,Vanderbilt,SEC,thirdDowns,171
+2022,Auburn,SEC,penalties,90
+2022,Georgia,SEC,puntReturns,21
+2022,Louisiana,Sun Belt,firstDowns,234
+2022,Kentucky,SEC,interceptionTDs,1
+2022,Marshall,Sun Belt,kickReturnYards,331
+2022,Virginia Tech,ACC,tacklesForLoss,74
+2022,Akron,Mid-American,sacks,18
+2022,Old Dominion,Sun Belt,passesIntercepted,12
+2022,North Texas,Conference USA,penalties,67
+2022,Illinois,Big Ten,penalties,80
+2022,Notre Dame,FBS Independents,penaltyYards,510
+2022,Virginia Tech,ACC,thirdDownConversions,50
+2022,Toledo,Mid-American,passAttempts,411
+2022,Stanford,Pac-12,turnovers,21
+2022,Wake Forest,ACC,turnovers,18
+2022,Utah State,Mountain West,kickReturnTDs,1
+2022,Auburn,SEC,fourthDownConversions,13
+2022,Washington,Pac-12,firstDowns,329
+2022,Charlotte,Conference USA,rushingAttempts,371
+2022,Indiana,Big Ten,kickReturns,31
+2022,Cincinnati,American Athletic,penaltyYards,812
+2022,Virginia Tech,ACC,sacks,23
+2022,South Alabama,Sun Belt,interceptionTDs,2
+2022,North Carolina,ACC,fumblesLost,7
+2022,Western Kentucky,Conference USA,kickReturnTDs,0
+2022,Louisiana,Sun Belt,rushingYards,1744
+2022,Miami,ACC,games,12
+2022,Eastern Michigan,Mid-American,games,12
+2022,Cincinnati,American Athletic,sacks,34
+2022,Texas,Big 12,interceptionYards,167
+2022,Marshall,Sun Belt,kickReturns,17
+2022,Temple,American Athletic,thirdDownConversions,57
+2022,Georgia State,Sun Belt,fourthDownConversions,15
+2022,Houston,American Athletic,interceptions,10
+2022,UT San Antonio,Conference USA,puntReturnYards,59
+2022,Kansas State,Big 12,games,13
+2022,Oregon State,Pac-12,passCompletions,184
+2022,Old Dominion,Sun Belt,rushingTDs,8
+2022,Baylor,Big 12,fourthDownConversions,27
+2022,Fresno State,Mountain West,totalYards,5135
+2022,Rice,Conference USA,possessionTime,23639
+2022,UCLA,Pac-12,interceptionYards,130
+2022,UTEP,Conference USA,games,12
+2022,Baylor,Big 12,penalties,57
+2022,Wisconsin,Big Ten,games,12
+2022,USC,Pac-12,turnovers,6
+2022,Florida Atlantic,Conference USA,passingTDs,25
+2022,Navy,American Athletic,passesIntercepted,8
+2022,Clemson,ACC,possessionTime,24031
+2022,Western Kentucky,Conference USA,totalYards,6287
+2022,Buffalo,Mid-American,passesIntercepted,10
+2022,Tulsa,American Athletic,fourthDownConversions,11
+2022,San José State,Mountain West,rushingAttempts,318
+2022,Ohio,Mid-American,sacks,33
+2022,West Virginia,Big 12,totalYards,4778
+2022,Georgia Southern,Sun Belt,totalYards,5621
+2022,Mississippi State,SEC,puntReturnTDs,1
+2022,Boise State,Mountain West,passCompletions,216
+2022,Georgia Southern,Sun Belt,fourthDownConversions,12
+2022,Fresno State,Mountain West,thirdDowns,165
+2022,Georgia State,Sun Belt,thirdDowns,182
+2022,Washington,Pac-12,kickReturnYards,475
+2022,New Mexico State,FBS Independents,games,13
+2022,Arizona State,Pac-12,puntReturnTDs,0
+2022,South Florida,American Athletic,turnovers,20
+2022,UTEP,Conference USA,interceptionYards,4
+2022,UCF,American Athletic,tacklesForLoss,70
+2022,UAB,Conference USA,rushingYards,2918
+2022,Bowling Green,Mid-American,fumblesLost,11
+2022,Cincinnati,American Athletic,fourthDownConversions,12
+2022,Arkansas State,Sun Belt,passingTDs,16
+2022,Georgia State,Sun Belt,kickReturnTDs,0
+2022,Oklahoma,Big 12,kickReturnYards,481
+2022,Oregon,Pac-12,fumblesLost,3
+2022,Boise State,Mountain West,thirdDownConversions,71
+2022,North Texas,Conference USA,kickReturnTDs,1
+2022,Tulsa,American Athletic,passingTDs,27
+2022,USC,Pac-12,interceptionYards,339
+2022,Michigan,Big Ten,puntReturnYards,265
+2022,Florida,SEC,rushingTDs,29
+2022,Akron,Mid-American,passAttempts,457
+2022,Rice,Conference USA,thirdDownConversions,67
+2022,Auburn,SEC,passingTDs,9
+2022,Hawai'i,Mountain West,interceptions,12
+2022,Illinois,Big Ten,thirdDownConversions,68
+2022,Louisiana Tech,Conference USA,totalYards,4712
+2022,Tennessee,SEC,rushingYards,2469
+2022,UNLV,Mountain West,passesIntercepted,15
+2022,Boston College,ACC,fourthDownConversions,8
+2022,Ball State,Mid-American,interceptionTDs,0
+2022,USC,Pac-12,kickReturns,30
+2022,Navy,American Athletic,passingTDs,9
+2022,NC State,ACC,games,12
+2022,Baylor,Big 12,rushingTDs,34
+2022,TCU,Big 12,netPassingYards,3549
+2022,Eastern Michigan,Mid-American,rushingAttempts,462
+2022,Hawai'i,Mountain West,puntReturnYards,52
+2022,Florida,SEC,passingTDs,18
+2022,Marshall,Sun Belt,games,12
+2022,Washington State,Pac-12,passingTDs,24
+2022,Washington State,Pac-12,fumblesRecovered,16
+2022,Kentucky,SEC,passingTDs,21
+2022,Wisconsin,Big Ten,puntReturnYards,105
+2022,Syracuse,ACC,penaltyYards,777
+2022,Illinois,Big Ten,fourthDownConversions,12
+2022,Appalachian State,Sun Belt,kickReturnTDs,1
+2022,Liberty,FBS Independents,kickReturnYards,741
+2022,Ball State,Mid-American,games,12
+2022,Wisconsin,Big Ten,sacks,31
+2022,Clemson,ACC,rushingYards,2333
+2022,UCLA,Pac-12,passingTDs,27
+2022,Arkansas State,Sun Belt,interceptionTDs,1
+2022,South Alabama,Sun Belt,interceptions,10
+2022,Syracuse,ACC,fumblesLost,4
+2022,Middle Tennessee,Conference USA,interceptionYards,232
+2022,Nebraska,Big Ten,rushingTDs,17
+2022,Arkansas,SEC,interceptionTDs,0
+2022,Virginia,ACC,penalties,70
+2022,Southern Mississippi,Sun Belt,firstDowns,211
+2022,Utah,Pac-12,fourthDowns,27
+2022,Air Force,Mountain West,kickReturns,4
+2022,Western Kentucky,Conference USA,tacklesForLoss,63
+2022,Texas State,Sun Belt,puntReturnTDs,0
+2022,UTEP,Conference USA,totalYards,4631
+2022,North Texas,Conference USA,fumblesRecovered,11
+2022,Notre Dame,FBS Independents,interceptions,8
+2022,Boise State,Mountain West,fourthDownConversions,9
+2022,Florida,SEC,netPassingYards,2730
+2022,BYU,FBS Independents,fumblesRecovered,5
+2022,Purdue,Big Ten,passAttempts,539
+2022,Louisville,ACC,rushingAttempts,470
+2022,Marshall,Sun Belt,penalties,83
+2022,Kentucky,SEC,totalYards,4036
+2022,Oklahoma State,Big 12,sacks,23
+2022,Washington,Pac-12,kickReturns,24
+2022,Alabama,SEC,possessionTime,21864
+2022,Ball State,Mid-American,passesIntercepted,7
+2022,Louisiana Monroe,Sun Belt,totalYards,3911
+2022,South Florida,American Athletic,thirdDownConversions,59
+2022,New Mexico,Mountain West,penaltyYards,614
+2022,Duke,ACC,puntReturns,13
+2022,James Madison,Sun Belt,sacks,38
+2022,South Alabama,Sun Belt,passesIntercepted,12
+2022,Ohio,Mid-American,puntReturnYards,26
+2022,Nebraska,Big Ten,sacks,22
+2022,Wyoming,Mountain West,fumblesLost,3
+2022,Southern Mississippi,Sun Belt,puntReturnYards,296
+2022,SMU,American Athletic,passCompletions,306
+2022,Appalachian State,Sun Belt,rushingTDs,27
+2022,Oregon,Pac-12,turnovers,11
+2022,Kentucky,SEC,kickReturns,26
+2022,Indiana,Big Ten,rushingYards,1330
+2022,Fresno State,Mountain West,penalties,57
+2022,Eastern Michigan,Mid-American,turnovers,17
+2022,Kansas State,Big 12,possessionTime,24547
+2022,Clemson,ACC,netPassingYards,2927
+2022,James Madison,Sun Belt,penaltyYards,439
+2022,Missouri,SEC,kickReturnYards,177
+2022,Florida State,ACC,thirdDowns,156
+2022,Michigan State,Big Ten,thirdDownConversions,59
+2022,Wyoming,Mountain West,interceptionTDs,1
+2022,San Diego State,Mountain West,kickReturnTDs,1
+2022,Virginia,ACC,passingTDs,7
+2022,San José State,Mountain West,fourthDownConversions,7
+2022,Texas,Big 12,possessionTime,19848
+2022,Notre Dame,FBS Independents,rushingAttempts,486
+2022,Maryland,Big Ten,puntReturns,20
+2022,Georgia Southern,Sun Belt,sacks,18
+2022,Bowling Green,Mid-American,puntReturnTDs,2
+2022,Washington State,Pac-12,penalties,63
+2022,James Madison,Sun Belt,passesIntercepted,11
+2022,Arizona,Pac-12,fourthDownConversions,10
+2022,Boise State,Mountain West,netPassingYards,2512
+2022,New Mexico State,FBS Independents,penaltyYards,691
+2022,Northwestern,Big Ten,kickReturns,12
+2022,Western Michigan,Mid-American,firstDowns,199
+2022,Kentucky,SEC,thirdDownConversions,56
+2022,BYU,FBS Independents,kickReturns,22
+2022,Maryland,Big Ten,thirdDowns,178
+2022,Purdue,Big Ten,penalties,69
+2022,Florida,SEC,interceptions,9
+2022,Ohio,Mid-American,passingTDs,26
+2022,Kent State,Mid-American,penalties,80
+2022,Rutgers,Big Ten,penalties,94
+2022,Michigan,Big Ten,puntReturns,31
+2022,UNLV,Mountain West,thirdDowns,156
+2022,Florida International,Conference USA,rushingYards,1245
+2022,Miami (OH),Mid-American,passingTDs,13
+2022,North Carolina,ACC,netPassingYards,4124
+2022,Kentucky,SEC,firstDowns,219
+2022,UMass,FBS Independents,totalYards,3207
+2022,Virginia Tech,ACC,thirdDowns,159
+2022,Syracuse,ACC,passCompletions,196
+2022,UNLV,Mountain West,rushingAttempts,403
+2022,Syracuse,ACC,rushingTDs,19
+2022,Stanford,Pac-12,passAttempts,448
+2022,Eastern Michigan,Mid-American,thirdDownConversions,74
+2022,Florida Atlantic,Conference USA,fourthDowns,21
+2022,Northwestern,Big Ten,kickReturnTDs,0
+2022,Arizona,Pac-12,fumblesLost,8
+2022,Arizona,Pac-12,rushingYards,1728
+2022,Washington,Pac-12,rushingYards,1740
+2022,Tennessee,SEC,passAttempts,394
+2022,Toledo,Mid-American,totalYards,5278
+2022,Purdue,Big Ten,rushingYards,1609
+2022,Troy,Sun Belt,puntReturnYards,132
+2022,NC State,ACC,rushingYards,1452
+2022,UTEP,Conference USA,thirdDownConversions,66
+2022,UCF,American Athletic,rushingYards,3064
+2022,Fresno State,Mountain West,firstDowns,280
+2022,Eastern Michigan,Mid-American,thirdDowns,163
+2022,Tulane,American Athletic,rushingTDs,30
+2022,Oklahoma,Big 12,netPassingYards,3067
+2022,Oklahoma State,Big 12,netPassingYards,3405
+2022,Ole Miss,SEC,netPassingYards,2757
+2022,UNLV,Mountain West,interceptionYards,232
+2022,Houston,American Athletic,passesIntercepted,7
+2022,Ohio State,Big Ten,kickReturns,17
+2022,Coastal Carolina,Sun Belt,passAttempts,336
+2022,Arizona,Pac-12,penalties,65
+2022,Bowling Green,Mid-American,interceptions,10
+2022,Troy,Sun Belt,interceptionTDs,1
+2022,California,Pac-12,thirdDownConversions,59
+2022,Colorado State,Mountain West,games,12
+2022,LSU,SEC,puntReturns,16
+2022,UAB,Conference USA,fourthDowns,24
+2022,Ohio State,Big Ten,interceptions,6
+2022,Illinois,Big Ten,thirdDowns,175
+2022,Notre Dame,FBS Independents,turnovers,15
+2022,Arizona State,Pac-12,passAttempts,403
+2022,Louisville,ACC,kickReturns,16
+2022,Bowling Green,Mid-American,fumblesRecovered,15
+2022,Navy,American Athletic,tacklesForLoss,73
+2022,Marshall,Sun Belt,fumblesLost,8
+2022,East Carolina,American Athletic,rushingAttempts,391
+2022,Michigan,Big Ten,fumblesLost,3
+2022,Maryland,Big Ten,passAttempts,408
+2022,Ole Miss,SEC,rushingAttempts,571
+2022,Washington State,Pac-12,rushingAttempts,338
+2022,Iowa,Big Ten,games,12
+2022,Texas A&M,SEC,passesIntercepted,4
+2022,Miami (OH),Mid-American,interceptionTDs,1
+2022,Minnesota,Big Ten,thirdDownConversions,82
+2022,Central Michigan,Mid-American,firstDowns,239
+2022,Tennessee,SEC,fumblesRecovered,13
+2022,Western Michigan,Mid-American,passesIntercepted,11
+2022,Charlotte,Conference USA,passAttempts,429
+2022,Marshall,Sun Belt,thirdDowns,192
+2022,Florida State,ACC,penalties,83
+2022,Boston College,ACC,games,12
+2022,Charlotte,Conference USA,puntReturnTDs,0
+2022,Wyoming,Mountain West,tacklesForLoss,63
+2022,Louisville,ACC,firstDowns,240
+2022,Duke,ACC,firstDowns,260
+2022,Oregon State,Pac-12,fumblesRecovered,9
+2022,Charlotte,Conference USA,fourthDowns,34
+2022,Nevada,Mountain West,fourthDownConversions,13
+2022,Central Michigan,Mid-American,interceptionTDs,0
+2022,Old Dominion,Sun Belt,kickReturnYards,494
+2022,Western Kentucky,Conference USA,kickReturns,22
+2022,James Madison,Sun Belt,interceptionTDs,2
+2022,UCLA,Pac-12,fourthDowns,25
+2022,Louisiana,Sun Belt,fourthDowns,30
+2022,Louisville,ACC,fourthDowns,29
+2022,Miami,ACC,puntReturnTDs,0
+2022,Ohio State,Big Ten,fourthDownConversions,12
+2022,Air Force,Mountain West,possessionTime,25957
+2022,Wyoming,Mountain West,possessionTime,20950
+2022,Rutgers,Big Ten,penaltyYards,770
+2022,Kent State,Mid-American,games,12
+2022,Maryland,Big Ten,interceptionTDs,0
+2022,Maryland,Big Ten,passesIntercepted,7
+2022,UT San Antonio,Conference USA,sacks,19
+2022,Nebraska,Big Ten,kickReturnYards,444
+2022,Indiana,Big Ten,games,12
+2022,UAB,Conference USA,penalties,84
+2022,Air Force,Mountain West,firstDowns,246
+2022,Houston,American Athletic,passingTDs,37
+2022,Wyoming,Mountain West,netPassingYards,1533
+2022,Boise State,Mountain West,penalties,70
+2022,Florida Atlantic,Conference USA,passesIntercepted,12
+2022,Kentucky,SEC,interceptions,11
+2022,Miami,ACC,interceptionYards,136
+2022,Louisville,ACC,puntReturns,25
+2022,Notre Dame,FBS Independents,passCompletions,192
+2022,UTEP,Conference USA,interceptions,12
+2022,Ohio State,Big Ten,totalYards,5912
+2022,Indiana,Big Ten,passingTDs,16
+2022,Louisiana Monroe,Sun Belt,passesIntercepted,6
+2022,Bowling Green,Mid-American,passAttempts,414
+2022,Oklahoma State,Big 12,passCompletions,278
+2022,Michigan,Big Ten,thirdDownConversions,81
+2022,California,Pac-12,passesIntercepted,11
+2022,NC State,ACC,passesIntercepted,17
+2022,Kansas State,Big 12,turnovers,10
+2022,Ohio State,Big Ten,passesIntercepted,10
+2022,Nevada,Mountain West,fumblesLost,9
+2022,Arizona,Pac-12,interceptionTDs,0
+2022,Rice,Conference USA,tacklesForLoss,53
+2022,Middle Tennessee,Conference USA,passCompletions,315
+2022,Colorado State,Mountain West,passAttempts,322
+2022,UNLV,Mountain West,firstDowns,211
+2022,Northwestern,Big Ten,interceptionTDs,0
+2022,Louisville,ACC,penaltyYards,833
+2022,Louisville,ACC,interceptions,10
+2022,Arkansas,SEC,passAttempts,327
+2022,Tulane,American Athletic,puntReturnYards,227
+2022,Auburn,SEC,totalYards,4542
+2022,Bowling Green,Mid-American,sacks,37
+2022,Louisiana Monroe,Sun Belt,fumblesLost,8
+2022,Houston,American Athletic,rushingYards,1713
+2022,Iowa State,Big 12,kickReturnYards,348
+2022,Fresno State,Mountain West,fourthDownConversions,7
+2022,Ohio,Mid-American,games,13
+2022,Maryland,Big Ten,sacks,24
+2022,Western Michigan,Mid-American,tacklesForLoss,80
+2022,Florida,SEC,tacklesForLoss,68
+2022,San José State,Mountain West,totalYards,3917
+2022,Texas A&M,SEC,turnovers,18
+2022,Oklahoma State,Big 12,thirdDownConversions,69
+2022,Nevada,Mountain West,games,12
+2022,Notre Dame,FBS Independents,puntReturnTDs,1
+2022,Iowa,Big Ten,kickReturns,19
+2022,Southern Mississippi,Sun Belt,fumblesLost,9
+2022,Georgia Southern,Sun Belt,penalties,59
+2022,Colorado,Pac-12,sacks,10
+2022,Ole Miss,SEC,kickReturnYards,413
+2022,Toledo,Mid-American,sacks,31
+2022,New Mexico State,FBS Independents,puntReturns,23
+2022,Louisiana,Sun Belt,puntReturnTDs,2
+2022,South Alabama,Sun Belt,fumblesRecovered,11
+2022,Washington State,Pac-12,puntReturnTDs,0
+2022,Nevada,Mountain West,fumblesRecovered,9
+2022,Kent State,Mid-American,puntReturnYards,113
+2022,Northwestern,Big Ten,puntReturnYards,19
+2022,UNLV,Mountain West,penaltyYards,687
+2022,Texas State,Sun Belt,interceptions,10
+2022,Oklahoma,Big 12,interceptions,8
+2022,Miami,ACC,firstDowns,254
+2022,Kentucky,SEC,passesIntercepted,10
+2022,Tulsa,American Athletic,interceptionYards,28
+2022,Oregon,Pac-12,penaltyYards,705
+2022,Miami,ACC,rushingAttempts,414
+2022,Boston College,ACC,passingTDs,21
+2022,Buffalo,Mid-American,rushingAttempts,470
+2022,Maryland,Big Ten,penaltyYards,864
+2022,Nevada,Mountain West,rushingYards,1427
+2022,Memphis,American Athletic,kickReturnYards,647
+2022,Oklahoma,Big 12,puntReturns,12
+2022,Texas,Big 12,rushingAttempts,452
+2022,Florida International,Conference USA,games,12
+2022,Army,FBS Independents,thirdDownConversions,70
+2022,Penn State,Big Ten,rushingYards,2185
+2022,Baylor,Big 12,netPassingYards,2821
+2022,Old Dominion,Sun Belt,passingTDs,19
+2022,Kent State,Mid-American,passingTDs,17
+2022,Hawai'i,Mountain West,penaltyYards,652
+2022,Illinois,Big Ten,passesIntercepted,22
+2022,Auburn,SEC,games,12
+2022,East Carolina,American Athletic,rushingYards,2046
+2022,Penn State,Big Ten,totalYards,5189
+2022,Houston,American Athletic,puntReturns,11
+2022,UCF,American Athletic,puntReturnTDs,2
+2022,Western Kentucky,Conference USA,puntReturnTDs,1
+2022,Utah State,Mountain West,fourthDowns,33
+2022,Texas,Big 12,rushingTDs,28
+2022,James Madison,Sun Belt,firstDowns,249
+2022,Louisville,ACC,fourthDownConversions,11
+2022,Georgia Southern,Sun Belt,fourthDowns,22
+2022,Texas A&M,SEC,fumblesLost,12
+2022,Tulane,American Athletic,thirdDowns,164
+2022,Iowa State,Big 12,turnovers,22
+2022,Wake Forest,ACC,passesIntercepted,7
+2022,TCU,Big 12,interceptionTDs,2
+2022,Clemson,ACC,interceptionTDs,2
+2022,Liberty,FBS Independents,penalties,75
+2022,Miami,ACC,fumblesLost,13
+2022,Oklahoma,Big 12,puntReturnYards,146
+2022,Appalachian State,Sun Belt,kickReturnYards,699
+2022,North Texas,Conference USA,firstDowns,281
+2022,San Diego State,Mountain West,sacks,29
+2022,Temple,American Athletic,netPassingYards,3217
+2022,Indiana,Big Ten,turnovers,18
+2022,Baylor,Big 12,puntReturnYards,189
+2022,Akron,Mid-American,passingTDs,13
+2022,Oklahoma State,Big 12,fourthDownConversions,4
+2022,Bowling Green,Mid-American,tacklesForLoss,81
+2022,Maryland,Big Ten,possessionTime,22130
+2022,Baylor,Big 12,fumblesRecovered,7
+2022,Charlotte,Conference USA,kickReturnYards,838
+2022,Oklahoma,Big 12,firstDowns,282
+2022,Minnesota,Big Ten,rushingYards,2621
+2022,Memphis,American Athletic,passingTDs,20
+2022,Colorado State,Mountain West,passesIntercepted,8
+2022,Northern Illinois,Mid-American,kickReturnYards,434
+2022,Rice,Conference USA,kickReturnTDs,0
+2022,Michigan,Big Ten,interceptionYards,160
+2022,Ohio,Mid-American,kickReturnYards,1020
+2022,San José State,Mountain West,thirdDowns,136
+2022,Connecticut,FBS Independents,fourthDowns,16
+2022,Oregon,Pac-12,games,12
+2022,Washington State,Pac-12,interceptions,8
+2022,Memphis,American Athletic,interceptions,8
+2022,California,Pac-12,puntReturns,22
+2022,New Mexico State,FBS Independents,interceptionTDs,1
+2022,Oregon State,Pac-12,thirdDownConversions,60
+2022,Toledo,Mid-American,kickReturnYards,341
+2022,Syracuse,ACC,tacklesForLoss,74
+2022,Northwestern,Big Ten,passCompletions,245
+2022,Kansas,Big 12,sacks,24
+2022,Penn State,Big Ten,penalties,66
+2022,Purdue,Big Ten,rushingTDs,17
+2022,Notre Dame,FBS Independents,fumblesLost,7
+2022,UMass,FBS Independents,kickReturnTDs,0
+2022,Ole Miss,SEC,sacks,33
+2022,Minnesota,Big Ten,totalYards,4852
+2022,BYU,FBS Independents,rushingAttempts,396
+2022,Oklahoma State,Big 12,rushingYards,1581
+2022,Rutgers,Big Ten,tacklesForLoss,66
+2022,Texas A&M,SEC,firstDowns,233
+2022,Eastern Michigan,Mid-American,possessionTime,22616
+2022,UAB,Conference USA,rushingTDs,30
+2022,North Texas,Conference USA,penaltyYards,536
+2022,Indiana,Big Ten,fumblesLost,5
+2022,Cincinnati,American Athletic,games,12
+2022,Kansas State,Big 12,fumblesRecovered,13
+2022,Virginia Tech,ACC,rushingAttempts,388
+2022,Pittsburgh,ACC,thirdDowns,161
+2022,Indiana,Big Ten,puntReturnTDs,0
+2022,USC,Pac-12,rushingTDs,29
+2022,East Carolina,American Athletic,sacks,24
+2022,Louisiana Tech,Conference USA,puntReturnYards,253
+2022,New Mexico State,FBS Independents,firstDowns,195
+2022,Iowa,Big Ten,penaltyYards,410
+2022,Kansas,Big 12,tacklesForLoss,57
+2022,UAB,Conference USA,interceptionYards,200
+2022,Mississippi State,SEC,rushingAttempts,274
+2022,Temple,American Athletic,turnovers,23
+2022,Appalachian State,Sun Belt,tacklesForLoss,68
+2022,Middle Tennessee,Conference USA,fumblesRecovered,15
+2022,Virginia,ACC,passesIntercepted,5
+2022,Coastal Carolina,Sun Belt,puntReturns,10
+2022,Syracuse,ACC,puntReturnTDs,0
+2022,Iowa State,Big 12,passCompletions,313
+2022,BYU,FBS Independents,interceptionTDs,2
+2022,Kent State,Mid-American,tacklesForLoss,70
+2022,Maryland,Big Ten,netPassingYards,3117
+2022,UAB,Conference USA,thirdDowns,153
+2022,Ole Miss,SEC,fumblesRecovered,20
+2022,Charlotte,Conference USA,interceptionYards,7
+2022,New Mexico,Mountain West,games,12
+2022,Purdue,Big Ten,puntReturns,21
+2022,Tulane,American Athletic,possessionTime,23722
+2022,James Madison,Sun Belt,rushingAttempts,479
+2022,Tennessee,SEC,puntReturnYards,322
+2022,Michigan State,Big Ten,puntReturnTDs,0
+2022,Texas State,Sun Belt,possessionTime,21939
+2022,Old Dominion,Sun Belt,sacks,31
+2022,Mississippi State,SEC,puntReturns,19
+2022,Tulsa,American Athletic,passesIntercepted,6
+2022,Fresno State,Mountain West,netPassingYards,3502
+2022,Alabama,SEC,fourthDownConversions,9
+2022,Appalachian State,Sun Belt,totalYards,5464
+2022,Kansas State,Big 12,kickReturns,30
+2022,Virginia,ACC,firstDowns,190
+2022,Minnesota,Big Ten,passingTDs,10
+2022,Arizona,Pac-12,penaltyYards,600
+2022,Fresno State,Mountain West,kickReturns,30
+2022,Virginia,ACC,thirdDowns,138
+2022,South Carolina,SEC,games,12
+2022,Michigan,Big Ten,fumblesRecovered,4
+2022,Georgia,SEC,totalYards,6395
+2022,Ball State,Mid-American,penaltyYards,691
+2022,Kansas State,Big 12,sacks,28
+2022,Army,FBS Independents,fourthDownConversions,16
+2022,Georgia,SEC,penalties,58
+2022,Duke,ACC,sacks,30
+2022,Mississippi State,SEC,penaltyYards,735
+2022,Kentucky,SEC,rushingAttempts,431
+2022,Georgia Southern,Sun Belt,thirdDowns,180
+2022,East Carolina,American Athletic,games,12
+2022,Vanderbilt,SEC,interceptionYards,41
+2022,Boise State,Mountain West,firstDowns,250
+2022,Air Force,Mountain West,turnovers,13
+2022,Georgia Southern,Sun Belt,interceptions,15
+2022,Florida State,ACC,fumblesLost,7
+2022,Iowa State,Big 12,tacklesForLoss,64
+2022,TCU,Big 12,possessionTime,24343
+2022,Notre Dame,FBS Independents,interceptionYards,132
+2022,Arizona,Pac-12,puntReturnTDs,0
+2022,Auburn,SEC,kickReturnTDs,0
+2022,Tulane,American Athletic,passAttempts,361
+2022,Stanford,Pac-12,rushingTDs,14
+2022,UT San Antonio,Conference USA,tacklesForLoss,75
+2022,Ohio,Mid-American,passCompletions,282
+2022,California,Pac-12,interceptionTDs,1
+2022,TCU,Big 12,games,13
+2022,South Florida,American Athletic,passCompletions,188
+2022,Eastern Michigan,Mid-American,fourthDowns,22
+2022,South Carolina,SEC,possessionTime,20988
+2022,California,Pac-12,turnovers,12
+2022,Eastern Michigan,Mid-American,penaltyYards,930
+2022,Pittsburgh,ACC,rushingYards,2175
+2022,Oregon,Pac-12,passCompletions,285
+2022,Central Michigan,Mid-American,thirdDowns,170
+2022,Georgia,SEC,interceptionTDs,0
+2022,Penn State,Big Ten,fourthDownConversions,21
+2022,Washington,Pac-12,puntReturns,10
+2022,UT San Antonio,Conference USA,penalties,90
+2022,San José State,Mountain West,kickReturns,22
+2022,California,Pac-12,possessionTime,20679
+2022,Charlotte,Conference USA,interceptions,14
+2022,North Texas,Conference USA,puntReturnYards,49
+2022,SMU,American Athletic,interceptionYards,107
+2022,Clemson,ACC,fourthDownConversions,6
+2022,Eastern Michigan,Mid-American,sacks,23
+2022,Syracuse,ACC,penalties,105
+2022,LSU,SEC,thirdDownConversions,79
+2022,Stanford,Pac-12,firstDowns,249
+2022,California,Pac-12,tacklesForLoss,53
+2022,Louisiana Monroe,Sun Belt,thirdDowns,167
+2022,Arkansas,SEC,games,12
+2022,Washington,Pac-12,penaltyYards,741
+2022,Arkansas,SEC,passesIntercepted,7
+2022,West Virginia,Big 12,penalties,77
+2022,LSU,SEC,possessionTime,24243
+2022,Minnesota,Big Ten,rushingAttempts,548
+2022,Bowling Green,Mid-American,possessionTime,21318
+2022,Eastern Michigan,Mid-American,puntReturnTDs,0
+2022,Eastern Michigan,Mid-American,interceptionYards,109
+2022,Connecticut,FBS Independents,interceptionYards,165
+2022,Florida Atlantic,Conference USA,puntReturnTDs,0
+2022,Ohio,Mid-American,possessionTime,25172
+2022,Penn State,Big Ten,possessionTime,22371
+2022,South Carolina,SEC,totalYards,4571
+2022,UAB,Conference USA,rushingAttempts,490
+2022,Boise State,Mountain West,totalYards,4943
+2022,UAB,Conference USA,totalYards,5307
+2022,Indiana,Big Ten,kickReturnTDs,2
+2022,Purdue,Big Ten,passesIntercepted,14
+2022,Mississippi State,SEC,rushingTDs,12
+2022,Arizona,Pac-12,passCompletions,283
+2022,Notre Dame,FBS Independents,kickReturns,17
+2022,Texas,Big 12,puntReturnTDs,1
+2022,San Diego State,Mountain West,totalYards,3858
+2022,Akron,Mid-American,kickReturns,42
+2022,Pittsburgh,ACC,passAttempts,348
+2022,Toledo,Mid-American,fourthDowns,26
+2022,Appalachian State,Sun Belt,fumblesRecovered,18
+2022,TCU,Big 12,fourthDowns,25
+2022,Rice,Conference USA,passesIntercepted,8
+2022,James Madison,Sun Belt,fourthDownConversions,9
+2022,Wyoming,Mountain West,kickReturnTDs,0
+2022,Nebraska,Big Ten,games,12
+2022,North Texas,Conference USA,passCompletions,222
+2022,Miami (OH),Mid-American,fourthDowns,17
+2022,Northern Illinois,Mid-American,rushingTDs,19
+2022,UNLV,Mountain West,possessionTime,20749
+2022,Colorado State,Mountain West,kickReturnTDs,0
+2022,Eastern Michigan,Mid-American,kickReturnYards,722
+2022,Texas A&M,SEC,passingTDs,18
+2022,Ohio,Mid-American,fumblesLost,7
+2022,UCLA,Pac-12,netPassingYards,3138
+2022,Cincinnati,American Athletic,rushingTDs,19
+2022,Rice,Conference USA,fumblesLost,11
+2022,Syracuse,ACC,interceptionTDs,2
+2022,Ball State,Mid-American,penalties,73
+2022,Purdue,Big Ten,rushingAttempts,432
+2022,Syracuse,ACC,turnovers,12
+2022,Eastern Michigan,Mid-American,totalYards,4340
+2022,Auburn,SEC,netPassingYards,2072
+2022,James Madison,Sun Belt,possessionTime,22204
+2022,Colorado State,Mountain West,tacklesForLoss,65
+2022,Western Michigan,Mid-American,puntReturnTDs,0
+2022,New Mexico,Mountain West,puntReturnTDs,0
+2022,Louisiana Tech,Conference USA,passingTDs,25
+2022,Oregon,Pac-12,puntReturns,12
+2022,Miami,ACC,rushingYards,1537
+2022,Northern Illinois,Mid-American,possessionTime,22176
+2022,Utah State,Mountain West,fumblesRecovered,10
+2022,Georgia State,Sun Belt,sacks,27
+2022,California,Pac-12,firstDowns,231
+2022,Wisconsin,Big Ten,fumblesLost,6
+2022,Miami,ACC,turnovers,25
+2022,Bowling Green,Mid-American,rushingYards,1210
+2022,Old Dominion,Sun Belt,fourthDowns,23
+2022,Charlotte,Conference USA,games,12
+2022,Liberty,FBS Independents,interceptionTDs,0
+2022,Arizona State,Pac-12,thirdDownConversions,59
+2022,Tennessee,SEC,possessionTime,18267
+2022,Baylor,Big 12,penaltyYards,507
+2022,Rice,Conference USA,rushingYards,1715
+2022,Louisiana Monroe,Sun Belt,netPassingYards,2464
+2022,UNLV,Mountain West,kickReturnTDs,0
+2022,SMU,American Athletic,tacklesForLoss,62
+2022,Charlotte,Conference USA,sacks,17
+2022,Utah State,Mountain West,passAttempts,375
+2022,Colorado,Pac-12,kickReturnYards,750
+2022,Central Michigan,Mid-American,rushingYards,1910
+2022,Pittsburgh,ACC,kickReturnTDs,0
+2022,Mississippi State,SEC,passAttempts,589
+2022,Florida,SEC,puntReturns,17
+2022,Utah State,Mountain West,fumblesLost,6
+2022,Utah State,Mountain West,interceptionTDs,1
+2022,UCF,American Athletic,passesIntercepted,6
+2022,West Virginia,Big 12,interceptions,12
+2022,Georgia Southern,Sun Belt,firstDowns,305
+2022,New Mexico,Mountain West,kickReturnTDs,1
+2022,Houston,American Athletic,interceptionTDs,1
+2022,Navy,American Athletic,passCompletions,54
+2022,UCLA,Pac-12,rushingAttempts,486
+2022,Iowa,Big Ten,puntReturns,28
+2022,Georgia Tech,ACC,games,12
+2022,Memphis,American Athletic,netPassingYards,3357
+2022,Kentucky,SEC,puntReturns,20
+2022,Arkansas State,Sun Belt,firstDowns,206
+2022,Washington State,Pac-12,rushingYards,1357
+2022,Florida State,ACC,passAttempts,357
+2022,Oregon,Pac-12,sacks,15
+2022,UCF,American Athletic,fourthDownConversions,17
+2022,Southern Mississippi,Sun Belt,rushingAttempts,441
+2022,California,Pac-12,thirdDowns,167
+2022,Houston,American Athletic,games,12
+2022,Southern Mississippi,Sun Belt,kickReturnTDs,0
+2022,SMU,American Athletic,possessionTime,19894
+2022,Louisiana,Sun Belt,kickReturns,21
+2022,Florida,SEC,interceptionYards,93
+2022,South Carolina,SEC,firstDowns,226
+2022,Nebraska,Big Ten,kickReturns,26
+2022,Central Michigan,Mid-American,puntReturns,22
+2022,Nevada,Mountain West,interceptions,8
+2022,Charlotte,Conference USA,interceptionTDs,0
+2022,South Alabama,Sun Belt,fourthDowns,26
+2022,Marshall,Sun Belt,rushingYards,2467
+2022,Appalachian State,Sun Belt,penaltyYards,604
+2022,Stanford,Pac-12,netPassingYards,3051
+2022,James Madison,Sun Belt,kickReturnYards,403
+2022,Charlotte,Conference USA,tacklesForLoss,59
+2022,Oregon State,Pac-12,interceptionYards,105
+2022,Georgia State,Sun Belt,tacklesForLoss,73
+2022,Tulane,American Athletic,kickReturnTDs,0
+2022,BYU,FBS Independents,rushingYards,2084
+2022,James Madison,Sun Belt,rushingYards,2059
+2022,Tulane,American Athletic,games,13
+2022,Minnesota,Big Ten,kickReturnTDs,0
+2022,UCLA,Pac-12,penalties,80
+2022,NC State,ACC,interceptionYards,172
+2022,Penn State,Big Ten,fumblesRecovered,21
+2022,SMU,American Athletic,interceptionTDs,0
+2022,Florida,SEC,firstDowns,247
+2022,Notre Dame,FBS Independents,passingTDs,22
+2022,UNLV,Mountain West,games,12
+2022,Coastal Carolina,Sun Belt,rushingAttempts,475
+2022,Alabama,SEC,turnovers,16
+2022,Hawai'i,Mountain West,passCompletions,261
+2022,Arizona State,Pac-12,totalYards,4646
+2022,South Florida,American Athletic,netPassingYards,2315
+2022,Louisiana,Sun Belt,totalYards,4409
+2022,Oregon,Pac-12,puntReturnTDs,0
+2022,Minnesota,Big Ten,passesIntercepted,13
+2022,LSU,SEC,kickReturnYards,315
+2022,Nebraska,Big Ten,firstDowns,217
+2022,UCF,American Athletic,possessionTime,24391
+2022,Minnesota,Big Ten,sacks,17
+2022,Bowling Green,Mid-American,firstDowns,210
+2022,Western Kentucky,Conference USA,rushingYards,1877
+2022,Texas A&M,SEC,fourthDowns,11
+2022,Baylor,Big 12,thirdDowns,168
+2022,Buffalo,Mid-American,sacks,24
+2022,Air Force,Mountain West,passingTDs,7
+2022,Houston,American Athletic,passAttempts,473
+2022,Arkansas,SEC,fumblesRecovered,12
+2022,Michigan,Big Ten,sacks,36
+2022,Duke,ACC,puntReturnYards,259
+2022,UCLA,Pac-12,possessionTime,19965
+2022,Oklahoma State,Big 12,interceptionTDs,0
+2022,Colorado State,Mountain West,interceptionTDs,1
+2022,NC State,ACC,thirdDowns,178
+2022,West Virginia,Big 12,games,12
+2022,Indiana,Big Ten,netPassingYards,2609
+2022,Old Dominion,Sun Belt,penaltyYards,765
+2022,Nebraska,Big Ten,fumblesRecovered,10
+2022,Louisiana,Sun Belt,netPassingYards,2665
+2022,Western Kentucky,Conference USA,thirdDownConversions,72
+2022,UCLA,Pac-12,kickReturnYards,736
+2022,Washington State,Pac-12,fourthDowns,26
+2022,Appalachian State,Sun Belt,interceptionYards,32
+2022,Texas State,Sun Belt,turnovers,17
+2022,Rutgers,Big Ten,netPassingYards,1852
+2022,Virginia,ACC,interceptionTDs,0
+2022,Colorado State,Mountain West,interceptionYards,79
+2022,Minnesota,Big Ten,firstDowns,266
+2022,Auburn,SEC,sacks,26
+2022,Iowa,Big Ten,puntReturnTDs,0
+2022,Western Kentucky,Conference USA,interceptionYards,267
+2022,Central Michigan,Mid-American,fumblesLost,18
+2022,Tulane,American Athletic,interceptionTDs,0
+2022,Syracuse,ACC,fumblesRecovered,12
+2022,Virginia Tech,ACC,interceptionYards,38
+2022,NC State,ACC,passCompletions,247
+2022,South Florida,American Athletic,fourthDownConversions,14
+2022,UCLA,Pac-12,penaltyYards,637
+2022,Utah,Pac-12,tacklesForLoss,79
+2022,San José State,Mountain West,rushingTDs,18
+2022,Northwestern,Big Ten,rushingTDs,11
+2022,Wyoming,Mountain West,passingTDs,10
+2022,Northern Illinois,Mid-American,passingTDs,18
+2022,Stanford,Pac-12,possessionTime,21522
+2022,Colorado State,Mountain West,passCompletions,203
+2022,Indiana,Big Ten,interceptions,13
+2022,Missouri,SEC,puntReturnTDs,1
+2022,Oregon,Pac-12,rushingYards,2595
+2022,Ball State,Mid-American,rushingTDs,14
+2022,Ole Miss,SEC,firstDowns,300
+2022,Georgia State,Sun Belt,fourthDowns,26
+2022,Oklahoma State,Big 12,interceptions,16
+2022,Ole Miss,SEC,totalYards,5895
+2022,NC State,ACC,fourthDowns,19
+2022,Boston College,ACC,penaltyYards,582
+2022,Southern Mississippi,Sun Belt,passAttempts,327
+2022,Mississippi State,SEC,turnovers,17
+2022,Georgia State,Sun Belt,kickReturns,11
+2022,Connecticut,FBS Independents,kickReturns,28
+2022,Iowa State,Big 12,puntReturnYards,87
+2022,UAB,Conference USA,games,12
+2022,Florida International,Conference USA,passesIntercepted,7
+2022,UTEP,Conference USA,tacklesForLoss,69
+2022,New Mexico State,FBS Independents,penalties,77
+2022,Northern Illinois,Mid-American,thirdDownConversions,67
+2022,Michigan State,Big Ten,sacks,29
+2022,South Florida,American Athletic,totalYards,4676
+2022,Georgia,SEC,puntReturnYards,243
+2022,Oregon State,Pac-12,fourthDownConversions,15
+2022,Air Force,Mountain West,fourthDowns,24
+2022,Baylor,Big 12,totalYards,5150
+2022,Tulane,American Athletic,rushingYards,2563
+2022,Tennessee,SEC,fourthDowns,33
+2022,Michigan,Big Ten,kickReturns,17
+2022,North Texas,Conference USA,passesIntercepted,8
+2022,SMU,American Athletic,puntReturnYards,115
+2022,Kent State,Mid-American,kickReturnYards,847
+2022,Marshall,Sun Belt,passAttempts,347
+2022,Kent State,Mid-American,fourthDownConversions,12
+2022,Georgia Southern,Sun Belt,turnovers,19
+2022,UAB,Conference USA,fourthDownConversions,12
+2022,Alabama,SEC,puntReturns,29
+2022,Nebraska,Big Ten,interceptionYards,40
+2022,Utah State,Mountain West,puntReturnTDs,1
+2022,Ohio State,Big Ten,thirdDownConversions,71
+2022,West Virginia,Big 12,interceptionTDs,2
+2022,Louisville,ACC,passAttempts,345
+2022,Kentucky,SEC,kickReturnYards,490
+2022,Maryland,Big Ten,passingTDs,20
+2022,Clemson,ACC,games,13
+2022,South Carolina,SEC,rushingAttempts,389
+2022,Army,FBS Independents,turnovers,12
+2022,Oklahoma State,Big 12,passingTDs,22
+2022,Kentucky,SEC,netPassingYards,2593
+2022,Iowa,Big Ten,puntReturnYards,258
+2022,Texas State,Sun Belt,fourthDowns,21
+2022,San José State,Mountain West,kickReturnYards,355
+2022,Tulsa,American Athletic,turnovers,18
+2022,Kent State,Mid-American,rushingAttempts,517
+2022,Appalachian State,Sun Belt,fourthDownConversions,18
+2022,LSU,SEC,firstDowns,318
+2022,Eastern Michigan,Mid-American,penalties,101
+2022,Toledo,Mid-American,interceptions,15
+2022,UT San Antonio,Conference USA,thirdDownConversions,87
+2022,Miami,ACC,tacklesForLoss,83
+2022,UT San Antonio,Conference USA,puntReturnTDs,0
+2022,UTEP,Conference USA,puntReturns,17
+2022,Old Dominion,Sun Belt,penalties,83
+2022,Louisiana Monroe,Sun Belt,penalties,59
+2022,Louisiana Tech,Conference USA,thirdDownConversions,65
+2022,UTEP,Conference USA,penalties,78
+2022,Western Michigan,Mid-American,interceptionYards,180
+2022,Utah State,Mountain West,firstDowns,242
+2022,Troy,Sun Belt,kickReturns,16
+2022,South Florida,American Athletic,kickReturnTDs,1
+2022,SMU,American Athletic,passingTDs,34
+2022,Arizona,Pac-12,sacks,15
+2022,UNLV,Mountain West,tacklesForLoss,55
+2022,Alabama,SEC,fourthDowns,15
+2022,Duke,ACC,turnovers,10
+2022,Texas Tech,Big 12,kickReturnTDs,0
+2022,Kentucky,SEC,kickReturnTDs,1
+2022,Western Kentucky,Conference USA,possessionTime,22602
+2022,UCF,American Athletic,interceptions,8
+2022,Michigan,Big Ten,rushingAttempts,560
+2022,Maryland,Big Ten,fourthDownConversions,17
+2022,Baylor,Big 12,puntReturnTDs,1
+2022,West Virginia,Big 12,passAttempts,426
+2022,UMass,FBS Independents,fourthDownConversions,13
+2022,Ole Miss,SEC,passesIntercepted,7
+2022,Nebraska,Big Ten,penaltyYards,510
+2022,Arkansas State,Sun Belt,fumblesRecovered,7
+2022,UTEP,Conference USA,fourthDownConversions,16
+2022,Texas State,Sun Belt,fumblesRecovered,14
+2022,Utah State,Mountain West,passesIntercepted,11
+2022,Notre Dame,FBS Independents,puntReturnYards,279
+2022,UAB,Conference USA,kickReturnTDs,0
+2022,LSU,SEC,passesIntercepted,6
+2022,Washington,Pac-12,fourthDownConversions,14
+2022,USC,Pac-12,passCompletions,308
+2022,Bowling Green,Mid-American,thirdDowns,179
+2022,Middle Tennessee,Conference USA,passingTDs,19
+2022,North Carolina,ACC,thirdDowns,186
+2022,UNLV,Mountain West,netPassingYards,2580
+2022,Georgia Tech,ACC,rushingAttempts,426
+2022,Bowling Green,Mid-American,rushingTDs,8
+2022,Arizona State,Pac-12,interceptionYards,114
+2022,Ohio State,Big Ten,kickReturnTDs,0
+2022,Vanderbilt,SEC,kickReturnYards,511
+2022,Cincinnati,American Athletic,kickReturnTDs,1
+2022,Air Force,Mountain West,tacklesForLoss,64
+2022,Maryland,Big Ten,kickReturns,34
+2022,Old Dominion,Sun Belt,fumblesLost,11
+2022,Arkansas State,Sun Belt,possessionTime,21770
+2022,Arkansas,SEC,turnovers,16
+2022,Minnesota,Big Ten,interceptions,9
+2022,Virginia Tech,ACC,totalYards,3462
+2022,Iowa State,Big 12,puntReturns,13
+2022,Northern Illinois,Mid-American,fourthDownConversions,10
+2022,Penn State,Big Ten,kickReturnYards,379
+2022,Southern Mississippi,Sun Belt,kickReturns,19
+2022,Coastal Carolina,Sun Belt,turnovers,16
+2022,New Mexico,Mountain West,kickReturnYards,560
+2022,Arkansas State,Sun Belt,kickReturns,51
+2022,Army,FBS Independents,passesIntercepted,10
+2022,Central Michigan,Mid-American,tacklesForLoss,99
+2022,Georgia State,Sun Belt,totalYards,5017
+2022,UT San Antonio,Conference USA,rushingAttempts,511
+2022,Southern Mississippi,Sun Belt,penaltyYards,704
+2022,Kansas State,Big 12,fourthDowns,26
+2022,Vanderbilt,SEC,rushingAttempts,445
+2022,Tennessee,SEC,passCompletions,271
+2022,Memphis,American Athletic,totalYards,5062
+2022,Pittsburgh,ACC,thirdDownConversions,64
+2022,Washington,Pac-12,fumblesRecovered,6
+2022,Arizona,Pac-12,passAttempts,459
+2022,Duke,ACC,interceptionYards,93
+2022,Arkansas,SEC,passCompletions,211
+2022,Washington,Pac-12,interceptionYards,2
+2022,LSU,SEC,interceptionTDs,1
+2022,Toledo,Mid-American,puntReturnYards,224
+2022,Connecticut,FBS Independents,puntReturnYards,78
+2022,New Mexico,Mountain West,fumblesRecovered,14
+2022,Appalachian State,Sun Belt,interceptions,6
+2022,Utah State,Mountain West,interceptions,18
+2022,Miami,ACC,fourthDowns,22
+2022,Iowa State,Big 12,kickReturnTDs,0
+2022,Western Kentucky,Conference USA,fourthDowns,35
+2022,South Carolina,SEC,rushingTDs,27
+2022,SMU,American Athletic,kickReturnTDs,0
+2022,Troy,Sun Belt,fumblesRecovered,13
+2022,Old Dominion,Sun Belt,passAttempts,417
+2022,Auburn,SEC,rushingAttempts,488
+2022,UMass,FBS Independents,passingTDs,4
+2022,Akron,Mid-American,passesIntercepted,8
+2022,Ohio State,Big Ten,turnovers,10
+2022,Rutgers,Big Ten,games,12
+2022,Appalachian State,Sun Belt,penalties,66
+2022,Marshall,Sun Belt,thirdDownConversions,71
+2022,Navy,American Athletic,possessionTime,24935
+2022,Eastern Michigan,Mid-American,interceptionTDs,0
+2022,Oklahoma,Big 12,penalties,67
+2022,Missouri,SEC,interceptionTDs,2
+2022,New Mexico,Mountain West,rushingTDs,12
+2022,Bowling Green,Mid-American,puntReturns,16
+2022,Oregon,Pac-12,passesIntercepted,16
+2022,Northwestern,Big Ten,sacks,23
+2022,Missouri,SEC,tacklesForLoss,91
+2022,Wake Forest,ACC,fourthDownConversions,15
+2022,Appalachian State,Sun Belt,fourthDowns,37
+2022,Southern Mississippi,Sun Belt,totalYards,3990
+2022,California,Pac-12,fumblesLost,3
+2022,Air Force,Mountain West,rushingTDs,34
+2022,Kent State,Mid-American,interceptionTDs,1
+2022,Toledo,Mid-American,rushingTDs,22
+2022,Connecticut,FBS Independents,passCompletions,146
+2022,Buffalo,Mid-American,tacklesForLoss,78
+2022,Oregon State,Pac-12,puntReturns,18
+2022,Clemson,ACC,thirdDowns,192
+2022,South Florida,American Athletic,rushingYards,2361
+2022,Cincinnati,American Athletic,puntReturnTDs,0
+2022,Auburn,SEC,thirdDowns,178
+2022,Michigan,Big Ten,passCompletions,217
+2022,LSU,SEC,totalYards,5749
+2022,Missouri,SEC,rushingAttempts,459
+2022,Central Michigan,Mid-American,sacks,30
+2022,Georgia Southern,Sun Belt,tacklesForLoss,47
+2022,UCF,American Athletic,kickReturns,30
+2022,Utah,Pac-12,thirdDownConversions,80
+2022,Kentucky,SEC,penalties,71
+2022,Notre Dame,FBS Independents,puntReturns,28
+2022,Vanderbilt,SEC,netPassingYards,2248
+2022,Texas State,Sun Belt,netPassingYards,2649
+2022,North Carolina,ACC,kickReturnTDs,1
+2022,Ball State,Mid-American,kickReturnYards,473
+2022,Virginia Tech,ACC,penalties,80
+2022,Ohio State,Big Ten,games,12
+2022,Northern Illinois,Mid-American,netPassingYards,2192
+2022,Texas A&M,SEC,kickReturns,23
+2022,James Madison,Sun Belt,fourthDowns,20
+2022,Ball State,Mid-American,passAttempts,481
+2022,Navy,American Athletic,fumblesLost,9
+2022,Texas Tech,Big 12,puntReturnYards,112
+2022,UCF,American Athletic,netPassingYards,3179
+2022,Virginia Tech,ACC,passesIntercepted,4
+2022,Eastern Michigan,Mid-American,fumblesLost,6
+2022,Miami (OH),Mid-American,thirdDownConversions,55
+2022,UCLA,Pac-12,interceptions,8
+2022,SMU,American Athletic,thirdDownConversions,87
+2022,UMass,FBS Independents,turnovers,19
+2022,Virginia,ACC,rushingAttempts,329
+2022,Washington State,Pac-12,penaltyYards,537
+2022,Boston College,ACC,thirdDowns,174
+2022,Oklahoma State,Big 12,passesIntercepted,12
+2022,Oregon State,Pac-12,puntReturnYards,306
+2022,Fresno State,Mountain West,rushingTDs,26
+2022,UCLA,Pac-12,games,12
+2022,Coastal Carolina,Sun Belt,penaltyYards,640
+2022,Coastal Carolina,Sun Belt,interceptions,6
+2022,Texas Tech,Big 12,tacklesForLoss,82
+2022,South Carolina,SEC,interceptionTDs,0
+2022,Georgia,SEC,passingTDs,24
+2022,Michigan,Big Ten,fourthDowns,19
+2022,South Florida,American Athletic,kickReturnYards,994
+2022,Duke,ACC,passingTDs,20
+2022,Charlotte,Conference USA,fumblesLost,7
+2022,LSU,SEC,fourthDownConversions,10
+2022,Colorado,Pac-12,totalYards,3375
+2022,Old Dominion,Sun Belt,rushingAttempts,310
+2022,Temple,American Athletic,thirdDowns,173
+2022,Illinois,Big Ten,fourthDowns,25
+2022,Middle Tennessee,Conference USA,puntReturnYards,176
+2022,Buffalo,Mid-American,rushingYards,1696
+2022,Tulane,American Athletic,fumblesRecovered,13
+2022,Rice,Conference USA,firstDowns,239
+2022,Florida,SEC,kickReturnTDs,0
+2022,Georgia,SEC,rushingTDs,37
+2022,Missouri,SEC,kickReturns,12
+2022,Alabama,SEC,passesIntercepted,5
+2022,Wisconsin,Big Ten,netPassingYards,2274
+2022,East Carolina,American Athletic,kickReturns,29
+2022,New Mexico State,FBS Independents,puntReturnYards,177
+2022,Buffalo,Mid-American,puntReturnYards,10
+2022,Liberty,FBS Independents,passingTDs,19
+2022,Nebraska,Big Ten,thirdDownConversions,66
+2022,Eastern Michigan,Mid-American,passingTDs,21
+2022,Utah,Pac-12,puntReturns,31
+2022,Oregon,Pac-12,possessionTime,22831
+2022,Kent State,Mid-American,possessionTime,18812
+2022,Stanford,Pac-12,thirdDownConversions,62
+2022,South Carolina,SEC,puntReturnTDs,2
+2022,Kentucky,SEC,passAttempts,312
+2022,Buffalo,Mid-American,firstDowns,243
+2022,Vanderbilt,SEC,tacklesForLoss,56
+2022,Purdue,Big Ten,penaltyYards,713
+2022,Akron,Mid-American,fourthDowns,24
+2022,Texas State,Sun Belt,passesIntercepted,11
+2022,Rice,Conference USA,interceptionTDs,1
+2022,Cincinnati,American Athletic,rushingAttempts,388
+2022,BYU,FBS Independents,penaltyYards,639
+2022,Illinois,Big Ten,fumblesLost,11
+2022,Liberty,FBS Independents,fumblesLost,11
+2022,North Carolina,ACC,puntReturns,15
+2022,Appalachian State,Sun Belt,netPassingYards,3005
+2022,Oregon,Pac-12,totalYards,6093
+2022,North Carolina,ACC,fumblesRecovered,6
+2022,Ball State,Mid-American,interceptions,14
+2022,Kansas,Big 12,rushingAttempts,412
+2022,Wisconsin,Big Ten,passingTDs,20
+2022,Auburn,SEC,thirdDownConversions,64
+2022,Duke,ACC,kickReturnYards,623
+2022,Minnesota,Big Ten,possessionTime,25379
+2022,Penn State,Big Ten,passAttempts,400
+2022,Virginia Tech,ACC,puntReturnYards,227
+2022,Georgia State,Sun Belt,puntReturnYards,58
+2022,Arkansas,SEC,rushingYards,2691
+2022,Washington State,Pac-12,passCompletions,300
+2022,Central Michigan,Mid-American,penaltyYards,753
+2022,Kansas,Big 12,thirdDownConversions,71
+2022,Texas,Big 12,kickReturnTDs,0
+2022,Navy,American Athletic,interceptions,6
+2022,Western Kentucky,Conference USA,interceptions,11
+2022,Charlotte,Conference USA,netPassingYards,3254
+2022,Michigan,Big Ten,penaltyYards,420
+2022,Western Kentucky,Conference USA,interceptionTDs,4
+2022,Florida International,Conference USA,turnovers,20
+2022,Stanford,Pac-12,fourthDownConversions,11
+2022,Kansas State,Big 12,puntReturnYards,196
+2022,Arkansas State,Sun Belt,fourthDowns,23
+2022,Georgia,SEC,fourthDownConversions,11
+2022,Mississippi State,SEC,kickReturnYards,807
+2022,Kansas State,Big 12,puntReturnTDs,2
+2022,South Alabama,Sun Belt,sacks,28
+2022,Appalachian State,Sun Belt,thirdDowns,156
+2022,Florida International,Conference USA,fourthDowns,35
+2022,Louisville,ACC,fumblesLost,9
+2022,Bowling Green,Mid-American,turnovers,21
+2022,Georgia,SEC,tacklesForLoss,72
+2022,Missouri,SEC,passingTDs,12
+2022,Western Michigan,Mid-American,games,12
+2022,Air Force,Mountain West,kickReturnYards,54
+2022,Rice,Conference USA,games,12
+2022,Pittsburgh,ACC,rushingTDs,28
+2022,UAB,Conference USA,firstDowns,253
+2022,Oregon,Pac-12,passingTDs,28
+2022,Louisville,ACC,puntReturnTDs,0
+2022,Navy,American Athletic,games,12
+2022,Louisville,ACC,games,12
+2022,Wisconsin,Big Ten,interceptionTDs,2
+2022,Houston,American Athletic,kickReturnTDs,1
+2022,Memphis,American Athletic,interceptionYards,220
+2022,New Mexico,Mountain West,sacks,25
+2022,Arizona State,Pac-12,fourthDownConversions,12
+2022,Texas State,Sun Belt,thirdDowns,185
+2022,Western Michigan,Mid-American,passCompletions,167
+2022,Appalachian State,Sun Belt,passAttempts,358
+2022,Tulane,American Athletic,interceptions,5
+2022,California,Pac-12,sacks,16
+2022,Western Michigan,Mid-American,passingTDs,10
+2022,TCU,Big 12,tacklesForLoss,67
+2022,Texas,Big 12,kickReturns,19
+2022,Notre Dame,FBS Independents,sacks,35
+2022,Temple,American Athletic,kickReturns,42
+2022,Duke,ACC,fourthDowns,24
+2022,Syracuse,ACC,rushingAttempts,409
+2022,Ball State,Mid-American,totalYards,4631
+2022,Georgia State,Sun Belt,penaltyYards,764
+2022,Memphis,American Athletic,thirdDowns,180
+2022,South Florida,American Athletic,kickReturns,48
+2022,Indiana,Big Ten,passesIntercepted,7
+2022,Clemson,ACC,rushingAttempts,503
+2022,BYU,FBS Independents,possessionTime,20858
+2022,South Florida,American Athletic,passingTDs,18
+2022,Oklahoma State,Big 12,puntReturnYards,147
+2022,Boston College,ACC,passAttempts,440
+2022,Penn State,Big Ten,puntReturns,22
+2022,Michigan State,Big Ten,firstDowns,241
+2022,Temple,American Athletic,passAttempts,484
+2022,Hawai'i,Mountain West,totalYards,4456
+2022,Ohio State,Big Ten,possessionTime,22030
+2022,Appalachian State,Sun Belt,passCompletions,226
+2022,Georgia Southern,Sun Belt,rushingTDs,23
+2022,Northern Illinois,Mid-American,interceptionYards,41
+2022,Illinois,Big Ten,firstDowns,255
+2022,UNLV,Mountain West,fumblesLost,8
+2022,Buffalo,Mid-American,kickReturnYards,575
+2022,Texas State,Sun Belt,penaltyYards,531
+2022,Washington State,Pac-12,possessionTime,19973
+2022,Virginia Tech,ACC,passingTDs,9
+2022,Florida Atlantic,Conference USA,rushingAttempts,492
+2022,Tulane,American Athletic,passingTDs,28
+2022,Coastal Carolina,Sun Belt,passCompletions,220
+2022,Northern Illinois,Mid-American,fumblesRecovered,14
+2022,Michigan State,Big Ten,fourthDowns,28
+2022,Boise State,Mountain West,puntReturnYards,187
+2022,Rutgers,Big Ten,rushingAttempts,432
+2022,San José State,Mountain West,thirdDownConversions,50
+2022,Purdue,Big Ten,firstDowns,306
+2022,South Alabama,Sun Belt,penalties,97
+2022,BYU,FBS Independents,passingTDs,32
+2022,Texas,Big 12,thirdDowns,150
+2022,Boston College,ACC,firstDowns,201
+2022,Old Dominion,Sun Belt,games,12
+2022,East Carolina,American Athletic,passCompletions,296
+2022,Boston College,ACC,rushingTDs,6
+2022,Texas State,Sun Belt,fourthDownConversions,7
+2022,NC State,ACC,sacks,24
+2022,Michigan,Big Ten,kickReturnTDs,0
+2022,UTEP,Conference USA,firstDowns,252
+2022,James Madison,Sun Belt,interceptions,10
+2022,Troy,Sun Belt,kickReturnTDs,0
+2022,Miami,ACC,thirdDowns,166
+2022,South Alabama,Sun Belt,kickReturnTDs,0
+2022,USC,Pac-12,thirdDowns,153
+2022,SMU,American Athletic,passAttempts,476
+2022,SMU,American Athletic,turnovers,19
+2022,Ball State,Mid-American,interceptionYards,44
+2022,Ohio,Mid-American,firstDowns,268
+2022,Kansas,Big 12,possessionTime,20641
+2022,Texas A&M,SEC,interceptions,6
+2022,Middle Tennessee,Conference USA,firstDowns,248
+2022,Troy,Sun Belt,tacklesForLoss,74
+2022,Syracuse,ACC,firstDowns,236
+2022,Virginia Tech,ACC,kickReturnTDs,0
+2022,UCF,American Athletic,rushingTDs,33
+2022,Coastal Carolina,Sun Belt,penalties,70
+2022,Michigan State,Big Ten,kickReturns,24
+2022,Texas A&M,SEC,kickReturnTDs,1
+2022,Troy,Sun Belt,fourthDowns,25
+2022,Utah State,Mountain West,rushingTDs,14
+2022,Central Michigan,Mid-American,thirdDownConversions,60
+2022,Utah State,Mountain West,kickReturns,27
+2022,UAB,Conference USA,thirdDownConversions,67
+2022,Clemson,ACC,penaltyYards,630
+2022,Alabama,SEC,penaltyYards,848
+2022,Louisiana,Sun Belt,possessionTime,21356
+2022,Hawai'i,Mountain West,thirdDowns,194
+2022,Purdue,Big Ten,fumblesLost,6
+2022,Hawai'i,Mountain West,rushingTDs,16
+2022,Toledo,Mid-American,fumblesLost,10
+2022,Ball State,Mid-American,thirdDowns,185
+2022,Wisconsin,Big Ten,interceptionYards,220
+2022,UT San Antonio,Conference USA,interceptions,7
+2022,Nebraska,Big Ten,possessionTime,19301
+2022,Oregon,Pac-12,interceptionTDs,1
+2022,Iowa,Big Ten,passingTDs,6
+2022,Mississippi State,SEC,tacklesForLoss,76
+2022,New Mexico,Mountain West,puntReturns,18
+2022,Louisiana Monroe,Sun Belt,interceptionYards,53
+2022,Akron,Mid-American,kickReturnYards,866
+2022,Iowa State,Big 12,sacks,18
+2022,Fresno State,Mountain West,fumblesLost,5
+2022,Utah,Pac-12,fumblesRecovered,20
+2022,Louisiana Tech,Conference USA,fumblesLost,6
+2022,Louisiana Tech,Conference USA,netPassingYards,3207
+2022,Ball State,Mid-American,kickReturnTDs,0
+2022,Army,FBS Independents,possessionTime,22773
+2022,North Carolina,ACC,kickReturns,20
+2022,East Carolina,American Athletic,interceptionTDs,1
+2022,UAB,Conference USA,passesIntercepted,10
+2022,Florida,SEC,rushingAttempts,439
+2022,Iowa,Big Ten,passAttempts,325
+2022,UMass,FBS Independents,puntReturnTDs,0
+2022,Utah,Pac-12,fumblesLost,8
+2022,Mississippi State,SEC,possessionTime,21838
+2022,Florida Atlantic,Conference USA,kickReturns,15
+2022,Texas State,Sun Belt,games,12
+2022,Temple,American Athletic,passesIntercepted,6
+2022,Charlotte,Conference USA,kickReturnTDs,0
+2022,Cincinnati,American Athletic,thirdDowns,168
+2022,Syracuse,ACC,totalYards,4394
+2022,Virginia Tech,ACC,rushingYards,1230
+2022,Syracuse,ACC,passingTDs,19
+2022,Southern Mississippi,Sun Belt,interceptions,14
+2022,Hawai'i,Mountain West,fumblesRecovered,2
+2022,Wake Forest,ACC,fumblesLost,6
+2022,Oklahoma,Big 12,rushingTDs,25
+2022,Boise State,Mountain West,puntReturns,28
+2022,Arizona State,Pac-12,fourthDowns,19
+2022,Liberty,FBS Independents,rushingYards,2139
+2022,Syracuse,ACC,fourthDowns,9
+2022,Kent State,Mid-American,rushingTDs,23
+2022,Virginia,ACC,rushingYards,1230
+2022,South Alabama,Sun Belt,games,12
+2022,Colorado,Pac-12,passAttempts,360
+2022,Iowa State,Big 12,penaltyYards,548
+2022,Appalachian State,Sun Belt,puntReturns,16
+2022,Texas Tech,Big 12,rushingYards,1829
+2022,Alabama,SEC,passCompletions,265
+2022,Penn State,Big Ten,interceptions,7
+2022,Western Kentucky,Conference USA,passCompletions,363
+2022,Ball State,Mid-American,sacks,25
+2022,Louisiana Tech,Conference USA,fourthDowns,29
+2022,Georgia Tech,ACC,fourthDownConversions,8
+2022,East Carolina,American Athletic,penalties,45
+2022,Michigan State,Big Ten,penalties,69
+2022,Alabama,SEC,passingTDs,32
+2022,Tennessee,SEC,passingTDs,35
+2022,Georgia Tech,ACC,fumblesRecovered,17
+2022,Kentucky,SEC,puntReturnYards,89
+2022,Central Michigan,Mid-American,possessionTime,20720
+2022,TCU,Big 12,thirdDowns,174
+2022,Cincinnati,American Athletic,thirdDownConversions,64
+2022,West Virginia,Big 12,passCompletions,255
+2022,Maryland,Big Ten,passCompletions,274
+2022,Western Kentucky,Conference USA,penaltyYards,735
+2022,Mississippi State,SEC,sacks,24
+2022,Wyoming,Mountain West,rushingYards,2253
+2022,Ball State,Mid-American,rushingAttempts,417
+2022,UT San Antonio,Conference USA,passingTDs,33
+2022,New Mexico State,FBS Independents,passCompletions,142
+2022,Wake Forest,ACC,kickReturnYards,339
+2022,Troy,Sun Belt,possessionTime,23558
+2022,Boston College,ACC,kickReturns,30
+2022,Wake Forest,ACC,rushingYards,1608
+2022,Wake Forest,ACC,interceptionYards,88
+2022,UNLV,Mountain West,rushingYards,1647
+2022,Mississippi State,SEC,thirdDowns,162
+2022,Northwestern,Big Ten,thirdDownConversions,72
+2022,East Carolina,American Athletic,thirdDownConversions,79
+2022,Minnesota,Big Ten,fourthDownConversions,6
+2022,Iowa State,Big 12,kickReturns,21
+2022,Navy,American Athletic,turnovers,15
+2022,LSU,SEC,games,13
+2022,Stanford,Pac-12,passCompletions,275
+2022,South Florida,American Athletic,penaltyYards,443
+2022,Tulsa,American Athletic,kickReturnYards,303
+2022,Connecticut,FBS Independents,sacks,24
+2022,Nebraska,Big Ten,fourthDownConversions,3
+2022,Texas A&M,SEC,kickReturnYards,510
+2022,Arkansas State,Sun Belt,games,12
+2022,Liberty,FBS Independents,possessionTime,21133
+2022,Air Force,Mountain West,kickReturnTDs,0
+2022,Northern Illinois,Mid-American,thirdDowns,171
+2022,Tulsa,American Athletic,fumblesRecovered,14
+2022,Middle Tennessee,Conference USA,rushingAttempts,423
+2022,Arkansas,SEC,fumblesLost,10
+2022,Central Michigan,Mid-American,turnovers,28
+2022,NC State,ACC,interceptionTDs,1
+2022,Oregon State,Pac-12,tacklesForLoss,60
+2022,Virginia Tech,ACC,fumblesRecovered,10
+2022,UMass,FBS Independents,puntReturns,11
+2022,Washington State,Pac-12,rushingTDs,16
+2022,Kansas State,Big 12,totalYards,5462
+2022,Pittsburgh,ACC,passCompletions,202
+2022,UTEP,Conference USA,kickReturns,21
+2022,Clemson,ACC,thirdDownConversions,93
+2022,TCU,Big 12,rushingAttempts,497
+2022,Appalachian State,Sun Belt,passingTDs,28
+2022,Rutgers,Big Ten,possessionTime,21019
+2022,Georgia,SEC,fumblesLost,10
+2022,Cincinnati,American Athletic,puntReturnYards,159
+2022,Iowa State,Big 12,rushingYards,1286
+2022,Kent State,Mid-American,penaltyYards,652
+2022,Appalachian State,Sun Belt,sacks,29
+2022,Cincinnati,American Athletic,penalties,95
+2022,Maryland,Big Ten,games,12
+2022,Louisiana,Sun Belt,games,12
+2022,Toledo,Mid-American,interceptionYards,87
+2022,Colorado,Pac-12,passesIntercepted,6
+2022,Memphis,American Athletic,fumblesRecovered,11
+2022,Nebraska,Big Ten,turnovers,19
+2022,Marshall,Sun Belt,fumblesRecovered,39
+2022,Wyoming,Mountain West,totalYards,3786
+2022,Buffalo,Mid-American,possessionTime,22155
+2022,Air Force,Mountain West,netPassingYards,813
+2022,Louisiana Tech,Conference USA,rushingYards,1505
+2022,Nebraska,Big Ten,puntReturns,6
+2022,Virginia,ACC,fourthDowns,18
+2022,Indiana,Big Ten,rushingAttempts,396
+2022,Tulane,American Athletic,puntReturnTDs,1
+2022,Marshall,Sun Belt,interceptionYards,127
+2022,Boston College,ACC,interceptions,14
+2022,Tulane,American Athletic,penalties,52
+2022,Louisville,ACC,sacks,41
+2022,San Diego State,Mountain West,puntReturnYards,173
+2022,Oklahoma,Big 12,fumblesRecovered,8
+2022,South Alabama,Sun Belt,rushingTDs,19
+2022,Wake Forest,ACC,kickReturns,17
+2022,Tennessee,SEC,interceptions,3
+2022,Tulsa,American Athletic,rushingYards,1664
+2022,Washington State,Pac-12,interceptionTDs,2
+2022,Wyoming,Mountain West,fourthDowns,7
+2022,UCF,American Athletic,totalYards,6243
+2022,Middle Tennessee,Conference USA,turnovers,17
+2022,Georgia State,Sun Belt,rushingTDs,26
+2022,Miami (OH),Mid-American,games,12
+2022,Texas,Big 12,sacks,27
+2022,Auburn,SEC,kickReturnYards,396
+2022,Iowa,Big Ten,sacks,30
+2022,Bowling Green,Mid-American,interceptionTDs,1
+2022,San José State,Mountain West,kickReturnTDs,0
+2022,Washington State,Pac-12,puntReturns,23
+2022,Air Force,Mountain West,sacks,22
+2022,Arizona State,Pac-12,penalties,87
+2022,Utah,Pac-12,penalties,59
+2022,Ball State,Mid-American,tacklesForLoss,65
+2022,Ohio,Mid-American,netPassingYards,3709
+2022,Maryland,Big Ten,tacklesForLoss,62
+2022,San José State,Mountain West,rushingYards,1022
+2022,San José State,Mountain West,puntReturns,6
+2022,Florida State,ACC,sacks,33
+2022,Miami,ACC,passAttempts,413
+2022,Texas A&M,SEC,totalYards,4340
+2022,Virginia,ACC,puntReturns,12
+2022,Washington,Pac-12,puntReturnYards,121
+2022,Utah,Pac-12,penaltyYards,538
+2022,Florida International,Conference USA,interceptionTDs,1
+2022,Boston College,ACC,fourthDowns,18
+2022,Coastal Carolina,Sun Belt,thirdDownConversions,69
+2022,Indiana,Big Ten,passCompletions,260
+2022,Ole Miss,SEC,fourthDowns,28
+2022,West Virginia,Big 12,passesIntercepted,4
+2022,South Carolina,SEC,rushingYards,1479
+2022,Ole Miss,SEC,kickReturns,23
+2022,Georgia State,Sun Belt,penalties,84
+2022,California,Pac-12,netPassingYards,3217
+2022,Penn State,Big Ten,turnovers,14
+2022,Indiana,Big Ten,thirdDowns,192
+2022,UTEP,Conference USA,turnovers,21
+2022,New Mexico,Mountain West,passAttempts,256
+2022,Oklahoma State,Big 12,kickReturnYards,750
+2022,Wisconsin,Big Ten,kickReturnYards,508
+2022,South Alabama,Sun Belt,turnovers,14
+2022,Boise State,Mountain West,rushingAttempts,501
+2022,Florida State,ACC,games,12
+2022,Cincinnati,American Athletic,puntReturns,14
+2022,Florida International,Conference USA,firstDowns,216
+2022,Louisiana Tech,Conference USA,interceptions,19
+2022,East Carolina,American Athletic,firstDowns,269
+2022,West Virginia,Big 12,kickReturnTDs,0
+2022,Nevada,Mountain West,tacklesForLoss,75
+2022,Washington,Pac-12,fourthDowns,26
+2022,Army,FBS Independents,kickReturns,13
+2022,Florida State,ACC,interceptionYards,10
+2022,Texas A&M,SEC,fumblesRecovered,19
+2022,Iowa,Big Ten,passesIntercepted,13
+2022,Boston College,ACC,passCompletions,262
+2022,USC,Pac-12,fourthDownConversions,13
+2022,San Diego State,Mountain West,rushingTDs,11
+2022,Nevada,Mountain West,puntReturns,15
+2022,Navy,American Athletic,totalYards,3924
+2022,UCF,American Athletic,rushingAttempts,579
+2022,North Texas,Conference USA,passingTDs,32
+2022,San Diego State,Mountain West,interceptions,11
+2022,James Madison,Sun Belt,penalties,56
+2022,Auburn,SEC,puntReturnTDs,0
+2022,New Mexico State,FBS Independents,kickReturns,13
+2022,Middle Tennessee,Conference USA,fourthDowns,34
+2022,Ohio,Mid-American,tacklesForLoss,79
+2022,Indiana,Big Ten,penaltyYards,547
+2022,South Alabama,Sun Belt,kickReturns,23
+2022,Connecticut,FBS Independents,totalYards,3622
+2022,Florida,SEC,games,12
+2022,Ole Miss,SEC,fourthDownConversions,15
+2022,Oklahoma,Big 12,passAttempts,383
+2022,Bowling Green,Mid-American,fourthDownConversions,11
+2022,TCU,Big 12,totalYards,6149
+2022,Ohio State,Big Ten,kickReturnYards,315
+2022,Eastern Michigan,Mid-American,fourthDownConversions,9
+2022,Temple,American Athletic,passCompletions,288
+2022,Texas Tech,Big 12,puntReturns,16
+2022,Stanford,Pac-12,tacklesForLoss,65
+2022,UTEP,Conference USA,rushingTDs,14
+2022,Wyoming,Mountain West,turnovers,14
+2022,Arizona,Pac-12,thirdDowns,147
+2022,Toledo,Mid-American,firstDowns,281
+2022,Central Michigan,Mid-American,kickReturnTDs,0
+2022,Arkansas State,Sun Belt,rushingYards,1058
+2022,Louisiana Tech,Conference USA,turnovers,25
+2022,Ohio,Mid-American,puntReturnTDs,0
+2022,Fresno State,Mountain West,interceptionTDs,1
+2022,Memphis,American Athletic,puntReturns,25
+2022,Oklahoma State,Big 12,puntReturns,16
+2022,Akron,Mid-American,turnovers,22
+2022,Arizona,Pac-12,kickReturnYards,354
+2022,Colorado State,Mountain West,possessionTime,21218
+2022,Baylor,Big 12,passesIntercepted,13
+2022,Wake Forest,ACC,passAttempts,437
+2022,Western Kentucky,Conference USA,penalties,80
+2022,Coastal Carolina,Sun Belt,thirdDowns,161
+2022,Oklahoma,Big 12,passesIntercepted,16
+2022,Georgia,SEC,fumblesRecovered,10
+2022,UMass,FBS Independents,possessionTime,22985
+2022,Texas,Big 12,passesIntercepted,9
+2022,East Carolina,American Athletic,fourthDowns,25
+2022,West Virginia,Big 12,fumblesLost,6
+2022,Liberty,FBS Independents,rushingTDs,23
+2022,Marshall,Sun Belt,interceptions,9
+2022,Alabama,SEC,fumblesLost,8
+2022,Boston College,ACC,kickReturnYards,623
+2022,Central Michigan,Mid-American,totalYards,4407
+2022,Ohio State,Big Ten,firstDowns,286
+2022,Baylor,Big 12,passAttempts,369
+2022,Washington State,Pac-12,games,12
+2022,Hawai'i,Mountain West,possessionTime,22048
+2022,Georgia State,Sun Belt,netPassingYards,2431
+2022,Purdue,Big Ten,turnovers,20
+2022,Colorado,Pac-12,fourthDowns,30
+2022,South Carolina,SEC,passingTDs,20
+2022,Louisiana Monroe,Sun Belt,thirdDownConversions,67
+2022,Rutgers,Big Ten,interceptionTDs,2
+2022,Hawai'i,Mountain West,passAttempts,490
+2022,Georgia State,Sun Belt,rushingAttempts,578
+2022,Florida International,Conference USA,puntReturnTDs,0
+2022,Liberty,FBS Independents,puntReturnYards,73
+2022,Wisconsin,Big Ten,firstDowns,212
+2022,Louisville,ACC,kickReturnYards,353
+2022,Louisiana Monroe,Sun Belt,puntReturns,8
+2022,Coastal Carolina,Sun Belt,fumblesRecovered,19
+2022,Oregon State,Pac-12,rushingAttempts,485
+2022,Maryland,Big Ten,totalYards,4878
+2022,Wyoming,Mountain West,penaltyYards,460
+2022,Hawai'i,Mountain West,penalties,73
+2022,Western Michigan,Mid-American,thirdDowns,185
+2022,Buffalo,Mid-American,puntReturnTDs,0
+2022,Texas State,Sun Belt,interceptionYards,188
+2022,Stanford,Pac-12,fumblesRecovered,6
+2022,Michigan State,Big Ten,kickReturnYards,424
+2022,Connecticut,FBS Independents,possessionTime,21760
+2022,Boston College,ACC,puntReturnYards,85
+2022,Oklahoma,Big 12,totalYards,5666
+2022,Marshall,Sun Belt,penaltyYards,747
+2022,Syracuse,ACC,kickReturnTDs,0
+2022,Tulsa,American Athletic,penaltyYards,680
+2022,Maryland,Big Ten,fumblesLost,7
+2022,Northern Illinois,Mid-American,interceptions,14
+2022,Kansas State,Big 12,penalties,68
+2022,West Virginia,Big 12,thirdDownConversions,73
+2022,Fresno State,Mountain West,fourthDowns,14
+2022,Clemson,ACC,passingTDs,24
+2022,USC,Pac-12,firstDowns,331
+2022,New Mexico State,FBS Independents,thirdDownConversions,53
+2022,Old Dominion,Sun Belt,interceptionTDs,1
+2022,Bowling Green,Mid-American,fourthDowns,25
+2022,Florida,SEC,fourthDownConversions,15
+2022,California,Pac-12,penaltyYards,535
+2022,Georgia Tech,ACC,firstDowns,212
+2022,Louisiana Monroe,Sun Belt,interceptions,7
+2022,Ole Miss,SEC,thirdDownConversions,83
+2022,Florida Atlantic,Conference USA,passAttempts,378
+2022,Miami,ACC,puntReturnYards,125
+2022,Hawai'i,Mountain West,sacks,18
+2022,Mississippi State,SEC,games,12
+2022,Southern Mississippi,Sun Belt,possessionTime,20796
+2022,Old Dominion,Sun Belt,fumblesRecovered,11
+2022,Florida State,ACC,rushingTDs,31
+2022,Central Michigan,Mid-American,penalties,83
+2022,Nevada,Mountain West,interceptionYards,50
+2022,Houston,American Athletic,fourthDownConversions,15
+2022,UCF,American Athletic,firstDowns,318
+2022,Baylor,Big 12,fourthDowns,41
+2022,Louisiana Monroe,Sun Belt,passCompletions,221
+2022,Michigan State,Big Ten,possessionTime,18864
+2022,Liberty,FBS Independents,passCompletions,216
+2022,TCU,Big 12,rushingTDs,33
+2022,Army,FBS Independents,tacklesForLoss,45
+2022,North Carolina,ACC,fourthDownConversions,21
+2022,Army,FBS Independents,puntReturns,15
+2022,Florida,SEC,penaltyYards,569
+2022,Texas,Big 12,turnovers,14
+2022,Vanderbilt,SEC,kickReturnTDs,0
+2022,Syracuse,ACC,passesIntercepted,10
+2022,Virginia Tech,ACC,rushingTDs,15
+2022,Baylor,Big 12,turnovers,18
+2022,New Mexico State,FBS Independents,kickReturnYards,229
+2022,New Mexico State,FBS Independents,fumblesRecovered,8
+2022,Utah,Pac-12,passesIntercepted,12
+2022,Oklahoma,Big 12,puntReturnTDs,0
+2022,Temple,American Athletic,interceptions,12
+2022,TCU,Big 12,fumblesRecovered,6
+2022,Florida Atlantic,Conference USA,interceptionYards,356
+2022,Nevada,Mountain West,passingTDs,7
+2022,Texas,Big 12,passAttempts,358
+2022,Wisconsin,Big Ten,thirdDowns,155
+2022,Duke,ACC,fourthDownConversions,14
+2022,Colorado State,Mountain West,fumblesLost,8
+2022,LSU,SEC,penaltyYards,673
+2022,South Florida,American Athletic,interceptionTDs,0
+2022,Navy,American Athletic,rushingYards,2894
+2022,Florida State,ACC,interceptions,6
+2022,Illinois,Big Ten,tacklesForLoss,79
+2022,Hawai'i,Mountain West,netPassingYards,2672
+2022,Boston College,ACC,passesIntercepted,7
+2022,New Mexico State,FBS Independents,possessionTime,20217
+2022,Pittsburgh,ACC,kickReturns,28
+2022,UT San Antonio,Conference USA,kickReturnYards,419
+2022,Virginia Tech,ACC,firstDowns,193
+2022,Georgia,SEC,possessionTime,26356
+2022,UAB,Conference USA,fumblesRecovered,9
+2022,New Mexico State,FBS Independents,passAttempts,276
+2022,Auburn,SEC,possessionTime,21757
+2022,Florida,SEC,sacks,21
+2022,James Madison,Sun Belt,thirdDowns,151
+2022,Connecticut,FBS Independents,rushingAttempts,487
+2022,Troy,Sun Belt,fumblesLost,6
+2022,UTEP,Conference USA,rushingAttempts,463
+2022,Ohio State,Big Ten,tacklesForLoss,82
+2022,Stanford,Pac-12,passingTDs,15
+2022,Alabama,SEC,thirdDownConversions,70
+2022,USC,Pac-12,passingTDs,38
+2022,TCU,Big 12,firstDowns,287
+2022,Mississippi State,SEC,firstDowns,275
+2022,Nevada,Mountain West,thirdDowns,195
+2022,Bowling Green,Mid-American,thirdDownConversions,61
+2022,Auburn,SEC,interceptionYards,60
+2022,Arkansas State,Sun Belt,rushingTDs,16
+2022,New Mexico State,FBS Independents,rushingTDs,23
+2022,Iowa State,Big 12,thirdDownConversions,80
+2022,Old Dominion,Sun Belt,thirdDowns,158
+2022,Louisville,ACC,netPassingYards,2540
+2022,Kansas,Big 12,passesIntercepted,11
+2022,Northwestern,Big Ten,penaltyYards,490
+2022,Oregon State,Pac-12,puntReturnTDs,2
+2022,Alabama,SEC,interceptionYards,72
+2022,Buffalo,Mid-American,interceptionYards,154
+2022,West Virginia,Big 12,tacklesForLoss,68
+2022,Tulsa,American Athletic,puntReturnTDs,0
+2022,Troy,Sun Belt,rushingAttempts,455
+2022,UAB,Conference USA,sacks,21
+2022,Rice,Conference USA,puntReturnYards,159
+2022,SMU,American Athletic,penaltyYards,514
+2022,West Virginia,Big 12,kickReturns,25
+2022,Alabama,SEC,rushingTDs,25
+2022,Louisville,ACC,interceptionTDs,2
+2022,Wisconsin,Big Ten,kickReturns,24
+2022,UTEP,Conference USA,sacks,27
+2022,Arizona State,Pac-12,rushingYards,1623
+2022,UMass,FBS Independents,penaltyYards,794
+2022,Middle Tennessee,Conference USA,totalYards,4686
+2022,North Carolina,ACC,games,13
+2022,UCLA,Pac-12,rushingTDs,34
+2022,UMass,FBS Independents,rushingTDs,10
+2022,Marshall,Sun Belt,turnovers,17
+2022,Stanford,Pac-12,sacks,21
+2022,Texas A&M,SEC,netPassingYards,2633
+2022,Louisiana Monroe,Sun Belt,tacklesForLoss,69
+2022,UCLA,Pac-12,thirdDowns,153
+2022,Vanderbilt,SEC,penaltyYards,553
+2022,Oklahoma State,Big 12,passAttempts,493
+2022,New Mexico State,FBS Independents,rushingYards,1861
+2022,Western Michigan,Mid-American,rushingTDs,14
+2022,Western Michigan,Mid-American,totalYards,3623
+2022,Liberty,FBS Independents,turnovers,26
+2022,Kentucky,SEC,fourthDowns,21
+2022,Florida International,Conference USA,penalties,73
+2022,Miami,ACC,passingTDs,18
+2022,Pittsburgh,ACC,tacklesForLoss,80
+2022,Alabama,SEC,kickReturnYards,341
+2022,Washington,Pac-12,tacklesForLoss,69
+2022,Tennessee,SEC,penaltyYards,800
+2022,Eastern Michigan,Mid-American,puntReturnYards,52
+2022,Buffalo,Mid-American,penaltyYards,535
+2022,Colorado,Pac-12,puntReturns,11
+2022,Charlotte,Conference USA,penalties,80
+2022,Ole Miss,SEC,kickReturnTDs,0
+2022,South Florida,American Athletic,puntReturnYards,100
+2022,Louisiana Tech,Conference USA,interceptionYards,135
+2022,Tennessee,SEC,passesIntercepted,9
+2022,Northwestern,Big Ten,interceptions,17
+2022,Wisconsin,Big Ten,turnovers,16
+2022,Tennessee,SEC,rushingAttempts,485
+2022,Houston,American Athletic,fumblesLost,9
+2022,Memphis,American Athletic,rushingAttempts,446
+2022,South Florida,American Athletic,rushingTDs,25
+2022,Rutgers,Big Ten,turnovers,20
+2022,Oregon State,Pac-12,penaltyYards,661
+2022,Arizona State,Pac-12,passCompletions,270
+2022,UAB,Conference USA,penaltyYards,712
+2022,Houston,American Athletic,fumblesRecovered,7
+2022,Utah,Pac-12,turnovers,16
+2022,South Carolina,SEC,kickReturnYards,526
+2022,Clemson,ACC,fourthDowns,9
+2022,Arkansas,SEC,thirdDownConversions,81
+2022,Utah,Pac-12,kickReturns,7
+2022,Troy,Sun Belt,netPassingYards,3283
+2022,South Alabama,Sun Belt,fumblesLost,4
+2022,Kent State,Mid-American,thirdDowns,175
+2022,Old Dominion,Sun Belt,kickReturns,25
+2022,Colorado,Pac-12,kickReturnTDs,0
+2022,Purdue,Big Ten,interceptions,14
+2022,Toledo,Mid-American,fourthDownConversions,16
+2022,Boise State,Mountain West,possessionTime,24019
+2022,Colorado State,Mountain West,penalties,83
+2022,Tulsa,American Athletic,penalties,73
+2022,Northwestern,Big Ten,passesIntercepted,6
+2022,Colorado State,Mountain West,netPassingYards,2361
+2022,Tennessee,SEC,turnovers,11
+2022,Buffalo,Mid-American,passAttempts,381
+2022,Alabama,SEC,totalYards,5708
+2022,Navy,American Athletic,puntReturnTDs,0
+2022,Boise State,Mountain West,passAttempts,363
+2022,Alabama,SEC,games,12
+2022,Duke,ACC,rushingYards,2217
+2022,Arizona State,Pac-12,games,12
+2022,Army,FBS Independents,penalties,58
+2022,North Texas,Conference USA,fourthDownConversions,12
+2022,Rutgers,Big Ten,kickReturnYards,541
+2022,Connecticut,FBS Independents,thirdDownConversions,63
+2022,Georgia,SEC,thirdDowns,159
+2022,UTEP,Conference USA,interceptionTDs,0
+2022,North Carolina,ACC,turnovers,14
+2022,James Madison,Sun Belt,fumblesRecovered,20
+2022,Temple,American Athletic,puntReturnYards,77
+2022,Western Michigan,Mid-American,possessionTime,21911
+2022,Louisiana,Sun Belt,turnovers,15
+2022,Minnesota,Big Ten,tacklesForLoss,41
+2022,LSU,SEC,netPassingYards,3401
+2022,Tulane,American Athletic,rushingAttempts,522
+2022,Syracuse,ACC,games,12
+2022,Georgia Tech,ACC,puntReturns,9
+2022,Tulsa,American Athletic,possessionTime,20790
+2022,Boston College,ACC,fumblesRecovered,9
+2022,Connecticut,FBS Independents,thirdDowns,167
+2022,Colorado State,Mountain West,fourthDownConversions,13
+2022,Florida State,ACC,interceptionTDs,0
+2022,Old Dominion,Sun Belt,rushingYards,1097
+2022,Minnesota,Big Ten,passAttempts,265
+2022,UAB,Conference USA,turnovers,15
+2022,Miami (OH),Mid-American,thirdDowns,171
+2022,North Carolina,ACC,penaltyYards,719
+2022,Arizona State,Pac-12,rushingAttempts,385
+2022,Coastal Carolina,Sun Belt,kickReturns,24
+2022,Iowa,Big Ten,thirdDownConversions,49
+2022,Memphis,American Athletic,puntReturnTDs,1
+2022,Texas Tech,Big 12,netPassingYards,3685
+2022,Arkansas State,Sun Belt,penaltyYards,654
+2022,NC State,ACC,puntReturns,19
+2022,San José State,Mountain West,fumblesRecovered,8
+2022,Boise State,Mountain West,kickReturnTDs,0
+2022,Georgia State,Sun Belt,fumblesRecovered,19
+2022,Stanford,Pac-12,penalties,55
+2022,Auburn,SEC,kickReturns,24
+2022,Michigan State,Big Ten,puntReturns,17
+2022,Oregon,Pac-12,penalties,83
+2022,Pittsburgh,ACC,fourthDownConversions,6
+2022,Kansas,Big 12,passingTDs,27
+2022,Texas A&M,SEC,thirdDowns,153
+2022,Iowa State,Big 12,fumblesLost,7
+2022,BYU,FBS Independents,rushingTDs,17
+2022,San José State,Mountain West,penaltyYards,527
+2022,Ole Miss,SEC,interceptionTDs,0
+2022,Hawai'i,Mountain West,tacklesForLoss,55
+2022,Texas,Big 12,puntReturns,20
+2022,Wyoming,Mountain West,penalties,53
+2022,UCLA,Pac-12,rushingYards,2957
+2022,Clemson,ACC,passCompletions,267
+2022,Hawai'i,Mountain West,rushingAttempts,406
+2022,Baylor,Big 12,interceptionTDs,1
+2022,SMU,American Athletic,games,12
+2022,Fresno State,Mountain West,games,13
+2022,Utah State,Mountain West,kickReturnYards,480
+2022,LSU,SEC,passingTDs,19
+2022,Wake Forest,ACC,thirdDownConversions,79
+2022,Ball State,Mid-American,fumblesRecovered,10
+2022,Tulane,American Athletic,thirdDownConversions,63
+2022,Texas Tech,Big 12,firstDowns,318
+2022,BYU,FBS Independents,fourthDowns,22
+2022,Florida International,Conference USA,interceptionYards,79
+2022,Kansas,Big 12,firstDowns,234
+2022,UMass,FBS Independents,fumblesRecovered,10
+2022,Nebraska,Big Ten,tacklesForLoss,60
+2022,Oregon,Pac-12,passAttempts,402
+2022,Florida State,ACC,totalYards,5708
+2022,Maryland,Big Ten,rushingYards,1761
+2022,Buffalo,Mid-American,puntReturns,9
+2022,Mississippi State,SEC,totalYards,4718
+2022,Louisiana Tech,Conference USA,passAttempts,434
+2022,Louisiana Monroe,Sun Belt,rushingAttempts,418
+2022,Arkansas State,Sun Belt,sacks,23
+2022,Cincinnati,American Athletic,totalYards,4714
+2022,Fresno State,Mountain West,interceptions,9
+2022,Illinois,Big Ten,passAttempts,360
+2022,Stanford,Pac-12,penaltyYards,495
+2022,East Carolina,American Athletic,kickReturnYards,590
+2022,Old Dominion,Sun Belt,tacklesForLoss,74
+2022,Iowa,Big Ten,thirdDowns,165
+2022,Florida International,Conference USA,fourthDownConversions,16
+2022,Florida,SEC,kickReturns,23
+2022,Texas A&M,SEC,puntReturnTDs,0
+2022,Appalachian State,Sun Belt,rushingAttempts,474
+2022,Virginia Tech,ACC,puntReturnTDs,2
+2022,Connecticut,FBS Independents,rushingTDs,18
+2022,Ohio State,Big Ten,interceptionTDs,2
+2022,Marshall,Sun Belt,passingTDs,14
+2022,James Madison,Sun Belt,tacklesForLoss,96
+2022,Minnesota,Big Ten,puntReturnYards,78
+2022,Louisville,ACC,fumblesRecovered,17
+2022,Michigan State,Big Ten,penaltyYards,654
+2022,UNLV,Mountain West,turnovers,15
+2022,Virginia Tech,ACC,netPassingYards,2232
+2022,San José State,Mountain West,games,12
+2022,Kansas State,Big 12,puntReturns,15
+2022,Eastern Michigan,Mid-American,puntReturns,10
+2022,Cincinnati,American Athletic,turnovers,12
+2022,Arkansas,SEC,tacklesForLoss,73
+2022,Central Michigan,Mid-American,fumblesRecovered,8
+2022,Colorado State,Mountain West,thirdDowns,151
+2022,Ole Miss,SEC,tacklesForLoss,74
+2022,Connecticut,FBS Independents,kickReturnTDs,0
+2022,Wyoming,Mountain West,rushingAttempts,446
+2022,Georgia State,Sun Belt,passingTDs,18
+2022,UTEP,Conference USA,thirdDowns,169
+2022,Navy,American Athletic,passAttempts,126
+2022,Illinois,Big Ten,totalYards,4645
+2022,Liberty,FBS Independents,tacklesForLoss,109
+2022,Vanderbilt,SEC,puntReturns,9
+2022,Syracuse,ACC,possessionTime,19971
+2022,South Carolina,SEC,netPassingYards,3092
+2022,Houston,American Athletic,tacklesForLoss,88
+2022,Washington,Pac-12,passAttempts,520
+2022,Appalachian State,Sun Belt,games,12
+2022,West Virginia,Big 12,fourthDownConversions,22
+2022,Middle Tennessee,Conference USA,kickReturnTDs,0
+2022,Texas,Big 12,interceptions,7
+2022,Colorado,Pac-12,games,12
+2022,Rice,Conference USA,fourthDownConversions,12
+2022,Ole Miss,SEC,possessionTime,19002
+2022,Central Michigan,Mid-American,kickReturnYards,701
+2022,UMass,FBS Independents,passCompletions,136
+2022,Toledo,Mid-American,puntReturnTDs,0
+2022,South Florida,American Athletic,interceptionYards,49
+2022,Florida International,Conference USA,netPassingYards,2625
+2022,Florida Atlantic,Conference USA,penalties,74
+2022,Central Michigan,Mid-American,interceptions,10
+2022,LSU,SEC,turnovers,18
+2022,New Mexico,Mountain West,puntReturnYards,111
+2022,Texas A&M,SEC,puntReturns,22
+2022,Coastal Carolina,Sun Belt,puntReturnTDs,0
+2022,Florida International,Conference USA,thirdDownConversions,51
+2022,Boston College,ACC,turnovers,26
+2022,Marshall,Sun Belt,possessionTime,23178
+2022,Ohio,Mid-American,interceptions,5
+2022,Western Kentucky,Conference USA,games,13
+2022,Florida Atlantic,Conference USA,interceptionTDs,3
+2022,Navy,American Athletic,fourthDownConversions,23
+2022,Northwestern,Big Ten,puntReturnTDs,0
+2022,Arkansas State,Sun Belt,thirdDownConversions,49
+2022,UMass,FBS Independents,kickReturnYards,638
+2022,Bowling Green,Mid-American,totalYards,4051
+2022,New Mexico,Mountain West,rushingYards,1456
+2022,Iowa,Big Ten,fourthDownConversions,5
+2022,Pittsburgh,ACC,sacks,44
+2022,Ohio State,Big Ten,fumblesRecovered,9
+2022,Ohio State,Big Ten,penaltyYards,600
+2022,Penn State,Big Ten,thirdDownConversions,61
+2022,Texas State,Sun Belt,thirdDownConversions,68
+2022,Kansas State,Big 12,fourthDownConversions,15
+2022,Arkansas,SEC,rushingAttempts,554
+2022,Utah State,Mountain West,tacklesForLoss,69
+2022,Utah,Pac-12,kickReturnYards,145
+2022,Auburn,SEC,firstDowns,217
+2022,Clemson,ACC,rushingTDs,30
+2022,Central Michigan,Mid-American,kickReturns,35
+2022,Western Michigan,Mid-American,fourthDowns,27
+2022,Appalachian State,Sun Belt,firstDowns,276
+2022,Western Kentucky,Conference USA,rushingTDs,15
+2022,Kansas State,Big 12,interceptionTDs,1
+2022,Florida Atlantic,Conference USA,thirdDowns,189
+2022,Ohio,Mid-American,passAttempts,430
+2022,North Texas,Conference USA,kickReturns,38
+2022,Tulsa,American Athletic,passAttempts,415
+2022,Georgia,SEC,passAttempts,430
+2022,Miami,ACC,rushingTDs,12
+2022,Army,FBS Independents,interceptions,4
+2022,Stanford,Pac-12,interceptions,8
+2022,Colorado State,Mountain West,rushingYards,1068
+2022,Ohio,Mid-American,rushingAttempts,455
+2022,South Carolina,SEC,thirdDownConversions,57
+2022,Air Force,Mountain West,puntReturnYards,11
+2022,Georgia Southern,Sun Belt,rushingAttempts,351
+2022,Virginia,ACC,interceptions,12
+2022,Indiana,Big Ten,totalYards,3939
+2022,Miami,ACC,penalties,84
+2022,Charlotte,Conference USA,fourthDownConversions,12
+2022,Iowa,Big Ten,tacklesForLoss,75
+2022,Kansas State,Big 12,tacklesForLoss,66
+2022,Air Force,Mountain West,thirdDowns,160
+2022,Georgia Southern,Sun Belt,puntReturnTDs,1
+2022,Southern Mississippi,Sun Belt,interceptionYards,212
+2022,Colorado State,Mountain West,passingTDs,12
+2022,Akron,Mid-American,rushingAttempts,348
+2022,Texas Tech,Big 12,games,12
+2022,Coastal Carolina,Sun Belt,rushingYards,1942
+2022,Fresno State,Mountain West,tacklesForLoss,71
+2022,Kent State,Mid-American,passesIntercepted,7
+2022,Charlotte,Conference USA,turnovers,21
+2022,UAB,Conference USA,puntReturnTDs,2
+2022,Georgia Southern,Sun Belt,passesIntercepted,11
+2022,North Carolina,ACC,thirdDownConversions,88
+2022,Louisiana Monroe,Sun Belt,rushingYards,1447
+2022,Miami,ACC,totalYards,4416
+2022,Rutgers,Big Ten,rushingYards,1523
+2022,UNLV,Mountain West,puntReturns,11
+2022,Hawai'i,Mountain West,interceptionTDs,1
+2022,Liberty,FBS Independents,passAttempts,374
+2022,Duke,ACC,penalties,66
+2022,North Carolina,ACC,passesIntercepted,8
+2022,South Alabama,Sun Belt,passCompletions,254
+2022,UT San Antonio,Conference USA,fumblesLost,7
+2022,New Mexico,Mountain West,fourthDowns,14
+2022,Navy,American Athletic,interceptionTDs,0
+2022,Ball State,Mid-American,puntReturns,13
+2022,Troy,Sun Belt,passesIntercepted,11
+2022,Notre Dame,FBS Independents,thirdDowns,157
+2022,Arizona,Pac-12,games,12
+2022,Colorado State,Mountain West,interceptions,11
+2022,Buffalo,Mid-American,kickReturns,27
+2022,Wisconsin,Big Ten,fourthDowns,13
+2022,Charlotte,Conference USA,rushingTDs,13
+2022,Virginia Tech,ACC,fourthDownConversions,6
+2022,Connecticut,FBS Independents,penaltyYards,675
+2022,UCLA,Pac-12,interceptionTDs,0
+2022,Florida State,ACC,puntReturnYards,237
+2022,NC State,ACC,fumblesRecovered,3
+2022,Indiana,Big Ten,firstDowns,230
+2022,Hawai'i,Mountain West,turnovers,20
+2022,Stanford,Pac-12,kickReturnYards,888
+2022,Cincinnati,American Athletic,netPassingYards,3072
+2022,South Carolina,SEC,interceptions,13
+2022,Oklahoma,Big 12,fourthDownConversions,10
+2022,Old Dominion,Sun Belt,netPassingYards,2977
+2022,Illinois,Big Ten,rushingTDs,17
+2022,Michigan State,Big Ten,netPassingYards,2880
+2022,California,Pac-12,passAttempts,466
+2022,Florida International,Conference USA,possessionTime,19551
+2022,Georgia,SEC,puntReturnTDs,0
+2022,Penn State,Big Ten,firstDowns,262
+2022,Virginia,ACC,passAttempts,342
+2022,New Mexico,Mountain West,netPassingYards,1266
+2022,Syracuse,ACC,kickReturns,16
+2022,Clemson,ACC,kickReturns,17
+2022,Missouri,SEC,fumblesLost,10
+2022,Tennessee,SEC,interceptionTDs,0
+2022,Virginia Tech,ACC,kickReturns,30
+2022,Ohio State,Big Ten,thirdDowns,154
+2022,Arizona,Pac-12,fumblesRecovered,23
+2022,Mississippi State,SEC,interceptionTDs,3
+2022,Virginia Tech,ACC,passAttempts,346
+2022,Auburn,SEC,fumblesLost,10
+2022,Washington,Pac-12,sacks,35
+2022,Michigan,Big Ten,netPassingYards,2736
+2022,South Florida,American Athletic,fourthDowns,31
+2022,Louisiana Tech,Conference USA,firstDowns,233
+2022,Purdue,Big Ten,kickReturns,26
+2022,LSU,SEC,puntReturnTDs,0
+2022,Arizona,Pac-12,interceptions,13
+2022,Middle Tennessee,Conference USA,tacklesForLoss,81
+2022,Arkansas State,Sun Belt,netPassingYards,2721
+2022,Memphis,American Athletic,fourthDowns,24
+2022,Kentucky,SEC,passCompletions,202
+2022,South Alabama,Sun Belt,tacklesForLoss,80
+2022,California,Pac-12,fumblesRecovered,13
+2022,Arkansas State,Sun Belt,turnovers,9
+2022,Virginia,ACC,kickReturnYards,440
+2022,Georgia Southern,Sun Belt,passCompletions,344
+2022,Texas Tech,Big 12,passingTDs,25
+2022,Oklahoma State,Big 12,firstDowns,279
+2022,San Diego State,Mountain West,rushingYards,1807
+2022,Nevada,Mountain West,kickReturnTDs,0
+2022,Oklahoma State,Big 12,totalYards,4986
+2022,Notre Dame,FBS Independents,totalYards,4592
+2022,Kansas State,Big 12,rushingTDs,30
+2022,Texas State,Sun Belt,sacks,26
+2022,Northwestern,Big Ten,thirdDowns,193
+2022,Temple,American Athletic,fumblesRecovered,10
+2022,Michigan State,Big Ten,passesIntercepted,2
+2022,New Mexico,Mountain West,thirdDowns,159
+2022,LSU,SEC,passAttempts,442
+2022,USC,Pac-12,rushingYards,2264
+2022,SMU,American Athletic,puntReturns,13
+2022,Notre Dame,FBS Independents,fumblesRecovered,7
+2022,Toledo,Mid-American,kickReturnTDs,0
+2022,Wyoming,Mountain West,passesIntercepted,6
+2022,Eastern Michigan,Mid-American,rushingTDs,22
+2022,Oklahoma State,Big 12,fourthDowns,15
+2022,South Florida,American Athletic,interceptions,9
+2022,South Florida,American Athletic,rushingAttempts,442
+2022,Michigan State,Big Ten,fumblesRecovered,14
+2022,Arizona State,Pac-12,kickReturnTDs,0
+2022,Syracuse,ACC,interceptionYards,86
+2022,Central Michigan,Mid-American,netPassingYards,2497
+2022,Hawai'i,Mountain West,kickReturns,42
+2022,Appalachian State,Sun Belt,thirdDownConversions,61
+2022,Stanford,Pac-12,interceptionTDs,0
+2022,Washington State,Pac-12,fumblesLost,8
+2022,SMU,American Athletic,puntReturnTDs,0
+2022,Stanford,Pac-12,puntReturnYards,64
+2022,Florida State,ACC,firstDowns,289
+2022,UMass,FBS Independents,firstDowns,175
+2022,Minnesota,Big Ten,fourthDowns,11
+2022,Louisiana,Sun Belt,interceptionTDs,1
+2022,Navy,American Athletic,netPassingYards,1030
+2022,Louisiana Monroe,Sun Belt,puntReturnTDs,1
+2022,Western Michigan,Mid-American,passAttempts,335
+2022,Kansas State,Big 12,penaltyYards,561
+2022,Missouri,SEC,possessionTime,22314
+2022,Louisiana,Sun Belt,penaltyYards,660
+2022,Mississippi State,SEC,interceptions,7
+2022,Georgia Tech,ACC,totalYards,3902
+2022,Cincinnati,American Athletic,possessionTime,20379
+2022,Florida State,ACC,fourthDownConversions,8
+2022,Arkansas State,Sun Belt,fumblesLost,4
+2022,James Madison,Sun Belt,totalYards,4977
+2022,Mississippi State,SEC,fumblesLost,10
+2022,Florida State,ACC,puntReturns,23
+2022,Troy,Sun Belt,fourthDownConversions,17
+2022,Tulsa,American Athletic,fourthDowns,17
+2022,Utah State,Mountain West,fourthDownConversions,18
+2022,Cincinnati,American Athletic,interceptions,8
+2022,Navy,American Athletic,puntReturns,16
+2022,San Diego State,Mountain West,tacklesForLoss,77
+2022,Oregon State,Pac-12,passesIntercepted,12
+2022,Wyoming,Mountain West,thirdDownConversions,54
+2022,Notre Dame,FBS Independents,fourthDowns,15
+2022,Western Michigan,Mid-American,fumblesRecovered,16
+2022,North Texas,Conference USA,puntReturns,11
+2022,Liberty,FBS Independents,firstDowns,253
+2022,UNLV,Mountain West,kickReturnYards,429
+2022,UAB,Conference USA,passCompletions,177
+2022,UT San Antonio,Conference USA,rushingYards,2307
+2022,Florida Atlantic,Conference USA,interceptions,5
+2022,Kentucky,SEC,puntReturnTDs,0
+2022,Tulsa,American Athletic,puntReturns,17
+2022,Ohio,Mid-American,rushingTDs,22
+2022,Tulsa,American Athletic,sacks,16
+2022,Florida International,Conference USA,passAttempts,469
+2022,New Mexico,Mountain West,turnovers,14
+2022,Florida International,Conference USA,interceptions,16
+2022,Kansas,Big 12,rushingTDs,27
+2022,UT San Antonio,Conference USA,fourthDownConversions,12
+2022,Georgia Tech,ACC,kickReturnYards,273
+2022,Texas,Big 12,fourthDownConversions,10
+2022,UT San Antonio,Conference USA,thirdDowns,174
+2022,Florida,SEC,kickReturnYards,495
+2022,Memphis,American Athletic,interceptionTDs,3
+2022,Central Michigan,Mid-American,fourthDowns,33
+2022,Kansas State,Big 12,fumblesLost,6
+2022,Oregon State,Pac-12,possessionTime,23182
+2022,Boston College,ACC,possessionTime,21062
+2022,Ohio State,Big Ten,fumblesLost,4
+2022,James Madison,Sun Belt,passingTDs,27
+2022,Louisiana Monroe,Sun Belt,passAttempts,331
+2022,Iowa State,Big 12,totalYards,4427
+2022,Texas Tech,Big 12,rushingAttempts,478
+2022,UT San Antonio,Conference USA,interceptionYards,208
+2022,Florida,SEC,penalties,78
+2022,Boise State,Mountain West,kickReturnYards,518
+2022,NC State,ACC,penaltyYards,717
+2022,Baylor,Big 12,puntReturns,15
+2022,Penn State,Big Ten,puntReturnYards,101
+2022,Syracuse,ACC,kickReturnYards,431
+2022,Connecticut,FBS Independents,turnovers,17
+2022,Stanford,Pac-12,games,12
+2022,Colorado,Pac-12,kickReturns,35
+2022,Army,FBS Independents,rushingAttempts,645
+2022,Alabama,SEC,puntReturnYards,441
+2022,Southern Mississippi,Sun Belt,thirdDowns,169
+2022,South Alabama,Sun Belt,passAttempts,392
+2022,Louisiana,Sun Belt,passesIntercepted,15
+2022,Arizona,Pac-12,firstDowns,289
+2022,Alabama,SEC,interceptionTDs,1
+2022,Central Michigan,Mid-American,interceptionYards,29
+2022,Connecticut,FBS Independents,fourthDownConversions,7
+2022,Vanderbilt,SEC,thirdDownConversions,63
+2022,Vanderbilt,SEC,fumblesLost,10
+2022,Georgia,SEC,interceptions,6
+2022,Texas State,Sun Belt,kickReturns,25
+2022,Rutgers,Big Ten,sacks,20
+2022,Maryland,Big Ten,thirdDownConversions,73
+2022,USC,Pac-12,possessionTime,24417
+2022,UT San Antonio,Conference USA,passCompletions,318
+2022,Tulane,American Athletic,kickReturnYards,577
+2022,Marshall,Sun Belt,puntReturnYards,147
+2022,Miami,ACC,fumblesRecovered,12
+2022,Wyoming,Mountain West,puntReturnTDs,1
+2022,Virginia,ACC,netPassingYards,2210
+2022,Kent State,Mid-American,interceptionYards,71
+2022,Army,FBS Independents,passCompletions,42
+2022,Pittsburgh,ACC,fourthDowns,16
+2022,Michigan State,Big Ten,fumblesLost,4
+2022,BYU,FBS Independents,puntReturns,14
+2022,BYU,FBS Independents,turnovers,9
+2022,BYU,FBS Independents,passesIntercepted,7
+2022,Boise State,Mountain West,passingTDs,19
+2022,Indiana,Big Ten,fourthDowns,23
+2022,Louisiana Tech,Conference USA,penaltyYards,767
+2022,Tulsa,American Athletic,thirdDownConversions,67
+2022,Marshall,Sun Belt,passCompletions,215
+2022,Illinois,Big Ten,passCompletions,251
+2022,Vanderbilt,SEC,fourthDownConversions,11
+2022,North Carolina,ACC,rushingAttempts,475
+2022,Northwestern,Big Ten,turnovers,30
+2022,San José State,Mountain West,possessionTime,18980
+2022,Arkansas State,Sun Belt,passesIntercepted,6
+2022,New Mexico State,FBS Independents,passingTDs,16
+2022,Texas Tech,Big 12,fourthDownConversions,29
+2022,Texas State,Sun Belt,penalties,58
+2022,Utah State,Mountain West,rushingYards,1945
+2022,LSU,SEC,interceptionYards,75
+2022,East Carolina,American Athletic,tacklesForLoss,70
+2022,Oklahoma,Big 12,rushingYards,2599
+2022,Illinois,Big Ten,kickReturnTDs,0
+2022,Georgia State,Sun Belt,thirdDownConversions,74
+2022,Boise State,Mountain West,fumblesLost,8
+2022,Kent State,Mid-American,fumblesRecovered,9
+2022,Tulane,American Athletic,fumblesLost,10
+2022,Iowa State,Big 12,rushingTDs,10
+2022,Utah State,Mountain West,thirdDowns,188
+2022,Hawai'i,Mountain West,kickReturnTDs,0
+2022,Minnesota,Big Ten,interceptionTDs,0
+2022,South Alabama,Sun Belt,totalYards,5094
+2022,USC,Pac-12,passesIntercepted,19
+2022,BYU,FBS Independents,totalYards,5283
+2022,Baylor,Big 12,kickReturns,29
+2022,SMU,American Athletic,rushingTDs,25
+2022,SMU,American Athletic,fourthDownConversions,20
+2022,Washington,Pac-12,kickReturnTDs,0
+2022,Buffalo,Mid-American,passingTDs,14
+2022,San Diego State,Mountain West,firstDowns,191
+2022,Tennessee,SEC,firstDowns,310
+2022,Northern Illinois,Mid-American,rushingAttempts,478
+2022,Washington,Pac-12,passesIntercepted,7
+2022,Middle Tennessee,Conference USA,possessionTime,20784
+2022,Rutgers,Big Ten,interceptions,14
+2022,Tennessee,SEC,penalties,96
+2022,Kentucky,SEC,fourthDownConversions,13
+2022,Arkansas,SEC,thirdDowns,179
+2022,Rutgers,Big Ten,passingTDs,11
+2022,Minnesota,Big Ten,interceptionYards,131
+2022,Tennessee,SEC,thirdDownConversions,66
+2022,Arkansas,SEC,puntReturns,15
+2022,North Texas,Conference USA,rushingTDs,22
+2022,Kansas,Big 12,puntReturns,4
+2022,Wake Forest,ACC,tacklesForLoss,77
+2022,Akron,Mid-American,totalYards,4150
+2022,Baylor,Big 12,passCompletions,236
+2022,Notre Dame,FBS Independents,firstDowns,254
+2022,Boston College,ACC,interceptionTDs,0
+2022,BYU,FBS Independents,penalties,69
+2022,Temple,American Athletic,firstDowns,220
+2022,Clemson,ACC,turnovers,20
+2022,Boston College,ACC,sacks,26
+2022,Florida Atlantic,Conference USA,puntReturns,15
+2022,Middle Tennessee,Conference USA,netPassingYards,3206
+2022,Rutgers,Big Ten,firstDowns,178
+2022,Louisiana Tech,Conference USA,kickReturnTDs,0
+2022,Memphis,American Athletic,rushingTDs,28
+2022,Michigan State,Big Ten,interceptionTDs,1
+2022,Pittsburgh,ACC,netPassingYards,2649
+2022,San José State,Mountain West,fumblesLost,2
+2022,Mississippi State,SEC,passCompletions,397
+2022,Georgia Tech,ACC,kickReturns,13
+2022,BYU,FBS Independents,puntReturnYards,127
+2022,Wake Forest,ACC,interceptions,12
+2022,Arkansas,SEC,sacks,39
+2022,Georgia,SEC,kickReturns,19
+2022,North Carolina,ACC,passingTDs,35
+2022,Rice,Conference USA,passAttempts,364
+2022,Army,FBS Independents,games,12
+2022,Duke,ACC,thirdDowns,157
+2022,Ohio,Mid-American,turnovers,12
+2022,UTEP,Conference USA,netPassingYards,2625
+2022,Tennessee,SEC,puntReturns,19
+2022,UNLV,Mountain West,sacks,27
+2022,Army,FBS Independents,fumblesRecovered,10
+2022,Texas Tech,Big 12,passCompletions,325
+2022,Fresno State,Mountain West,puntReturns,13
+2022,Buffalo,Mid-American,thirdDownConversions,69
+2022,San Diego State,Mountain West,kickReturns,32
+2022,Louisiana,Sun Belt,thirdDowns,175
+2022,Washington State,Pac-12,interceptionYards,245
+2022,Arkansas,SEC,possessionTime,21092
+2022,Nevada,Mountain West,thirdDownConversions,68
+2022,Army,FBS Independents,puntReturnYards,167
+2022,New Mexico,Mountain West,kickReturns,26
+2022,Georgia Southern,Sun Belt,rushingYards,1694
+2022,Miami,ACC,passesIntercepted,13
+2022,Coastal Carolina,Sun Belt,kickReturnYards,485
+2022,North Carolina,ACC,tacklesForLoss,47
+2022,Tulane,American Athletic,passesIntercepted,11
+2022,Utah,Pac-12,rushingYards,2864
+2022,Missouri,SEC,sacks,35
+2022,Coastal Carolina,Sun Belt,firstDowns,263
+2022,Charlotte,Conference USA,fumblesRecovered,7
+2022,Georgia,SEC,interceptionYards,119
+2022,Arkansas,SEC,firstDowns,282
+2022,Iowa,Big Ten,fourthDowns,13
+2022,Iowa State,Big 12,interceptionYards,84
+2022,Texas Tech,Big 12,rushingTDs,25
+2022,Nevada,Mountain West,penalties,72
+2022,Kent State,Mid-American,puntReturnTDs,1
+2022,Purdue,Big Ten,puntReturnTDs,0
+2022,LSU,SEC,fumblesLost,12
+2022,Southern Mississippi,Sun Belt,rushingTDs,13
+2022,Boston College,ACC,totalYards,3733
+2022,Cincinnati,American Athletic,interceptionTDs,2
+2022,Penn State,Big Ten,kickReturnTDs,1
+2022,South Florida,American Athletic,sacks,14
+2022,Texas,Big 12,penalties,73
+2022,Utah,Pac-12,interceptionYards,293
+2022,UTEP,Conference USA,kickReturnYards,342
+2022,Tennessee,SEC,thirdDowns,153
+2022,Virginia,ACC,puntReturnYards,47
+2022,Bowling Green,Mid-American,games,12
+2022,Colorado,Pac-12,thirdDownConversions,52
+2022,UT San Antonio,Conference USA,fumblesRecovered,9
+2022,Texas A&M,SEC,penalties,76
+2022,Colorado State,Mountain West,totalYards,3429
+2022,UCLA,Pac-12,kickReturns,36
+2022,Oregon State,Pac-12,fumblesLost,5
+2022,Army,FBS Independents,passingTDs,5
+2022,Oklahoma State,Big 12,interceptionYards,88
+2022,Minnesota,Big Ten,games,12
+2022,New Mexico State,FBS Independents,sacks,26
+2022,Illinois,Big Ten,turnovers,16
+2022,Colorado,Pac-12,firstDowns,190
+2022,Arizona,Pac-12,fourthDowns,23
+2022,Utah State,Mountain West,puntReturnYards,196
+2022,North Texas,Conference USA,tacklesForLoss,54
+2022,Coastal Carolina,Sun Belt,interceptionYards,101
+2022,Texas A&M,SEC,tacklesForLoss,66
+2022,UCLA,Pac-12,puntReturnTDs,0
+2022,Miami (OH),Mid-American,kickReturnYards,299
+2022,West Virginia,Big 12,thirdDowns,178
+2022,Mississippi State,SEC,kickReturnTDs,1
+2022,Georgia Tech,ACC,fumblesLost,4
+2022,Rice,Conference USA,fumblesRecovered,8
+2022,Liberty,FBS Independents,puntReturns,17
+2022,UCLA,Pac-12,fumblesLost,7
+2022,UCF,American Athletic,passAttempts,416
+2022,Louisiana Monroe,Sun Belt,rushingTDs,16
+2022,Iowa State,Big 12,games,12
+2022,Kentucky,SEC,tacklesForLoss,51
+2022,Northern Illinois,Mid-American,passesIntercepted,8
+2022,Wyoming,Mountain West,thirdDowns,159
+2022,Oregon,Pac-12,rushingAttempts,476
+2022,Air Force,Mountain West,games,12
+2022,North Carolina,ACC,passCompletions,326
+2022,North Texas,Conference USA,puntReturnTDs,0
+2022,Auburn,SEC,turnovers,22
+2022,Washington State,Pac-12,firstDowns,240
+2022,Temple,American Athletic,puntReturnTDs,0
+2022,Pittsburgh,ACC,kickReturnYards,421
+2022,Troy,Sun Belt,interceptionYards,174
+2022,Temple,American Athletic,rushingAttempts,318
+2022,Vanderbilt,SEC,passAttempts,346
+2022,Nebraska,Big Ten,passesIntercepted,9
+2022,Missouri,SEC,passCompletions,219
+2022,Notre Dame,FBS Independents,kickReturnYards,329
+2022,Kansas State,Big 12,thirdDownConversions,69
+2022,Nebraska,Big Ten,passAttempts,340
+2022,Central Michigan,Mid-American,passesIntercepted,4
+2022,San Diego State,Mountain West,fumblesLost,9
+2022,Wyoming,Mountain West,fumblesRecovered,11
+2022,Ohio,Mid-American,interceptionYards,148
+2022,Vanderbilt,SEC,interceptionTDs,0
+2022,Penn State,Big Ten,kickReturns,17
+2022,Navy,American Athletic,thirdDowns,196
+2022,Utah,Pac-12,kickReturnTDs,0
+2022,Rice,Conference USA,thirdDowns,158
+2022,Memphis,American Athletic,kickReturnTDs,0
+2022,South Florida,American Athletic,tacklesForLoss,62
+2022,Arkansas,SEC,totalYards,5445
+2022,Indiana,Big Ten,fourthDownConversions,9
+2022,Pittsburgh,ACC,puntReturnTDs,1
+2022,Rutgers,Big Ten,fourthDownConversions,9
+2022,Oklahoma State,Big 12,possessionTime,20341
+2022,Toledo,Mid-American,turnovers,25
+2022,UAB,Conference USA,puntReturns,13
+2022,South Carolina,SEC,fourthDownConversions,12
+2022,Oregon,Pac-12,thirdDowns,150
+2022,East Carolina,American Athletic,puntReturns,18
+2022,Colorado,Pac-12,penaltyYards,579
+2022,Rice,Conference USA,kickReturns,24
+2022,Virginia,ACC,games,12
+2022,Navy,American Athletic,fumblesRecovered,12
+2022,Akron,Mid-American,penalties,72
+2022,UCLA,Pac-12,fourthDownConversions,15
+2022,Connecticut,FBS Independents,kickReturnYards,541
+2022,San Diego State,Mountain West,puntReturns,27
+2022,Minnesota,Big Ten,passCompletions,161
+2022,Mississippi State,SEC,passingTDs,35
+2022,Georgia Southern,Sun Belt,puntReturnYards,164
+2022,Utah State,Mountain West,penaltyYards,953
+2022,Marshall,Sun Belt,interceptionTDs,1
+2022,Purdue,Big Ten,tacklesForLoss,60
+2022,Oregon State,Pac-12,kickReturnTDs,0
+2022,Purdue,Big Ten,kickReturnTDs,0
+2022,Temple,American Athletic,possessionTime,19460
+2022,Coastal Carolina,Sun Belt,rushingTDs,19
+2022,Troy,Sun Belt,kickReturnYards,289
+2022,Colorado State,Mountain West,kickReturns,19
+2022,Tulsa,American Athletic,passCompletions,241
+2022,Toledo,Mid-American,passCompletions,229
+2022,Georgia,SEC,thirdDownConversions,82
+2022,Miami (OH),Mid-American,puntReturnYards,147
+2022,Alabama,SEC,thirdDowns,152
+2022,Baylor,Big 12,rushingAttempts,509
+2022,Texas Tech,Big 12,turnovers,22
+2022,Georgia Southern,Sun Belt,games,12
+2022,New Mexico,Mountain West,interceptionYards,90
+2022,Louisiana Tech,Conference USA,sacks,16
+2022,Old Dominion,Sun Belt,puntReturnTDs,0
+2022,Miami (OH),Mid-American,penalties,66
+2022,East Carolina,American Athletic,turnovers,7
+2022,New Mexico State,FBS Independents,interceptions,12
+2022,Kent State,Mid-American,kickReturns,38
+2022,Tennessee,SEC,puntReturnTDs,1
+2022,Northern Illinois,Mid-American,games,12
+2022,Pittsburgh,ACC,interceptions,10
+2022,UT San Antonio,Conference USA,passAttempts,461
+2022,Florida State,ACC,kickReturnTDs,1
+2022,Georgia,SEC,penaltyYards,598
+2022,Oklahoma,Big 12,interceptionTDs,0
+2022,Northwestern,Big Ten,passingTDs,10
+2022,Arizona State,Pac-12,sacks,17
+2022,North Texas,Conference USA,thirdDowns,171
+2022,San Diego State,Mountain West,penaltyYards,682
+2022,Fresno State,Mountain West,passingTDs,20
+2022,Oklahoma,Big 12,fumblesLost,6
+2022,Houston,American Athletic,puntReturnYards,155
+2022,Syracuse,ACC,thirdDownConversions,49
+2022,Ohio State,Big Ten,rushingYards,2382
+2022,Kent State,Mid-American,fourthDowns,24
+2022,Houston,American Athletic,thirdDownConversions,77
+2022,Florida State,ACC,passingTDs,26
+2022,Ohio State,Big Ten,rushingTDs,29
+2022,North Carolina,ACC,penalties,81
+2022,Charlotte,Conference USA,firstDowns,254
+2022,Old Dominion,Sun Belt,firstDowns,189
+2022,Buffalo,Mid-American,fourthDownConversions,19
+2022,Tennessee,SEC,interceptionYards,70
+2022,Tennessee,SEC,kickReturns,16
+2022,South Alabama,Sun Belt,penaltyYards,888
+2022,SMU,American Athletic,rushingYards,1859
+2022,UMass,FBS Independents,sacks,19
+2022,Northern Illinois,Mid-American,firstDowns,225
+2022,Charlotte,Conference USA,penaltyYards,702
+2022,Texas,Big 12,passingTDs,21
+2022,Boise State,Mountain West,games,13
+2022,Ole Miss,SEC,puntReturnTDs,0
+2022,San Diego State,Mountain West,fourthDowns,17
+2022,UNLV,Mountain West,puntReturnYards,75
+2022,Miami,ACC,kickReturnTDs,1
+2022,BYU,FBS Independents,firstDowns,269
+2022,Miami,ACC,possessionTime,22111
+2022,Cincinnati,American Athletic,interceptionYards,65
+2022,Air Force,Mountain West,fourthDownConversions,19
+2022,Charlotte,Conference USA,puntReturns,14
+2022,Florida Atlantic,Conference USA,puntReturnYards,136
+2022,Central Michigan,Mid-American,games,12
+2022,Connecticut,FBS Independents,penalties,82
+2022,Utah,Pac-12,passingTDs,29
+2022,New Mexico,Mountain West,passesIntercepted,9
+2022,Miami,ACC,sacks,37
+2022,Duke,ACC,tacklesForLoss,61
+2022,Oklahoma State,Big 12,rushingTDs,20
+2022,NC State,ACC,passAttempts,423
+2022,Arizona State,Pac-12,kickReturns,34
+2022,Kansas State,Big 12,rushingYards,2725
+2022,Eastern Michigan,Mid-American,kickReturnTDs,1
+2022,Connecticut,FBS Independents,fumblesRecovered,16
+2022,Central Michigan,Mid-American,passingTDs,16
+2022,Middle Tennessee,Conference USA,penaltyYards,715
+2022,TCU,Big 12,thirdDownConversions,70
+2022,Kansas,Big 12,totalYards,5090
+2022,Louisville,ACC,totalYards,4866
+2022,Arizona State,Pac-12,possessionTime,22137
+2022,Toledo,Mid-American,rushingAttempts,525
+2022,Kansas State,Big 12,passAttempts,353
+2022,Florida Atlantic,Conference USA,penaltyYards,696
+2022,Utah State,Mountain West,turnovers,24
+2022,Liberty,FBS Independents,fourthDownConversions,11
+2022,Central Michigan,Mid-American,passAttempts,389
+2022,California,Pac-12,passCompletions,291
+2022,Cincinnati,American Athletic,passingTDs,21
+2022,Georgia Tech,ACC,penalties,69
+2022,Stanford,Pac-12,kickReturns,46
+2022,Penn State,Big Ten,interceptionTDs,1
+2022,Appalachian State,Sun Belt,fumblesLost,5
+2022,Duke,ACC,possessionTime,23746
+2022,Iowa,Big Ten,passCompletions,178
+2022,Wisconsin,Big Ten,thirdDownConversions,64
+2022,Louisiana,Sun Belt,sacks,27
+2022,Army,FBS Independents,interceptionTDs,0
+2022,North Texas,Conference USA,turnovers,20
+2022,Duke,ACC,passCompletions,236
+2022,Nebraska,Big Ten,netPassingYards,2650
+2022,Kent State,Mid-American,fumblesLost,5
+2022,Colorado,Pac-12,netPassingYards,2075
+2022,Iowa,Big Ten,kickReturnTDs,0
+2022,UTEP,Conference USA,fumblesLost,9
+2022,James Madison,Sun Belt,rushingTDs,24
+2022,USC,Pac-12,penaltyYards,775
+2022,New Mexico,Mountain West,possessionTime,20849
+2022,Temple,American Athletic,fourthDownConversions,14
+2022,Liberty,FBS Independents,games,12
+2022,Colorado State,Mountain West,puntReturnTDs,1
+2022,Marshall,Sun Belt,passesIntercepted,15
+2022,Akron,Mid-American,fourthDownConversions,12
+2022,Ohio,Mid-American,kickReturns,54
+2022,Ohio State,Big Ten,puntReturns,19
+2022,UCF,American Athletic,passCompletions,269
+2022,Miami,ACC,kickReturnYards,930
+2022,Georgia Tech,ACC,passingTDs,10
+2022,Connecticut,FBS Independents,netPassingYards,1284
+2022,New Mexico State,FBS Independents,thirdDowns,147
+2022,New Mexico,Mountain West,totalYards,2722
+2022,Michigan,Big Ten,penalties,53
+2022,Vanderbilt,SEC,penalties,63
+2022,Michigan,Big Ten,rushingYards,3159
+2022,Texas State,Sun Belt,firstDowns,212
+2022,Alabama,SEC,penalties,98
+2022,Oregon State,Pac-12,kickReturnYards,641
+2022,Vanderbilt,SEC,turnovers,16
+2022,Army,FBS Independents,thirdDowns,159
+2022,Coastal Carolina,Sun Belt,fourthDowns,20
+2022,East Carolina,American Athletic,passingTDs,23
+2022,Miami (OH),Mid-American,tacklesForLoss,55
+2022,BYU,FBS Independents,thirdDowns,145
+2022,Utah State,Mountain West,passingTDs,17
+2022,Houston,American Athletic,kickReturnYards,796
+2022,NC State,ACC,possessionTime,23015
+2022,Nebraska,Big Ten,penalties,65
+2022,Virginia,ACC,rushingTDs,13
+2022,UAB,Conference USA,passingTDs,14
+2022,Wake Forest,ACC,netPassingYards,3775
+2022,Fresno State,Mountain West,thirdDownConversions,75
+2022,Cincinnati,American Athletic,fumblesLost,4
+2022,UT San Antonio,Conference USA,kickReturnTDs,1
+2022,North Texas,Conference USA,rushingAttempts,496
+2022,Wisconsin,Big Ten,passAttempts,300
+2022,Utah State,Mountain West,games,12
+2022,Texas A&M,SEC,penaltyYards,589
+2022,LSU,SEC,kickReturns,16
+2022,Ball State,Mid-American,fumblesLost,7
+2022,UT San Antonio,Conference USA,interceptionTDs,1
+2022,UTEP,Conference USA,penaltyYards,669
+2022,Pittsburgh,ACC,rushingAttempts,476
+2022,Louisiana Tech,Conference USA,fourthDownConversions,13
+2022,Tulsa,American Athletic,rushingTDs,18
+2022,Houston,American Athletic,totalYards,5566
+2022,Georgia State,Sun Belt,turnovers,19
+2022,South Carolina,SEC,interceptionYards,157
+2022,Georgia Southern,Sun Belt,kickReturns,25
+2022,UNLV,Mountain West,kickReturns,22
+2022,Miami,ACC,kickReturns,35
+2022,Tulane,American Athletic,fourthDownConversions,14
+2022,Rutgers,Big Ten,kickReturns,27
+2022,Washington State,Pac-12,kickReturnYards,536
+2022,San José State,Mountain West,passAttempts,384
+2022,West Virginia,Big 12,turnovers,18
+2022,Oklahoma,Big 12,kickReturns,25
+2022,California,Pac-12,kickReturnTDs,0
+2022,Oregon,Pac-12,tacklesForLoss,49
+2022,Florida International,Conference USA,thirdDowns,173
+2022,Fresno State,Mountain West,passCompletions,310
+2022,Florida Atlantic,Conference USA,totalYards,4925
+2022,Pittsburgh,ACC,puntReturnYards,284
+2022,Utah State,Mountain West,sacks,29
+2022,Louisiana Monroe,Sun Belt,fourthDownConversions,5
+2022,Ball State,Mid-American,puntReturnYards,57
+2022,Michigan,Big Ten,rushingTDs,38
+2022,Purdue,Big Ten,interceptionTDs,3
+2022,North Texas,Conference USA,thirdDownConversions,72
+2022,Vanderbilt,SEC,fourthDowns,29
+2022,Wyoming,Mountain West,kickReturnYards,258
+2022,Iowa State,Big 12,passingTDs,19
+2022,Missouri,SEC,fumblesRecovered,12
+2022,UNLV,Mountain West,penalties,69
+2022,Rutgers,Big Ten,thirdDowns,172
+2022,Troy,Sun Belt,thirdDowns,161
+2022,East Carolina,American Athletic,rushingTDs,23
+2022,Liberty,FBS Independents,thirdDowns,166
+2022,Florida International,Conference USA,puntReturns,10
+2022,Western Michigan,Mid-American,rushingYards,1635
+2022,Miami,ACC,interceptionTDs,2
+2022,Southern Mississippi,Sun Belt,passesIntercepted,15
+2022,Wyoming,Mountain West,interceptions,11
+2022,Mississippi State,SEC,fourthDownConversions,14
+2022,Wisconsin,Big Ten,interceptions,10
+2022,Miami (OH),Mid-American,rushingYards,1721
+2022,Georgia Tech,ACC,netPassingYards,2306
+2022,Central Michigan,Mid-American,passCompletions,219
+2022,Florida Atlantic,Conference USA,fourthDownConversions,12
+2022,Kansas State,Big 12,kickReturnYards,737
+2022,Iowa State,Big 12,puntReturnTDs,0
+2022,Colorado State,Mountain West,puntReturnYards,202
+2022,Vanderbilt,SEC,passingTDs,22
+2022,Air Force,Mountain West,penaltyYards,366
+2022,Georgia,SEC,fourthDowns,13
+2022,Arkansas,SEC,interceptions,6
+2022,San Diego State,Mountain West,passAttempts,300
+2022,UNLV,Mountain West,passAttempts,361
+2022,Cincinnati,American Athletic,passCompletions,242
+2022,Utah,Pac-12,interceptions,8
+2022,USC,Pac-12,fourthDowns,20
+2022,Texas State,Sun Belt,interceptionTDs,2
+2022,Marshall,Sun Belt,tacklesForLoss,82
+2022,Purdue,Big Ten,kickReturnYards,445
+2022,Arizona State,Pac-12,interceptionTDs,1
+2022,Louisiana Monroe,Sun Belt,kickReturnTDs,0
+2022,Kent State,Mid-American,passCompletions,194
+2022,Hawai'i,Mountain West,passingTDs,13
+2022,Oklahoma,Big 12,possessionTime,18737
+2022,North Texas,Conference USA,fourthDowns,21
+2022,USC,Pac-12,kickReturnYards,588
+2022,Arizona,Pac-12,rushingAttempts,352
+2022,South Carolina,SEC,penalties,82
+2022,Toledo,Mid-American,passingTDs,30
+2022,Southern Mississippi,Sun Belt,passCompletions,182
+2022,New Mexico State,FBS Independents,puntReturnTDs,0
+2022,Florida International,Conference USA,sacks,21
+2022,Duke,ACC,thirdDownConversions,65
+2022,Virginia Tech,ACC,penaltyYards,637
+2022,BYU,FBS Independents,sacks,13
+2022,New Mexico,Mountain West,firstDowns,157
+2022,Marshall,Sun Belt,puntReturnTDs,1
+2022,Oregon State,Pac-12,games,12
+2022,Georgia Tech,ACC,tacklesForLoss,76
+2022,Kansas State,Big 12,netPassingYards,2737
+2022,Kent State,Mid-American,kickReturnTDs,0
+2022,Iowa State,Big 12,passesIntercepted,7
+2022,Air Force,Mountain West,thirdDownConversions,71
+2022,West Virginia,Big 12,passingTDs,20
+2022,LSU,SEC,fumblesRecovered,19
+2022,Eastern Michigan,Mid-American,fumblesRecovered,7
+2022,Appalachian State,Sun Belt,passesIntercepted,7
+2022,Duke,ACC,passAttempts,370
+2022,Florida State,ACC,tacklesForLoss,73
+2022,Missouri,SEC,interceptions,9
+2022,Arizona State,Pac-12,rushingTDs,21
+2022,Illinois,Big Ten,kickReturns,12
+2022,California,Pac-12,penalties,63
+2022,South Alabama,Sun Belt,puntReturnYards,228
+2022,Northwestern,Big Ten,penalties,55
+2022,Northern Illinois,Mid-American,fumblesLost,2
+2022,Wake Forest,ACC,firstDowns,307
+2022,Texas A&M,SEC,possessionTime,20049
+2022,Kent State,Mid-American,interceptions,8
+2022,Auburn,SEC,puntReturnYards,170
+2022,Kent State,Mid-American,turnovers,13
+2022,Ole Miss,SEC,rushingYards,3138
+2022,Florida,SEC,thirdDownConversions,63
+2022,Louisiana Tech,Conference USA,passesIntercepted,11
+2022,Utah,Pac-12,passCompletions,270
+2022,Michigan,Big Ten,interceptions,4
+2022,Oklahoma State,Big 12,puntReturnTDs,1
+2022,Marshall,Sun Belt,netPassingYards,2403
+2022,Kansas State,Big 12,firstDowns,263
+2022,Kansas State,Big 12,passesIntercepted,16
+2022,Northern Illinois,Mid-American,fourthDowns,21
+2022,Michigan State,Big Ten,rushingAttempts,361
+2022,UNLV,Mountain West,interceptionTDs,2
+2022,BYU,FBS Independents,passCompletions,250
+2022,Coastal Carolina,Sun Belt,games,13
+2022,Colorado,Pac-12,thirdDowns,164
+2022,Louisville,ACC,kickReturnTDs,1
+2022,Western Kentucky,Conference USA,thirdDowns,174
+2022,Maryland,Big Ten,kickReturnYards,658
+2022,San José State,Mountain West,puntReturnTDs,0
+2022,Stanford,Pac-12,passesIntercepted,6
+2022,Oklahoma State,Big 12,fumblesLost,5
+2022,Miami,ACC,netPassingYards,2879
+2022,SMU,American Athletic,totalYards,5758
+2022,Charlotte,Conference USA,passCompletions,257
+2022,Oregon State,Pac-12,interceptionTDs,2
+2022,Virginia,ACC,tacklesForLoss,51
+2022,USC,Pac-12,tacklesForLoss,73
+2022,North Texas,Conference USA,rushingYards,2594
+2022,Ole Miss,SEC,games,12
+2022,Rice,Conference USA,kickReturnYards,411
+2022,Georgia,SEC,firstDowns,318
+2022,Georgia Southern,Sun Belt,possessionTime,20271
+2022,Kent State,Mid-American,thirdDownConversions,72
+2022,Georgia State,Sun Belt,interceptionTDs,1
+2022,Indiana,Big Ten,fumblesRecovered,7
+2022,Wisconsin,Big Ten,puntReturns,22
+2022,San José State,Mountain West,interceptionYards,87
+2022,Oregon State,Pac-12,interceptions,13
+2022,Kansas,Big 12,passAttempts,315
+2022,Buffalo,Mid-American,interceptions,8
+2022,UCF,American Athletic,interceptionTDs,0
+2022,Rice,Conference USA,rushingAttempts,428
+2022,Louisiana,Sun Belt,rushingAttempts,424
+2022,LSU,SEC,passCompletions,295
+2022,Virginia Tech,ACC,puntReturns,25
+2022,Florida Atlantic,Conference USA,games,12
+2022,South Alabama,Sun Belt,netPassingYards,3119
+2022,Akron,Mid-American,thirdDowns,155
+2022,Charlotte,Conference USA,passingTDs,27
+2022,Maryland,Big Ten,interceptionYards,59
+2022,Washington,Pac-12,totalYards,6260
+2022,Northwestern,Big Ten,possessionTime,20900
+2022,Oregon State,Pac-12,sacks,17
+2022,Coastal Carolina,Sun Belt,netPassingYards,2988
+2022,Stanford,Pac-12,thirdDowns,164
+2022,Arizona State,Pac-12,turnovers,18
+2022,Boise State,Mountain West,penaltyYards,605
+2022,California,Pac-12,passingTDs,23
+2022,Virginia,ACC,penaltyYards,622
+2022,Virginia Tech,ACC,passCompletions,203
+2022,Michigan,Big Ten,interceptionTDs,1
+2022,UTEP,Conference USA,fumblesRecovered,18
+2022,Texas Tech,Big 12,penaltyYards,561
+2022,UAB,Conference USA,kickReturnYards,556
+2022,Houston,American Athletic,fourthDowns,22
+2022,New Mexico,Mountain West,interceptions,9
+2022,Pittsburgh,ACC,fumblesRecovered,13
+2022,Tennessee,SEC,games,12
+2022,West Virginia,Big 12,interceptionYards,76
+2022,NC State,ACC,fumblesLost,8
+2022,North Carolina,ACC,interceptions,7
+2022,Washington,Pac-12,rushingAttempts,374
+2022,UMass,FBS Independents,kickReturns,34
+2022,Memphis,American Athletic,thirdDownConversions,81
+2022,East Carolina,American Athletic,puntReturnYards,134
+2022,Colorado,Pac-12,puntReturnYards,177
+2022,Florida International,Conference USA,puntReturnYards,31
+2022,North Carolina,ACC,fourthDowns,31
+2022,Georgia Tech,ACC,puntReturnTDs,0
+2022,Akron,Mid-American,firstDowns,254
+2022,Air Force,Mountain West,totalYards,4791
+2022,Oregon,Pac-12,rushingTDs,32
+2022,Oregon State,Pac-12,netPassingYards,2405
+2022,Nebraska,Big Ten,passCompletions,205
+2022,Duke,ACC,fumblesRecovered,18
+2022,Air Force,Mountain West,puntReturnTDs,0
+2022,Texas Tech,Big 12,fourthDowns,47
+2022,SMU,American Athletic,firstDowns,302
+2022,West Virginia,Big 12,netPassingYards,2720
+2022,Buffalo,Mid-American,fourthDowns,31
+2022,Indiana,Big Ten,kickReturnYards,721
+2022,Virginia,ACC,fumblesRecovered,12
+2022,Oregon,Pac-12,thirdDownConversions,69
+2022,Ole Miss,SEC,interceptionYards,34
+2022,Connecticut,FBS Independents,passesIntercepted,12
+2022,UCF,American Athletic,kickReturnTDs,0
+2022,Northern Illinois,Mid-American,passAttempts,328
+2022,South Alabama,Sun Belt,puntReturns,24
+2022,Boise State,Mountain West,rushingYards,2431
+2022,Ole Miss,SEC,interceptions,9
+2022,Duke,ACC,interceptions,6
+2022,Tennessee,SEC,kickReturnTDs,0
+2022,Washington,Pac-12,passCompletions,341
+2022,UMass,FBS Independents,tacklesForLoss,73
+2022,Illinois,Big Ten,penaltyYards,743
+2022,Iowa State,Big 12,fumblesRecovered,14
+2022,Rutgers,Big Ten,passCompletions,168
+2022,Oklahoma,Big 12,fourthDowns,25
+2022,Rice,Conference USA,passCompletions,213
+2022,Air Force,Mountain West,fumblesRecovered,8
+2022,Oregon State,Pac-12,thirdDowns,141
+2022,Wyoming,Mountain West,firstDowns,191
+2022,Louisiana Tech,Conference USA,tacklesForLoss,55
+2022,Kentucky,SEC,fumblesLost,6
+2022,Penn State,Big Ten,tacklesForLoss,96
+2022,Penn State,Big Ten,rushingAttempts,458
+2022,Iowa,Big Ten,rushingYards,1167
+2022,UAB,Conference USA,passAttempts,293
+2022,Arizona,Pac-12,totalYards,5549
+2022,Buffalo,Mid-American,games,13
+2022,Maryland,Big Ten,puntReturnTDs,0
+2022,Memphis,American Athletic,fumblesLost,7
+2022,Appalachian State,Sun Belt,puntReturnYards,78
+2022,Florida Atlantic,Conference USA,sacks,19
+2022,NC State,ACC,rushingTDs,8
+2022,Connecticut,FBS Independents,tacklesForLoss,54
+2022,Middle Tennessee,Conference USA,puntReturnTDs,2
+2022,UCLA,Pac-12,passCompletions,270
+2022,Georgia State,Sun Belt,passCompletions,173
+2022,NC State,ACC,kickReturns,19
+2022,Florida State,ACC,kickReturnYards,360
+2022,Toledo,Mid-American,interceptionTDs,2
+2022,Vanderbilt,SEC,kickReturns,24
+2022,South Carolina,SEC,kickReturnTDs,1
+2022,UAB,Conference USA,puntReturnYards,134
+2022,Oklahoma,Big 12,sacks,26
+2022,Houston,American Athletic,turnovers,19
+2022,Oregon,Pac-12,firstDowns,319
+2022,Boise State,Mountain West,fourthDowns,15
+2022,East Carolina,American Athletic,passesIntercepted,10
+2022,San José State,Mountain West,passCompletions,234
+2022,USC,Pac-12,games,13
+2022,Notre Dame,FBS Independents,rushingTDs,22
+2022,Troy,Sun Belt,interceptions,13
+2022,Kansas,Big 12,interceptionYards,208
+2022,Miami (OH),Mid-American,passesIntercepted,10
+2022,Vanderbilt,SEC,fumblesRecovered,16
+2022,West Virginia,Big 12,possessionTime,22559
+2022,Marshall,Sun Belt,firstDowns,253
+2022,Florida International,Conference USA,kickReturns,36
+2022,Louisiana Monroe,Sun Belt,penaltyYards,537
+2022,Houston,American Athletic,thirdDowns,162
+2022,Tulane,American Athletic,fourthDowns,25
+2022,Illinois,Big Ten,kickReturnYards,245
+2022,Florida,SEC,fumblesLost,5
+2022,Toledo,Mid-American,fumblesRecovered,9
+2022,Ohio,Mid-American,rushingYards,1807
+2022,Florida Atlantic,Conference USA,fumblesLost,8
+2022,Miami (OH),Mid-American,kickReturns,18
+2022,Western Kentucky,Conference USA,puntReturnYards,135
+2022,Troy,Sun Belt,rushingTDs,20
+2022,Georgia,SEC,kickReturnYards,360
+2022,Iowa State,Big 12,passAttempts,479
+2022,Tulane,American Athletic,penaltyYards,450
+2022,Purdue,Big Ten,totalYards,5334
+2022,Northwestern,Big Ten,rushingAttempts,469
+2022,UMass,FBS Independents,netPassingYards,1403
+2022,Western Michigan,Mid-American,penaltyYards,755
+2022,Southern Mississippi,Sun Belt,fourthDownConversions,12
+2022,Iowa,Big Ten,interceptionTDs,2
+2022,Louisiana Monroe,Sun Belt,turnovers,15
+2022,Florida,SEC,possessionTime,20830
+2022,UTEP,Conference USA,passCompletions,203
+2022,Washington,Pac-12,penalties,82
+2022,Louisville,ACC,rushingYards,2326
+2022,Colorado,Pac-12,fumblesLost,12
+2022,Georgia State,Sun Belt,possessionTime,20784
+2022,BYU,FBS Independents,kickReturnTDs,0
+2022,Bowling Green,Mid-American,penalties,96
+2022,Nebraska,Big Ten,interceptionTDs,0
+2022,Miami,ACC,penaltyYards,715
+2022,Minnesota,Big Ten,thirdDowns,156
+2022,UMass,FBS Independents,interceptions,14
+2022,BYU,FBS Independents,games,12
+2022,Michigan,Big Ten,turnovers,7
+2022,Purdue,Big Ten,fourthDownConversions,15
+2022,Ole Miss,SEC,passCompletions,214
+2022,Coastal Carolina,Sun Belt,totalYards,4930
+2022,Colorado,Pac-12,passCompletions,179
+2022,Western Michigan,Mid-American,fourthDownConversions,13
+2022,Boston College,ACC,netPassingYards,2965
+2022,Alabama,SEC,tacklesForLoss,82
+2022,Kent State,Mid-American,sacks,26
+2022,Kent State,Mid-American,firstDowns,274
+2022,Western Kentucky,Conference USA,fumblesLost,10
+2022,Clemson,ACC,interceptionYards,153
+2022,Bowling Green,Mid-American,kickReturnTDs,0
+2022,Notre Dame,FBS Independents,possessionTime,22913
+2022,UMass,FBS Independents,passesIntercepted,9
+2022,Oregon,Pac-12,interceptionYards,207
+2022,Indiana,Big Ten,passAttempts,482
+2022,Kansas State,Big 12,rushingAttempts,530
+2022,Louisiana Tech,Conference USA,thirdDowns,177
+2022,Temple,American Athletic,kickReturnTDs,0
+2022,Middle Tennessee,Conference USA,thirdDownConversions,66
+2022,Pittsburgh,ACC,turnovers,19
+2022,Southern Mississippi,Sun Belt,netPassingYards,2509
+2022,Liberty,FBS Independents,passesIntercepted,14
+2022,Western Michigan,Mid-American,puntReturns,10
+2022,Wake Forest,ACC,passingTDs,40
+2022,Akron,Mid-American,netPassingYards,3124
+2022,Tulsa,American Athletic,fumblesLost,8
+2022,Air Force,Mountain West,rushingAttempts,735
+2022,NC State,ACC,interceptions,6
+2022,Cincinnati,American Athletic,firstDowns,231
+2022,Washington,Pac-12,turnovers,10
+2022,Nevada,Mountain West,turnovers,17
+2022,UNLV,Mountain West,interceptions,7
+2022,Northwestern,Big Ten,rushingYards,1501
+2022,Illinois,Big Ten,possessionTime,23604
+2022,Arkansas State,Sun Belt,kickReturnTDs,1
+2022,Liberty,FBS Independents,sacks,41
+2022,Air Force,Mountain West,interceptions,2
+2022,Syracuse,ACC,netPassingYards,2681
+2022,Louisiana Tech,Conference USA,passCompletions,254
+2022,Northwestern,Big Ten,passAttempts,417
+2022,Pittsburgh,ACC,puntReturns,33
+2022,Michigan,Big Ten,games,13
+2022,Illinois,Big Ten,fumblesRecovered,9
+2022,Wisconsin,Big Ten,fumblesRecovered,4
+2022,Nevada,Mountain West,puntReturnYards,103
+2022,Wake Forest,ACC,fourthDowns,30
+2022,Wake Forest,ACC,rushingAttempts,470
+2022,Alabama,SEC,rushingYards,2369
+2022,California,Pac-12,puntReturnTDs,0
+2022,UNLV,Mountain West,passingTDs,15
+2022,Wake Forest,ACC,games,12
+2022,SMU,American Athletic,kickReturnYards,362
+2022,UCLA,Pac-12,tacklesForLoss,55
+2022,South Alabama,Sun Belt,interceptionYards,114
+2022,Louisiana Monroe,Sun Belt,kickReturnYards,511
+2022,Coastal Carolina,Sun Belt,fourthDownConversions,12
+2022,Syracuse,ACC,fourthDownConversions,4
+2022,Georgia State,Sun Belt,interceptionYards,114
+2022,Kansas,Big 12,penaltyYards,571
+2022,SMU,American Athletic,fourthDowns,34
+2022,Wisconsin,Big Ten,rushingYards,2079
+2022,Ball State,Mid-American,turnovers,21
+2022,Army,FBS Independents,fumblesLost,8
+2022,Arkansas,SEC,penaltyYards,662
+2022,Wisconsin,Big Ten,puntReturnTDs,0
+2022,Kansas,Big 12,netPassingYards,2763
+2022,California,Pac-12,interceptionYards,127
+2022,Duke,ACC,fumblesLost,4
+2022,Georgia Southern,Sun Belt,puntReturns,17
+2022,USC,Pac-12,puntReturns,16
+2022,Buffalo,Mid-American,turnovers,16
+2022,Alabama,SEC,kickReturns,19
+2022,Temple,American Athletic,rushingTDs,11
+2022,Old Dominion,Sun Belt,totalYards,4074
+2022,Minnesota,Big Ten,rushingTDs,32
+2022,Michigan State,Big Ten,fourthDownConversions,12
+2022,Georgia Tech,ACC,interceptions,9
+2022,Virginia,ACC,passCompletions,185
+2022,Tennessee,SEC,netPassingYards,3988
+2022,Tulane,American Athletic,kickReturns,27
+2022,Nebraska,Big Ten,kickReturnTDs,0
+2022,Ohio State,Big Ten,passAttempts,376
+2022,Nevada,Mountain West,totalYards,3654
+2022,Louisville,ACC,interceptionYards,214
+2022,Memphis,American Athletic,kickReturns,28
+2022,Minnesota,Big Ten,penalties,44
+2022,Kansas,Big 12,turnovers,16
+2022,Cincinnati,American Athletic,passesIntercepted,9
+2022,Iowa,Big Ten,netPassingYards,1898
+2022,Akron,Mid-American,rushingTDs,15
+2022,South Carolina,SEC,turnovers,25
+2022,Iowa,Big Ten,fumblesLost,10
+2022,Syracuse,ACC,thirdDowns,135
+2022,Boston College,ACC,interceptionYards,87
+2022,New Mexico,Mountain West,fumblesLost,5
+2022,Southern Mississippi,Sun Belt,games,12
+2022,Northwestern,Big Ten,netPassingYards,2524
+2022,North Texas,Conference USA,interceptionYards,149
+2022,Western Kentucky,Conference USA,firstDowns,314
+2022,Oklahoma State,Big 12,penaltyYards,401
+2022,Illinois,Big Ten,netPassingYards,2500
+2022,Ohio,Mid-American,puntReturns,12
+2022,USC,Pac-12,interceptions,4
+2022,Texas Tech,Big 12,fumblesLost,5
+2022,New Mexico,Mountain West,fourthDownConversions,4
+2022,Louisiana Monroe,Sun Belt,puntReturnYards,29
+2022,Wyoming,Mountain West,kickReturns,12
+2022,Middle Tennessee,Conference USA,kickReturns,16
+2022,Arizona State,Pac-12,fumblesLost,8
+2022,UCF,American Athletic,penaltyYards,622
+2022,Northwestern,Big Ten,fumblesLost,13
+2022,Minnesota,Big Ten,puntReturnTDs,0
+2022,Navy,American Athletic,kickReturns,24
+2022,Western Kentucky,Conference USA,puntReturns,16
+2022,Houston,American Athletic,interceptionYards,222
+2022,Kentucky,SEC,rushingTDs,9
+2022,UCF,American Athletic,thirdDownConversions,92
+2022,Iowa State,Big 12,possessionTime,23128
+2022,Nevada,Mountain West,firstDowns,203
+2022,Memphis,American Athletic,firstDowns,267
+2022,Florida State,ACC,kickReturns,15
+2022,Western Michigan,Mid-American,puntReturnYards,47
+2022,North Texas,Conference USA,kickReturnYards,740
+2022,Louisville,ACC,thirdDownConversions,60
+2022,Air Force,Mountain West,fumblesLost,11
+2022,Tennessee,SEC,rushingTDs,39
+2022,Oklahoma,Big 12,turnovers,14
+2022,Louisiana,Sun Belt,tacklesForLoss,59
+2022,Washington State,Pac-12,fourthDownConversions,12
+2022,Rice,Conference USA,penalties,69
+2022,Kansas,Big 12,interceptions,6
+2022,San Diego State,Mountain West,games,12
+2022,UTEP,Conference USA,puntReturnYards,100
+2022,New Mexico,Mountain West,passCompletions,138
+2022,Alabama,SEC,fumblesRecovered,9
+2022,UTEP,Conference USA,passesIntercepted,5
+2022,Temple,American Athletic,interceptionYards,136
+2022,Notre Dame,FBS Independents,fourthDownConversions,6
+2022,Appalachian State,Sun Belt,puntReturnTDs,0
+2022,Ball State,Mid-American,possessionTime,20158
+2022,Cincinnati,American Athletic,fourthDowns,18
+2022,Texas State,Sun Belt,rushingTDs,9
+2022,Rutgers,Big Ten,interceptionYards,65
+2022,Louisville,ACC,passesIntercepted,15
+2022,Ole Miss,SEC,passAttempts,346
+2022,Auburn,SEC,fumblesRecovered,12
+2022,Georgia Tech,ACC,passAttempts,381
+2022,Bowling Green,Mid-American,interceptionYards,125
+2022,Michigan,Big Ten,kickReturnYards,323
+2022,North Carolina,ACC,kickReturnYards,417
+2022,Nevada,Mountain West,netPassingYards,2227
+2022,Colorado,Pac-12,possessionTime,19718
+2022,Memphis,American Athletic,penaltyYards,425
+2022,Middle Tennessee,Conference USA,interceptions,10
+2022,NC State,ACC,puntReturnTDs,1
+2022,Louisville,ACC,passingTDs,12
+2022,North Carolina,ACC,firstDowns,324
+2022,Coastal Carolina,Sun Belt,sacks,34
+2022,UNLV,Mountain West,puntReturnTDs,0
+2022,South Carolina,SEC,passCompletions,250
+2022,Louisiana Monroe,Sun Belt,games,12
+2022,Texas Tech,Big 12,thirdDownConversions,70
+2022,Pittsburgh,ACC,fumblesLost,9
+2022,Wake Forest,ACC,fumblesRecovered,11
+2022,Middle Tennessee,Conference USA,passAttempts,469
+2022,Connecticut,FBS Independents,fumblesLost,10
+2022,Marshall,Sun Belt,fourthDownConversions,6
+2022,Kent State,Mid-American,passAttempts,349
+2022,Memphis,American Athletic,possessionTime,21895
+2022,Louisiana Monroe,Sun Belt,passingTDs,16
+2022,UT San Antonio,Conference USA,passesIntercepted,13
+2022,Texas A&M,SEC,fourthDownConversions,4
+2022,Akron,Mid-American,interceptions,10
+2022,Alabama,SEC,kickReturnTDs,0
+2022,Navy,American Athletic,firstDowns,211
+2022,Connecticut,FBS Independents,interceptionTDs,0
+2022,Temple,American Athletic,fourthDowns,33
+2022,Boise State,Mountain West,turnovers,17
+2022,Fresno State,Mountain West,penaltyYards,536
+2022,Northwestern,Big Ten,fourthDownConversions,19
+2022,Mississippi State,SEC,puntReturnYards,203
+2022,San Diego State,Mountain West,passCompletions,167
+2022,Northwestern,Big Ten,games,12
+2022,SMU,American Athletic,interceptions,10
+2022,Georgia Tech,ACC,interceptionTDs,1
+2022,UCF,American Athletic,games,13
+2022,Louisiana,Sun Belt,passingTDs,26
+2022,Wyoming,Mountain West,interceptionYards,54
+2022,Arkansas,SEC,fourthDowns,20
+2022,NC State,ACC,penalties,89
+2022,Tulsa,American Athletic,thirdDowns,169
+2022,Texas State,Sun Belt,rushingYards,1236
+2022,Florida International,Conference USA,penaltyYards,635
+2022,Washington State,Pac-12,netPassingYards,3149
+2022,James Madison,Sun Belt,fumblesLost,10
+2022,Troy,Sun Belt,totalYards,4869
+2022,Southern Mississippi,Sun Belt,puntReturnTDs,0
+2022,Southern Mississippi,Sun Belt,passingTDs,17
+2022,Old Dominion,Sun Belt,interceptions,7
+2022,Northern Illinois,Mid-American,sacks,29
+2022,Rutgers,Big Ten,fumblesLost,6
+2022,UMass,FBS Independents,fourthDowns,27
+2022,LSU,SEC,sacks,27
+2022,Utah State,Mountain West,interceptionYards,90
+2022,West Virginia,Big 12,penaltyYards,636
+2022,South Florida,American Athletic,games,12
+2022,Kansas,Big 12,rushingYards,2327
+2022,Kentucky,SEC,sacks,18
+2022,South Florida,American Athletic,penalties,55
+2022,Troy,Sun Belt,penalties,74
+2022,Iowa State,Big 12,thirdDowns,191
+2022,Texas State,Sun Belt,kickReturnYards,434
+2022,Oklahoma,Big 12,rushingAttempts,521
+2022,Louisville,ACC,passCompletions,205
+2022,Eastern Michigan,Mid-American,passAttempts,363
+2022,Miami (OH),Mid-American,kickReturnTDs,0
+2022,Kansas,Big 12,kickReturnYards,403
+2022,Oregon,Pac-12,fumblesRecovered,10
+2022,Washington State,Pac-12,sacks,30
+2022,East Carolina,American Athletic,penaltyYards,359
+2022,West Virginia,Big 12,fourthDowns,32
+2022,Pittsburgh,ACC,passingTDs,12
+2022,Houston,American Athletic,rushingTDs,17
+2022,UCF,American Athletic,sacks,21
+2022,Missouri,SEC,thirdDowns,174
+2022,USC,Pac-12,puntReturnTDs,0
+2022,Notre Dame,FBS Independents,games,12
+2022,Texas A&M,SEC,sacks,19
+2022,Old Dominion,Sun Belt,thirdDownConversions,47
+2022,Michigan,Big Ten,puntReturnTDs,1
+2022,Georgia Southern,Sun Belt,thirdDownConversions,83
+2022,Washington,Pac-12,passingTDs,30
+2022,Air Force,Mountain West,passesIntercepted,9
+2022,Ohio,Mid-American,kickReturnTDs,1
+2022,Northern Illinois,Mid-American,interceptionTDs,1
+2022,Duke,ACC,rushingAttempts,444
+2022,Fresno State,Mountain West,puntReturnTDs,2
+2022,Nevada,Mountain West,rushingTDs,19
+2022,TCU,Big 12,penalties,60
+2022,South Carolina,SEC,fumblesRecovered,11
+2022,Virginia Tech,ACC,fumblesLost,6
+2022,Middle Tennessee,Conference USA,games,12
+2022,Iowa,Big Ten,rushingTDs,12
+2022,Eastern Michigan,Mid-American,kickReturns,38
+2022,Arkansas,SEC,interceptionYards,66
+2022,Kansas State,Big 12,passCompletions,224
+2022,North Carolina,ACC,sacks,16
+2022,Clemson,ACC,tacklesForLoss,102
+2022,Georgia,SEC,passCompletions,293
+2022,SMU,American Athletic,rushingAttempts,442
+2022,Miami (OH),Mid-American,totalYards,3711
+2022,Wake Forest,ACC,penaltyYards,472
+2022,Louisiana Tech,Conference USA,rushingAttempts,400
+2022,Northern Illinois,Mid-American,totalYards,4477
+2022,Michigan,Big Ten,totalYards,5895
+2022,Ohio State,Big Ten,puntReturnTDs,0
+2022,Missouri,SEC,passAttempts,344
+2022,Marshall,Sun Belt,fourthDowns,20
+2022,Fresno State,Mountain West,rushingYards,1633
+2022,Florida International,Conference USA,fumblesLost,4
+2022,Oklahoma,Big 12,penaltyYards,606
+2022,Syracuse,ACC,passAttempts,319
+2022,Auburn,SEC,passAttempts,308
+2022,UT San Antonio,Conference USA,netPassingYards,4012
+2022,North Texas,Conference USA,fumblesLost,6
+2022,Ohio State,Big Ten,rushingAttempts,434
+2022,Arkansas State,Sun Belt,tacklesForLoss,77
+2022,Utah,Pac-12,rushingAttempts,517
+2022,UCLA,Pac-12,sacks,27
+2022,Michigan State,Big Ten,passCompletions,258
+2022,Utah State,Mountain West,penalties,103
+2022,TCU,Big 12,passesIntercepted,14
+2022,North Carolina,ACC,rushingYards,2032
+2022,Troy,Sun Belt,passAttempts,377
+2022,Marshall,Sun Belt,totalYards,4870
+2022,Illinois,Big Ten,sacks,27
+2022,Iowa,Big Ten,interceptionYards,140
+2022,Louisiana,Sun Belt,interceptions,9
+2022,Arizona State,Pac-12,kickReturnYards,757
+2022,Tennessee,SEC,tacklesForLoss,87
+2022,Southern Mississippi,Sun Belt,puntReturns,23
+2022,Boise State,Mountain West,sacks,29
+2022,Eastern Michigan,Mid-American,rushingYards,1724
+2022,Nebraska,Big Ten,puntReturnYards,77
+2022,Buffalo,Mid-American,kickReturnTDs,0
+2022,Alabama,SEC,sacks,36
+2022,Fresno State,Mountain West,possessionTime,24314
+2022,Charlotte,Conference USA,kickReturns,44
+2022,Nevada,Mountain West,kickReturns,33
+2022,Colorado,Pac-12,puntReturnTDs,1
+2022,Penn State,Big Ten,games,12
+2022,Cincinnati,American Athletic,rushingYards,1642
+2022,Boston College,ACC,rushingAttempts,363
+2022,Memphis,American Athletic,rushingYards,1705
+2022,Western Kentucky,Conference USA,passesIntercepted,17
+2022,Miami (OH),Mid-American,firstDowns,204
+2022,Texas,Big 12,fumblesLost,7
+2022,LSU,SEC,rushingAttempts,486
+2022,South Carolina,SEC,sacks,18
+2022,Ball State,Mid-American,passCompletions,287
+2022,San Diego State,Mountain West,kickReturnYards,652
+2022,South Florida,American Athletic,passAttempts,326
+2022,Tulsa,American Athletic,kickReturns,19
+2022,Notre Dame,FBS Independents,interceptionTDs,2
+2022,Appalachian State,Sun Belt,rushingYards,2459
+2022,Eastern Michigan,Mid-American,passCompletions,227
+2022,Washington State,Pac-12,kickReturnTDs,0
+2022,North Texas,Conference USA,interceptions,14
+2022,Louisiana Monroe,Sun Belt,possessionTime,21220
+2022,James Madison,Sun Belt,kickReturnTDs,0
+2022,Florida Atlantic,Conference USA,firstDowns,264
+2022,Stanford,Pac-12,totalYards,4339
+2022,TCU,Big 12,puntReturnYards,270
+2022,Arkansas State,Sun Belt,interceptions,5
+2022,Temple,American Athletic,puntReturns,15
+2022,South Florida,American Athletic,firstDowns,232
+2022,Mississippi State,SEC,netPassingYards,3761
+2022,Baylor,Big 12,firstDowns,284
+2022,Arkansas,SEC,puntReturnYards,159
+2022,Army,FBS Independents,puntReturnTDs,3
+2022,Iowa,Big Ten,possessionTime,20555
+2022,Washington State,Pac-12,thirdDowns,161
+2022,Texas State,Sun Belt,rushingAttempts,383
+2022,Louisiana Tech,Conference USA,rushingTDs,14
+2022,Troy,Sun Belt,puntReturns,13
+2022,Michigan,Big Ten,passesIntercepted,12
+2022,Akron,Mid-American,puntReturnTDs,0
+2022,East Carolina,American Athletic,interceptionYards,120
+2022,Air Force,Mountain West,passAttempts,80
+2022,USC,Pac-12,puntReturnYards,92
+2022,South Carolina,SEC,puntReturns,17
+2022,Missouri,SEC,turnovers,19
+2022,Kansas,Big 12,games,12
+2022,Vanderbilt,SEC,passCompletions,200
+2022,Tulsa,American Athletic,interceptions,10
+2022,Nebraska,Big Ten,fumblesLost,6
+2022,Indiana,Big Ten,puntReturns,14
+2022,Marshall,Sun Belt,kickReturnTDs,0
+2022,Georgia Tech,ACC,puntReturnYards,84
+2022,New Mexico State,FBS Independents,kickReturnTDs,0
+2022,San Diego State,Mountain West,fumblesRecovered,12
+2022,South Florida,American Athletic,puntReturns,12
+2022,Arizona State,Pac-12,fumblesRecovered,1
+2022,Northern Illinois,Mid-American,puntReturnYards,13
+2022,North Carolina,ACC,puntReturnYards,197
+2022,South Carolina,SEC,puntReturnYards,266
+2022,Georgia Southern,Sun Belt,passingTDs,26
+2022,Louisiana,Sun Belt,thirdDownConversions,69
+2022,Charlotte,Conference USA,totalYards,4643
+2022,Old Dominion,Sun Belt,possessionTime,17374
+2022,Stanford,Pac-12,fumblesLost,13
+2022,Tulane,American Athletic,sacks,24
+2022,Oklahoma,Big 12,thirdDowns,178
+2022,Auburn,SEC,passesIntercepted,6
+2022,NC State,ACC,totalYards,4122
+2022,Northwestern,Big Ten,totalYards,4025
+2022,Arkansas State,Sun Belt,penalties,68
+2022,Connecticut,FBS Independents,games,12
+2022,Kansas,Big 12,thirdDowns,141
+2022,San José State,Mountain West,passingTDs,20
+2022,Northern Illinois,Mid-American,puntReturns,6
+2022,James Madison,Sun Belt,games,11
+2022,Oregon State,Pac-12,fourthDowns,22
+2022,Washington,Pac-12,fumblesLost,2
+2022,Kansas,Big 12,penalties,65
+2022,Bowling Green,Mid-American,passesIntercepted,9
+2022,TCU,Big 12,passingTDs,31
+2022,Rice,Conference USA,penaltyYards,626
+2022,Syracuse,ACC,puntReturnYards,169
+2022,Virginia,ACC,possessionTime,16502
+2022,Boise State,Mountain West,passesIntercepted,13
+2022,Army,FBS Independents,rushingYards,3467
+2022,New Mexico,Mountain West,tacklesForLoss,62
+2022,Utah,Pac-12,puntReturnYards,234
+2022,Oregon State,Pac-12,passAttempts,297
+2022,Fresno State,Mountain West,passesIntercepted,11
+2022,Hawai'i,Mountain West,fourthDowns,34
+2022,Temple,American Athletic,sacks,38
+2022,Akron,Mid-American,fumblesLost,12
+2022,Kansas,Big 12,puntReturnYards,15
+2022,San José State,Mountain West,firstDowns,220
+2022,Southern Mississippi,Sun Belt,turnovers,23
+2022,Nebraska,Big Ten,passingTDs,17
+2022,Missouri,SEC,puntReturnYards,147
+2022,Washington State,Pac-12,totalYards,4506
+2022,East Carolina,American Athletic,fumblesLost,2
+2022,Rutgers,Big Ten,passesIntercepted,9
+2022,Iowa,Big Ten,kickReturnYards,438
+2022,Oklahoma State,Big 12,turnovers,21
+2022,Liberty,FBS Independents,interceptionYards,88
+2022,Northern Illinois,Mid-American,rushingYards,2285
+2022,UCF,American Athletic,turnovers,19
+2022,Georgia Southern,Sun Belt,fumblesLost,4
+2022,Troy,Sun Belt,games,13
+2022,Boise State,Mountain West,puntReturnTDs,1
+2022,Tennessee,SEC,sacks,27
+2022,Texas,Big 12,kickReturnYards,432
+2022,Iowa State,Big 12,netPassingYards,3141
+2022,Memphis,American Athletic,passCompletions,271
+2022,Wyoming,Mountain West,passCompletions,138
+2022,Rice,Conference USA,passingTDs,20
+2022,Georgia Tech,ACC,interceptionYards,55
+2022,Kentucky,SEC,games,12
+2022,Liberty,FBS Independents,interceptions,15
+2022,Arizona State,Pac-12,passingTDs,18
+2022,Ohio,Mid-American,fumblesRecovered,19
+2022,Tulsa,American Athletic,kickReturnTDs,0
+2022,Air Force,Mountain West,rushingYards,3978
+2022,Illinois,Big Ten,interceptionYards,257
+2022,North Carolina,ACC,rushingTDs,24
+2022,Ole Miss,SEC,penalties,81
+2022,North Carolina,ACC,totalYards,6156
+2022,South Florida,American Athletic,thirdDowns,151
+2022,UCLA,Pac-12,passAttempts,387
+2022,Penn State,Big Ten,fumblesLost,7
+2022,UNLV,Mountain West,fumblesRecovered,10
+2022,Boise State,Mountain West,kickReturns,23
+2022,Middle Tennessee,Conference USA,interceptionTDs,4
+2022,NC State,ACC,thirdDownConversions,66
+2022,Oklahoma State,Big 12,kickReturnTDs,1
+2022,Rutgers,Big Ten,puntReturnTDs,1
+2022,James Madison,Sun Belt,turnovers,20
+2022,SMU,American Athletic,fumblesLost,9
+2022,Temple,American Athletic,tacklesForLoss,88
+2022,Syracuse,ACC,interceptions,8
+2022,Liberty,FBS Independents,kickReturnTDs,1
+2022,San José State,Mountain West,fourthDowns,14
+2022,Rice,Conference USA,interceptionYards,154
+2022,San José State,Mountain West,turnovers,6
+2022,Louisville,ACC,possessionTime,21405
+2022,Rutgers,Big Ten,thirdDownConversions,49
+2022,Louisiana,Sun Belt,passCompletions,231
+2022,Illinois,Big Ten,puntReturnTDs,0
+2022,Penn State,Big Ten,netPassingYards,3004
+2022,Pittsburgh,ACC,possessionTime,23697
+2022,Nebraska,Big Ten,fourthDowns,7
+2022,Missouri,SEC,passesIntercepted,10
+2022,Western Michigan,Mid-American,kickReturnTDs,1
+2022,Georgia Tech,ACC,sacks,28
+2022,Eastern Michigan,Mid-American,firstDowns,255
+2022,Alabama,SEC,interceptions,8
+2022,Louisiana,Sun Belt,puntReturns,25
+2022,Arkansas State,Sun Belt,puntReturnTDs,0
+2022,UTEP,Conference USA,kickReturnTDs,0
+2022,Hawai'i,Mountain West,puntReturns,15
+2022,TCU,Big 12,fumblesLost,6
+2022,Kentucky,SEC,penaltyYards,479
+2022,UMass,FBS Independents,thirdDowns,194
+2022,Pittsburgh,ACC,totalYards,4824
+2022,Arkansas State,Sun Belt,kickReturnYards,1106
+2022,Boston College,ACC,thirdDownConversions,57
+2022,Clemson,ACC,passesIntercepted,13
+2022,Middle Tennessee,Conference USA,passesIntercepted,17
+2022,Wake Forest,ACC,interceptionTDs,2
+2022,UMass,FBS Independents,rushingAttempts,519
+2022,Oklahoma,Big 12,passingTDs,26
+2022,Georgia Tech,ACC,rushingYards,1596
+2022,Texas,Big 12,rushingYards,2393
+2022,Georgia Southern,Sun Belt,interceptionYards,104
+2022,Toledo,Mid-American,tacklesForLoss,77
+2022,Clemson,ACC,passAttempts,422
+2022,Louisiana,Sun Belt,kickReturnTDs,0
+2022,Northwestern,Big Ten,puntReturns,8
+2022,Iowa,Big Ten,firstDowns,169
+2022,LSU,SEC,penalties,78
+2022,West Virginia,Big 12,rushingTDs,24
+2022,Louisville,ACC,puntReturnYards,131
+2022,Arkansas State,Sun Belt,passCompletions,247
+2022,Oklahoma,Big 12,interceptionYards,131
+2022,Nevada,Mountain West,penaltyYards,661
+2022,Tennessee,SEC,fourthDownConversions,22
+2022,North Texas,Conference USA,interceptionTDs,1
+2022,Nebraska,Big Ten,puntReturnTDs,1
+2022,Louisiana,Sun Belt,fourthDownConversions,14
+2022,Florida,SEC,fourthDowns,30
+2022,Washington,Pac-12,possessionTime,22298
+2022,Louisiana Tech,Conference USA,kickReturnYards,745
+2022,Nebraska,Big Ten,totalYards,4130
+2022,Minnesota,Big Ten,penaltyYards,393
+2022,Georgia Southern,Sun Belt,penaltyYards,540
+2022,Texas State,Sun Belt,passCompletions,274
+2022,Texas Tech,Big 12,puntReturnTDs,0
+2022,Arkansas,SEC,puntReturnTDs,1
+2022,UNLV,Mountain West,totalYards,4227
+2022,New Mexico,Mountain West,interceptionTDs,1
+2022,Rutgers,Big Ten,rushingTDs,11
+2022,Kentucky,SEC,interceptionYards,144
+2022,Michigan State,Big Ten,thirdDowns,152
+2022,Florida International,Conference USA,rushingAttempts,355
+2022,South Alabama,Sun Belt,rushingYards,1975
+2022,West Virginia,Big 12,puntReturnTDs,0
+2022,Army,FBS Independents,kickReturnTDs,0
+2022,Ball State,Mid-American,thirdDownConversions,67
+2022,Connecticut,FBS Independents,puntReturns,13
+2022,Syracuse,ACC,sacks,31
+2022,UAB,Conference USA,possessionTime,22897
+2022,Iowa State,Big 12,interceptions,15
+2022,Western Michigan,Mid-American,thirdDownConversions,58
+2022,Illinois,Big Ten,games,12
+2022,Louisiana Tech,Conference USA,puntReturns,21
+2022,Miami (OH),Mid-American,fourthDownConversions,7
+2022,Wyoming,Mountain West,passAttempts,274
+2022,Hawai'i,Mountain West,kickReturnYards,631
+2022,LSU,SEC,interceptions,6
+2022,Eastern Michigan,Mid-American,passesIntercepted,10
+2022,Michigan State,Big Ten,interceptionYards,32
+2022,Texas,Big 12,passCompletions,217
+2022,East Carolina,American Athletic,puntReturnTDs,0
+2022,Coastal Carolina,Sun Belt,tacklesForLoss,79
+2022,Houston,American Athletic,netPassingYards,3853
+2022,North Carolina,ACC,interceptionTDs,0
+2022,Buffalo,Mid-American,interceptionTDs,1
+2022,Buffalo,Mid-American,totalYards,4226
+2022,Troy,Sun Belt,rushingYards,1586
+2022,Ohio State,Big Ten,fourthDowns,17
+2022,Duke,ACC,netPassingYards,2837
+2022,Vanderbilt,SEC,games,12
+2022,Florida,SEC,turnovers,14
+2022,Arizona,Pac-12,puntReturns,13
+2022,Old Dominion,Sun Belt,fourthDownConversions,8
+2022,Boston College,ACC,tacklesForLoss,82
+2022,Ohio,Mid-American,fourthDownConversions,6
+2022,Texas A&M,SEC,passAttempts,391
+2022,Arizona State,Pac-12,interceptions,10
+2022,New Mexico State,FBS Independents,turnovers,17
+2022,Colorado,Pac-12,turnovers,22
+2022,Memphis,American Athletic,games,12
+2022,Arizona,Pac-12,turnovers,21
+2022,New Mexico,Mountain West,passingTDs,3
+2022,Utah,Pac-12,interceptionTDs,3
+2022,Rice,Conference USA,turnovers,30
+2022,Florida State,ACC,rushingAttempts,475
+2022,New Mexico State,FBS Independents,rushingAttempts,413
+2022,Arizona State,Pac-12,firstDowns,254
+2022,Army,FBS Independents,passAttempts,104
+2022,Louisville,ACC,rushingTDs,23
+2022,Connecticut,FBS Independents,puntReturnTDs,0
+2022,South Alabama,Sun Belt,possessionTime,23635
+2022,Miami,ACC,passCompletions,256
+2022,Houston,American Athletic,penalties,95
+2022,Oregon,Pac-12,kickReturnYards,417
+2022,Iowa State,Big 12,firstDowns,245
+2022,Connecticut,FBS Independents,rushingYards,2338
+2022,Arizona,Pac-12,puntReturnYards,93
+2022,Georgia Tech,ACC,kickReturnTDs,0
+2022,East Carolina,American Athletic,kickReturnTDs,1
+2022,Florida Atlantic,Conference USA,kickReturnTDs,0
+2022,Kentucky,SEC,thirdDowns,152
+2022,LSU,SEC,tacklesForLoss,67
+2022,Georgia State,Sun Belt,passAttempts,297
+2022,Cincinnati,American Athletic,fumblesRecovered,11
+2022,Oregon State,Pac-12,penalties,71
+2022,Purdue,Big Ten,sacks,27
+2022,Kansas,Big 12,fourthDowns,17
+2022,UT San Antonio,Conference USA,penaltyYards,772
+2022,NC State,ACC,firstDowns,252
+2022,Middle Tennessee,Conference USA,sacks,33
+2022,Florida State,ACC,fumblesRecovered,9
+2022,James Madison,Sun Belt,passCompletions,200
+2022,Georgia Tech,ACC,turnovers,13
+2022,Navy,American Athletic,thirdDownConversions,74
+2022,LSU,SEC,rushingTDs,35
+2022,UCLA,Pac-12,totalYards,6095
+2022,Ohio,Mid-American,totalYards,5516
+2022,Florida International,Conference USA,totalYards,3870
+2022,Troy,Sun Belt,passCompletions,238
+2022,Northern Illinois,Mid-American,penaltyYards,750
+2022,Louisville,ACC,tacklesForLoss,86
+2022,Florida International,Conference USA,fumblesRecovered,12
+2022,Notre Dame,FBS Independents,penalties,56
+2022,Alabama,SEC,netPassingYards,3339
+2022,Georgia,SEC,turnovers,16
+2022,Hawai'i,Mountain West,passesIntercepted,10
+2022,Northern Illinois,Mid-American,kickReturnTDs,0
+2022,Bowling Green,Mid-American,kickReturns,35
+2022,Connecticut,FBS Independents,passAttempts,246
+2022,West Virginia,Big 12,kickReturnYards,444
+2022,Akron,Mid-American,kickReturnTDs,0
+2022,Boston College,ACC,penalties,72
+2022,Army,FBS Independents,fourthDowns,30
+2022,Tulsa,American Athletic,games,12
+2022,Purdue,Big Ten,fourthDowns,26
+2022,Western Kentucky,Conference USA,turnovers,21
+2022,Oklahoma,Big 12,passCompletions,237
+2022,Navy,American Athletic,puntReturnYards,147
+2022,Ole Miss,SEC,thirdDowns,174
+2022,TCU,Big 12,kickReturnYards,697
+2022,UAB,Conference USA,kickReturns,25
+2022,Wake Forest,ACC,rushingTDs,16
+2022,California,Pac-12,kickReturns,20
+2022,UTEP,Conference USA,rushingYards,2006
+2022,South Florida,American Athletic,fumblesRecovered,14
+2022,BYU,FBS Independents,passAttempts,380
+2022,Duke,ACC,puntReturnTDs,1
+2022,Western Kentucky,Conference USA,kickReturnYards,438
+2022,Miami (OH),Mid-American,fumblesRecovered,11
+2022,Baylor,Big 12,kickReturnTDs,0
+2022,BYU,FBS Independents,interceptions,6
+2022,Louisiana Monroe,Sun Belt,firstDowns,213
+2022,Florida,SEC,puntReturnTDs,0
+2022,Navy,American Athletic,rushingTDs,22
+2022,Cincinnati,American Athletic,kickReturns,18
+2022,Akron,Mid-American,rushingYards,1026
+2022,Virginia,ACC,fumblesLost,10
+2022,Wisconsin,Big Ten,penalties,79
+2022,Fresno State,Mountain West,turnovers,14
+2022,West Virginia,Big 12,sacks,26
+2022,TCU,Big 12,passAttempts,402
+2022,Texas State,Sun Belt,totalYards,3885
+2022,Tulsa,American Athletic,totalYards,4942
+2022,Clemson,ACC,penalties,72
+2022,Michigan,Big Ten,fourthDownConversions,17
+2022,Clemson,ACC,kickReturnTDs,0
+2022,Vanderbilt,SEC,puntReturnYards,42
+2022,Duke,ACC,penaltyYards,647
+2022,UT San Antonio,Conference USA,games,13
+2022,Central Michigan,Mid-American,puntReturnYards,111
+2022,Baylor,Big 12,games,12
+2022,UTEP,Conference USA,passAttempts,380
+2022,Oregon,Pac-12,kickReturns,24
+2022,SMU,American Athletic,netPassingYards,3899
+2022,Marshall,Sun Belt,rushingAttempts,552
+2022,Houston,American Athletic,sacks,28
+2022,Mississippi State,SEC,fumblesRecovered,11
+2022,Northern Illinois,Mid-American,tacklesForLoss,55
+2022,Miami (OH),Mid-American,puntReturnTDs,0
+2022,Texas,Big 12,fumblesRecovered,7
+2022,Toledo,Mid-American,passesIntercepted,12
+2022,Penn State,Big Ten,penaltyYards,595
+2022,Wake Forest,ACC,possessionTime,20587
+2022,Texas,Big 12,thirdDownConversions,58
+2022,Syracuse,ACC,rushingYards,1713
+2022,Oregon State,Pac-12,rushingYards,2390
+2022,New Mexico State,FBS Independents,fourthDownConversions,11
+2022,Louisville,ACC,thirdDowns,163
+2022,Texas Tech,Big 12,interceptionYards,36
+2022,Bowling Green,Mid-American,kickReturnYards,688
+2022,Florida Atlantic,Conference USA,thirdDownConversions,81
+2022,Mississippi State,SEC,penalties,76
+2022,Florida State,ACC,rushingYards,2614
+2022,Washington,Pac-12,thirdDownConversions,93
+2022,San Diego State,Mountain West,turnovers,20
+2022,USC,Pac-12,penalties,83
+2022,UMass,FBS Independents,penalties,91
+2022,Minnesota,Big Ten,kickReturns,20
+2022,TCU,Big 12,kickReturns,36
+2022,Texas Tech,Big 12,sacks,29
+2022,North Carolina,ACC,possessionTime,23167
+2022,Auburn,SEC,rushingTDs,25
+2022,South Carolina,SEC,thirdDowns,145
+2022,Florida Atlantic,Conference USA,possessionTime,20769
+2022,Colorado State,Mountain West,firstDowns,176
+2022,Western Kentucky,Conference USA,rushingAttempts,388
+2022,South Alabama,Sun Belt,puntReturnTDs,1
+2022,Penn State,Big Ten,rushingTDs,25
+2022,San Diego State,Mountain West,thirdDowns,161
+2022,Liberty,FBS Independents,thirdDownConversions,62
+2022,Kentucky,SEC,possessionTime,23788
+2022,Connecticut,FBS Independents,firstDowns,192
+2022,Baylor,Big 12,fumblesLost,7
+2022,Colorado State,Mountain West,sacks,22
+2022,Houston,American Athletic,penaltyYards,849
+2022,Louisiana Tech,Conference USA,interceptionTDs,2
+2022,TCU,Big 12,fourthDownConversions,14
+2022,Notre Dame,FBS Independents,rushingYards,2193
+2022,Indiana,Big Ten,puntReturnYards,45
+2022,Liberty,FBS Independents,totalYards,4803
+2022,Vanderbilt,SEC,rushingYards,1919
+2022,UAB,Conference USA,interceptionTDs,1
+2022,Florida State,ACC,fourthDowns,20
+2022,Kentucky,SEC,turnovers,17
+2022,South Carolina,SEC,kickReturns,21
+2022,Baylor,Big 12,tacklesForLoss,60
+2022,Army,FBS Independents,netPassingYards,924
+2022,San Diego State,Mountain West,puntReturnTDs,3
+2022,Bowling Green,Mid-American,puntReturnYards,200
+2022,South Carolina,SEC,passAttempts,372
+2022,Florida Atlantic,Conference USA,tacklesForLoss,52
+2022,Utah State,Mountain West,possessionTime,21026
+2022,Georgia Southern,Sun Belt,passAttempts,564
+2022,Nevada,Mountain West,passCompletions,217
+2022,Auburn,SEC,fourthDowns,22
+2022,Michigan,Big Ten,possessionTime,26444
+2022,James Madison,Sun Belt,netPassingYards,2918
+2022,Vanderbilt,SEC,rushingTDs,13
+2022,Washington,Pac-12,interceptionTDs,0
+2022,Mississippi State,SEC,passesIntercepted,14
+2022,Boston College,ACC,puntReturns,14
+2022,TCU,Big 12,kickReturnTDs,0
+2022,Air Force,Mountain West,penalties,49
+2022,Akron,Mid-American,passCompletions,296
+2022,Air Force,Mountain West,interceptionTDs,0
+2022,San Diego State,Mountain West,interceptionTDs,0
+2022,Duke,ACC,passesIntercepted,9
+2022,Texas A&M,SEC,rushingTDs,12
+2022,Arkansas,SEC,netPassingYards,2754
+2022,Florida State,ACC,penaltyYards,728
+2022,Coastal Carolina,Sun Belt,interceptionTDs,0
+2022,Kansas State,Big 12,kickReturnTDs,0
+2022,Toledo,Mid-American,possessionTime,22453
+2022,Florida State,ACC,puntReturnTDs,0
+2022,Navy,American Athletic,penalties,46
+2022,New Mexico State,FBS Independents,interceptionYards,30
+2022,Minnesota,Big Ten,fumblesLost,4
+2022,Arkansas State,Sun Belt,puntReturnYards,96
+2022,Northern Illinois,Mid-American,puntReturnTDs,0
+2022,NC State,ACC,kickReturnYards,438
+2022,North Carolina,ACC,puntReturnTDs,0
+2022,Nevada,Mountain West,sacks,26
+2022,Hawai'i,Mountain West,firstDowns,244
+2022,Indiana,Big Ten,interceptionYards,10
+2022,San Diego State,Mountain West,possessionTime,22208
+2022,Texas State,Sun Belt,passingTDs,19
+2022,SMU,American Athletic,kickReturns,25
+2022,Louisiana Tech,Conference USA,puntReturnTDs,0
+2022,Iowa State,Big 12,rushingAttempts,394
+2022,Texas State,Sun Belt,fumblesLost,7
+2022,Michigan,Big Ten,passAttempts,335
+2022,Florida State,ACC,passesIntercepted,8
+2022,Middle Tennessee,Conference USA,rushingYards,1480
+2022,Tulsa,American Athletic,netPassingYards,3278
+2022,Oklahoma State,Big 12,tacklesForLoss,84
+2022,Michigan,Big Ten,thirdDowns,173
+2022,Georgia,SEC,games,13
+2022,Coastal Carolina,Sun Belt,possessionTime,23605
+2022,Ball State,Mid-American,fourthDownConversions,6
+2022,Oklahoma,Big 12,kickReturnTDs,0
+2022,USC,Pac-12,fumblesRecovered,11
+2022,Kansas State,Big 12,thirdDowns,177
+2022,North Texas,Conference USA,possessionTime,21325
+2022,Missouri,SEC,rushingYards,1906
+2022,Liberty,FBS Independents,netPassingYards,2664
+2022,East Carolina,American Athletic,fumblesRecovered,7
+2022,Ball State,Mid-American,kickReturns,22
+2022,Fresno State,Mountain West,passAttempts,437
+2022,Coastal Carolina,Sun Belt,puntReturnYards,67
+2022,Buffalo,Mid-American,rushingTDs,21
+2022,Middle Tennessee,Conference USA,fumblesLost,7
+2022,UCLA,Pac-12,puntReturnYards,56
+2022,Arizona State,Pac-12,passesIntercepted,11
+2022,Georgia Tech,ACC,fourthDowns,21
+2022,Wake Forest,ACC,puntReturnTDs,0
+2022,Georgia Southern,Sun Belt,interceptionTDs,1
+2022,Notre Dame,FBS Independents,thirdDownConversions,72
+2022,Nebraska,Big Ten,interceptions,13
+2022,Texas A&M,SEC,games,12
+2022,UT San Antonio,Conference USA,firstDowns,342
+2022,Hawai'i,Mountain West,games,13
+2022,Air Force,Mountain West,puntReturns,4
+2022,Texas,Big 12,netPassingYards,2769
+2022,Old Dominion,Sun Belt,kickReturnTDs,0
+2022,Troy,Sun Belt,passingTDs,19
+2022,Pittsburgh,ACC,games,12
+2022,USC,Pac-12,totalYards,6498
+2022,Middle Tennessee,Conference USA,thirdDowns,185
+2022,Wake Forest,ACC,passCompletions,279
+2022,West Virginia,Big 12,rushingYards,2058
+2022,UCLA,Pac-12,turnovers,15
+2022,Northern Illinois,Mid-American,turnovers,16
+2022,Miami (OH),Mid-American,puntReturns,23
+2022,West Virginia,Big 12,puntReturnYards,73
+2022,Texas Tech,Big 12,interceptionTDs,0
+2022,UCLA,Pac-12,puntReturns,11
+2022,Arizona,Pac-12,possessionTime,20202
+2022,Boise State,Mountain West,thirdDowns,178
+2022,Stanford,Pac-12,rushingYards,1288
+2022,Ohio,Mid-American,interceptionTDs,0
+2022,Missouri,SEC,firstDowns,219
+2022,BYU,FBS Independents,fumblesLost,3
+2022,Kent State,Mid-American,puntReturns,17
+2022,Arkansas,SEC,passingTDs,24
+2022,James Madison,Sun Belt,passAttempts,327
+2022,Georgia Southern,Sun Belt,kickReturnYards,433
+2022,Florida Atlantic,Conference USA,rushingYards,2210
+2022,Washington,Pac-12,games,12
+2022,Rice,Conference USA,interceptions,19
+2022,Iowa,Big Ten,totalYards,3065
+2022,Missouri,SEC,fourthDowns,14
+2022,Mississippi State,SEC,interceptionYards,294
+2022,Baylor,Big 12,thirdDownConversions,72
+2022,Ball State,Mid-American,passingTDs,18
+2022,UNLV,Mountain West,fourthDowns,19
+2022,Wisconsin,Big Ten,totalYards,4353
+2022,Colorado,Pac-12,interceptions,10
+2022,Texas Tech,Big 12,kickReturns,27
+2022,Tennessee,SEC,totalYards,6457
+2022,Arizona,Pac-12,passesIntercepted,4
+2022,Oregon,Pac-12,fourthDowns,30
+2022,New Mexico,Mountain West,thirdDownConversions,35
+2022,Ole Miss,SEC,rushingTDs,31
+2022,Wisconsin,Big Ten,tacklesForLoss,80
+2022,Colorado State,Mountain West,puntReturns,20
+2022,South Carolina,SEC,penaltyYards,756
+2022,UT San Antonio,Conference USA,turnovers,14
+2022,Kansas,Big 12,fumblesRecovered,10
+2022,Texas State,Sun Belt,kickReturnTDs,0
+2022,Rice,Conference USA,puntReturns,17
+2022,Utah State,Mountain West,thirdDownConversions,61
+2022,UAB,Conference USA,fumblesLost,9
+2022,Marshall,Sun Belt,sacks,37
+2022,UT San Antonio,Conference USA,fourthDowns,24
+2022,Louisiana Monroe,Sun Belt,fourthDowns,14
+2022,UMass,FBS Independents,fumblesLost,5
+2022,Alabama,SEC,passAttempts,416
+2022,Florida,SEC,thirdDowns,154
+2022,Toledo,Mid-American,puntReturns,28
+2022,LSU,SEC,kickReturnTDs,0
+2022,Middle Tennessee,Conference USA,kickReturnYards,348
+2022,Northwestern,Big Ten,fumblesRecovered,12
+2022,Northwestern,Big Ten,fourthDowns,39
+2022,Stanford,Pac-12,rushingAttempts,376
+2022,Ohio State,Big Ten,sacks,32
+2022,Fresno State,Mountain West,rushingAttempts,434
+2022,Wyoming,Mountain West,sacks,34
+2022,Hawai'i,Mountain West,puntReturnTDs,0
+2022,Louisiana Monroe,Sun Belt,fumblesRecovered,4
+2022,Purdue,Big Ten,interceptionYards,289
+2022,Western Kentucky,Conference USA,fourthDownConversions,14
+2022,Tennessee,SEC,fumblesLost,8
+2022,Louisiana Monroe,Sun Belt,sacks,20
+2022,Texas Tech,Big 12,possessionTime,21422
+2022,TCU,Big 12,interceptionYards,212
+2022,Michigan State,Big Ten,interceptions,12
+2022,Illinois,Big Ten,rushingAttempts,516
+2022,Louisiana Tech,Conference USA,fumblesRecovered,19
+2022,Louisiana Monroe,Sun Belt,kickReturns,29
+2022,Kansas State,Big 12,interceptionYards,101
+2022,Iowa,Big Ten,turnovers,17
+2022,Miami (OH),Mid-American,turnovers,11
+2022,Toledo,Mid-American,games,13
+2022,Northwestern,Big Ten,tacklesForLoss,54
+2022,Memphis,American Athletic,puntReturnYards,247
+2022,Stanford,Pac-12,interceptionYards,3
+2022,Colorado,Pac-12,rushingAttempts,387
+2022,NC State,ACC,tacklesForLoss,81
+2022,Texas State,Sun Belt,puntReturns,17
+2022,Texas Tech,Big 12,thirdDowns,192
+2022,San José State,Mountain West,passesIntercepted,13
+2022,Utah,Pac-12,puntReturnTDs,0
+2022,Memphis,American Athletic,tacklesForLoss,56
+2022,Toledo,Mid-American,thirdDowns,191
+2022,Kansas,Big 12,kickReturns,23
+2022,TCU,Big 12,sacks,26
+2022,Western Michigan,Mid-American,fumblesLost,8
+2022,Appalachian State,Sun Belt,kickReturns,28
+2022,Rutgers,Big Ten,kickReturnTDs,0
+2022,Cincinnati,American Athletic,kickReturnYards,372
+2022,Louisville,ACC,penalties,85
+2022,UTEP,Conference USA,passingTDs,15
+2022,Virginia,ACC,turnovers,22
+2022,Texas,Big 12,tacklesForLoss,87
+2022,Miami (OH),Mid-American,rushingTDs,13
+2022,Georgia Tech,ACC,thirdDowns,180
+2022,Old Dominion,Sun Belt,puntReturns,15
+2022,Toledo,Mid-American,penaltyYards,720
+2022,Iowa,Big Ten,rushingAttempts,399
+2022,Florida,SEC,interceptionTDs,2
+2022,North Texas,Conference USA,totalYards,6002
+2022,Northwestern,Big Ten,kickReturnYards,199
+2022,New Mexico State,FBS Independents,fumblesLost,5
+2022,Army,FBS Independents,interceptionYards,74
+2022,Iowa State,Big 12,fourthDownConversions,15
+2022,Coastal Carolina,Sun Belt,passesIntercepted,9
+2022,Clemson,ACC,sacks,39
+2022,Temple,American Athletic,rushingYards,989
+2022,Liberty,FBS Independents,fourthDowns,23
+2022,Boston College,ACC,puntReturnTDs,0
+2022,Utah,Pac-12,sacks,38
+2022,Georgia Southern,Sun Belt,kickReturnTDs,0
+2022,Tulane,American Athletic,passCompletions,233
+2022,Indiana,Big Ten,penalties,60
+2022,Texas A&M,SEC,thirdDownConversions,55
+2022,East Carolina,American Athletic,interceptions,5
+2022,Auburn,SEC,interceptions,12
+2022,Texas State,Sun Belt,passAttempts,442
+2022,Florida International,Conference USA,passCompletions,271
+2022,Arkansas State,Sun Belt,thirdDowns,167
+2022,Oregon,Pac-12,netPassingYards,3498
+2022,UT San Antonio,Conference USA,rushingTDs,28
+2022,Tulsa,American Athletic,puntReturnYards,85
+2022,Toledo,Mid-American,penalties,89
+2022,Penn State,Big Ten,puntReturnTDs,0
+2022,Virginia,ACC,kickReturns,20
+2022,Utah State,Mountain West,rushingAttempts,514
+2022,Michigan,Big Ten,tacklesForLoss,67
+2022,TCU,Big 12,interceptions,4
+2022,Buffalo,Mid-American,netPassingYards,2530
+2022,BYU,FBS Independents,puntReturnTDs,0
+2022,Tulane,American Athletic,netPassingYards,3079
+2022,Kansas State,Big 12,passingTDs,21
+2022,East Carolina,American Athletic,fourthDownConversions,11
+2022,Western Kentucky,Conference USA,sacks,29
+2022,Wake Forest,ACC,puntReturns,18
+2022,East Carolina,American Athletic,thirdDowns,170
+2022,Miami (OH),Mid-American,netPassingYards,1990
+2022,Utah State,Mountain West,puntReturns,21
+2022,Hawai'i,Mountain West,thirdDownConversions,67
+2022,Oklahoma State,Big 12,games,12
+2022,Louisiana Tech,Conference USA,games,12
+2022,Western Michigan,Mid-American,turnovers,21
+2022,Virginia Tech,ACC,fourthDowns,14
+2022,Troy,Sun Belt,sacks,39
+2022,Georgia Tech,ACC,penaltyYards,632
+2022,UMass,FBS Independents,interceptionTDs,1
+2022,Kent State,Mid-American,netPassingYards,2582
+2022,UCF,American Athletic,fumblesRecovered,15
+2022,Rice,Conference USA,sacks,20
+2022,Colorado State,Mountain West,fumblesRecovered,12
+2022,Temple,American Athletic,fumblesLost,11
+2022,Penn State,Big Ten,interceptionYards,221
+2022,Miami,ACC,puntReturns,13
+2022,Northwestern,Big Ten,interceptionYards,16
+2022,South Alabama,Sun Belt,firstDowns,261
+2022,James Madison,Sun Belt,puntReturnYards,114
+2022,Western Kentucky,Conference USA,passingTDs,38
+2022,North Texas,Conference USA,passAttempts,395
+2022,LSU,SEC,fourthDowns,20
+2022,Mississippi State,SEC,kickReturns,31
+2022,Washington State,Pac-12,thirdDownConversions,60
+2022,Tulane,American Athletic,turnovers,15
+2022,Georgia Tech,ACC,thirdDownConversions,55
+2022,Miami (OH),Mid-American,sacks,26
+2022,James Madison,Sun Belt,interceptionYards,97
+2022,Kent State,Mid-American,rushingYards,2433
+2022,Eastern Michigan,Mid-American,tacklesForLoss,54
+2022,UTEP,Conference USA,fourthDowns,28
+2022,Rice,Conference USA,fourthDowns,25
+2022,Florida,SEC,puntReturnYards,131
+2022,NC State,ACC,kickReturnTDs,0
+2022,NC State,ACC,puntReturnYards,152
+2022,Texas Tech,Big 12,kickReturnYards,595
+2022,Utah,Pac-12,firstDowns,340
+2022,California,Pac-12,kickReturnYards,342
+2022,Toledo,Mid-American,rushingYards,2312
+2022,Tulane,American Athletic,totalYards,5642
+2022,Pittsburgh,ACC,firstDowns,253
+2022,Clemson,ACC,fumblesRecovered,11
+2022,Louisiana Monroe,Sun Belt,interceptionTDs,0
+2022,Southern Mississippi,Sun Belt,tacklesForLoss,102
+2022,Buffalo,Mid-American,passCompletions,229
+2022,UNLV,Mountain West,thirdDownConversions,52
+2022,UCF,American Athletic,thirdDowns,195
+2022,Baylor,Big 12,rushingYards,2329
+2022,Miami (OH),Mid-American,passAttempts,310
+2022,Vanderbilt,SEC,puntReturnTDs,0
+2022,Duke,ACC,rushingTDs,28
+2022,Georgia Tech,ACC,possessionTime,20383
+2022,Navy,American Athletic,kickReturnYards,471
+2022,Akron,Mid-American,thirdDownConversions,52
+2022,Vanderbilt,SEC,totalYards,4167
+2022,Troy,Sun Belt,turnovers,19
+2022,Liberty,FBS Independents,penaltyYards,656
+2022,Florida Atlantic,Conference USA,netPassingYards,2715
+2022,Bowling Green,Mid-American,passCompletions,251
+2022,Michigan State,Big Ten,kickReturnTDs,0
+2022,UAB,Conference USA,netPassingYards,2389
+2022,Hawai'i,Mountain West,fumblesLost,8
+2022,UCF,American Athletic,penalties,65
+2022,Western Michigan,Mid-American,rushingAttempts,465
+2022,Vanderbilt,SEC,sacks,17
+2022,USC,Pac-12,sacks,36
+2022,BYU,FBS Independents,fourthDownConversions,6
+2022,Utah,Pac-12,totalYards,6146
+2022,Louisiana Tech,Conference USA,penalties,81
+2022,South Florida,American Athletic,possessionTime,21226
+2022,Colorado State,Mountain West,penaltyYards,725
+2022,UT San Antonio,Conference USA,puntReturns,12
+2022,Georgia,SEC,rushingAttempts,487
+2022,Western Michigan,Mid-American,interceptions,13
+2022,Eastern Michigan,Mid-American,interceptions,11
+2022,UNLV,Mountain West,rushingTDs,18
+2022,Georgia State,Sun Belt,firstDowns,266
+2022,Ball State,Mid-American,netPassingYards,2738
+2022,USC,Pac-12,rushingAttempts,441
+2022,Ohio,Mid-American,fourthDowns,17
+2022,Buffalo,Mid-American,thirdDowns,178
+2022,San Diego State,Mountain West,thirdDownConversions,48
+2022,East Carolina,American Athletic,netPassingYards,3462
+2022,Purdue,Big Ten,passCompletions,349
+2022,Troy,Sun Belt,puntReturnTDs,0
+2022,Baylor,Big 12,passingTDs,17
+2022,Florida Atlantic,Conference USA,passCompletions,217
+2022,Oregon,Pac-12,kickReturnTDs,0
+2022,Washington,Pac-12,interceptions,8
+2022,Charlotte,Conference USA,passesIntercepted,9
+2022,Purdue,Big Ten,netPassingYards,3725
+2022,Missouri,SEC,penalties,92
+2022,West Virginia,Big 12,rushingAttempts,446
+2022,Texas A&M,SEC,rushingAttempts,367
+2022,Oregon State,Pac-12,firstDowns,265
+2022,Ohio,Mid-American,thirdDowns,172
+2022,South Florida,American Athletic,fumblesLost,11
+2022,Mississippi State,SEC,thirdDownConversions,63
+2022,Baylor,Big 12,interceptions,11
+2022,Penn State,Big Ten,fourthDowns,29
+2022,Clemson,ACC,fumblesLost,12
+2022,Akron,Mid-American,penaltyYards,652
+2022,Purdue,Big Ten,games,13
+2022,Auburn,SEC,rushingYards,2470
+2022,Nevada,Mountain West,possessionTime,20510
+2022,Navy,American Athletic,interceptionYards,57
+2022,Western Kentucky,Conference USA,passAttempts,566
+2022,Georgia,SEC,sacks,26
+2022,Colorado,Pac-12,fumblesRecovered,7
+2022,Boise State,Mountain West,interceptionTDs,1
+2022,San José State,Mountain West,sacks,37
+2022,USC,Pac-12,interceptionTDs,3
+2022,Wake Forest,ACC,puntReturnYards,134
+2022,UAB,Conference USA,interceptions,6
+2022,Oklahoma,Big 12,tacklesForLoss,99
+2022,Buffalo,Mid-American,fumblesRecovered,14
+2022,Akron,Mid-American,interceptionTDs,1
+2022,Louisiana,Sun Belt,fumblesLost,6
+2022,Virginia,ACC,thirdDownConversions,44
+2022,Notre Dame,FBS Independents,passesIntercepted,9
+2022,Toledo,Mid-American,kickReturns,21
+2022,Toledo,Mid-American,thirdDownConversions,75
+2022,California,Pac-12,games,12
+2022,San Diego State,Mountain West,netPassingYards,2051
+2022,Southern Mississippi,Sun Belt,interceptionTDs,3
+2022,Arkansas State,Sun Belt,fourthDownConversions,14
+2022,Southern Mississippi,Sun Belt,fumblesRecovered,6
+2022,James Madison,Sun Belt,kickReturns,22
+2022,Memphis,American Athletic,fourthDownConversions,13
+2022,James Madison,Sun Belt,puntReturnTDs,0
+2022,NC State,ACC,fourthDownConversions,8
+2022,Baylor,Big 12,possessionTime,23377
+2022,Temple,American Athletic,passingTDs,18
+2022,Virginia,ACC,fourthDownConversions,7
+2022,Minnesota,Big Ten,netPassingYards,2231
+2022,Texas Tech,Big 12,totalYards,5514
+2022,Washington State,Pac-12,passesIntercepted,12
+2022,San José State,Mountain West,interceptions,4
+2022,Navy,American Athletic,fourthDowns,37
+2022,Pittsburgh,ACC,penaltyYards,793
+2022,Liberty,FBS Independents,fumblesRecovered,13
+2022,UCF,American Athletic,fourthDowns,26
+2022,Stanford,Pac-12,puntReturnTDs,0
+2022,Boise State,Mountain West,interceptionYards,96
+2022,LSU,SEC,puntReturnYards,77
+2022,Wisconsin,Big Ten,rushingTDs,19
+2022,Memphis,American Athletic,passAttempts,426
+2022,Penn State,Big Ten,sacks,36
+2022,Arizona,Pac-12,interceptionYards,59
+2022,UCLA,Pac-12,thirdDownConversions,78
+2022,Navy,American Athletic,kickReturnTDs,0
+2022,Utah,Pac-12,fourthDownConversions,17
+2022,Middle Tennessee,Conference USA,penalties,81
+2022,Rutgers,Big Ten,passAttempts,332
+2022,Virginia Tech,ACC,games,12
+2022,Notre Dame,FBS Independents,netPassingYards,2399
+2022,Liberty,FBS Independents,kickReturns,35
+2022,Old Dominion,Sun Belt,turnovers,18
+2022,UCLA,Pac-12,fumblesRecovered,12
+2022,Pittsburgh,ACC,passesIntercepted,10
+2022,Arkansas,SEC,kickReturns,7
+2022,Colorado State,Mountain West,rushingAttempts,385
+2022,Virginia Tech,ACC,kickReturnYards,505
+2022,Clemson,ACC,puntReturns,29
+2022,Utah,Pac-12,games,13
+2022,Fresno State,Mountain West,puntReturnYards,259
+2022,Rice,Conference USA,netPassingYards,2725
+2022,USC,Pac-12,fumblesLost,2
+2022,Arizona State,Pac-12,penaltyYards,868
+2022,Ball State,Mid-American,fourthDowns,19
+2022,Hawai'i,Mountain West,rushingYards,1784
+2022,Oklahoma State,Big 12,penalties,43
+2022,Indiana,Big Ten,interceptionTDs,0
+2022,TCU,Big 12,passCompletions,264
+2022,Ole Miss,SEC,fumblesLost,7
+2022,Missouri,SEC,netPassingYards,2544
+2022,Central Michigan,Mid-American,puntReturnTDs,0
+2022,Buffalo,Mid-American,fumblesLost,8
+2022,James Madison,Sun Belt,thirdDownConversions,60
+2022,Western Michigan,Mid-American,kickReturns,34
+2022,Southern Mississippi,Sun Belt,penalties,80
+2022,Nevada,Mountain West,passesIntercepted,11
+2022,California,Pac-12,puntReturnYards,240
+2022,Appalachian State,Sun Belt,turnovers,11
+2022,Baylor,Big 12,sacks,24
+2022,Duke,ACC,kickReturns,31
+2022,Oregon State,Pac-12,kickReturns,29
+2022,Akron,Mid-American,tacklesForLoss,58
+2022,Tulsa,American Athletic,tacklesForLoss,62
+2022,Southern Mississippi,Sun Belt,kickReturnYards,377
+2022,Ball State,Mid-American,firstDowns,256
+2022,UMass,FBS Independents,passAttempts,277
+2022,West Virginia,Big 12,fumblesRecovered,11
+2022,Penn State,Big Ten,passesIntercepted,12
+2022,Maryland,Big Ten,puntReturnYards,145
+2022,South Alabama,Sun Belt,kickReturnYards,484
+2022,Temple,American Athletic,totalYards,4206
+2022,Wyoming,Mountain West,fourthDownConversions,2
+2022,North Carolina,ACC,passAttempts,490
+2022,San Diego State,Mountain West,fourthDownConversions,13
+2022,Texas,Big 12,games,12
+2022,UCLA,Pac-12,firstDowns,316
+2022,Georgia,SEC,passesIntercepted,10
+2022,Penn State,Big Ten,passingTDs,27
+2022,Cincinnati,American Athletic,tacklesForLoss,86
+2022,San José State,Mountain West,interceptionTDs,0
+2022,Arizona,Pac-12,thirdDownConversions,62
+2022,Iowa State,Big 12,penalties,67
+2022,San Diego State,Mountain West,penalties,87
+2022,Charlotte,Conference USA,thirdDownConversions,63
+2022,Wisconsin,Big Ten,possessionTime,22027
+2022,California,Pac-12,fourthDowns,22
+2022,Duke,ACC,kickReturnTDs,0
+2022,Minnesota,Big Ten,fumblesRecovered,7
+2022,TCU,Big 12,turnovers,10
+2022,Louisiana,Sun Belt,rushingTDs,10
+2022,Maryland,Big Ten,fourthDowns,26
+2022,Texas State,Sun Belt,tacklesForLoss,77
+2022,Alabama,SEC,rushingAttempts,425
+2022,Notre Dame,FBS Independents,kickReturnTDs,0
+2022,Notre Dame,FBS Independents,passAttempts,304
+2022,Georgia State,Sun Belt,rushingYards,2586
+2022,Connecticut,FBS Independents,interceptions,7
+2022,San José State,Mountain West,penalties,63
+2022,Army,FBS Independents,firstDowns,211
+2022,Charlotte,Conference USA,rushingYards,1389
+2022,Oregon State,Pac-12,totalYards,4795
+2022,Michigan State,Big Ten,rushingYards,1356
+2022,Temple,American Athletic,interceptionTDs,2
+2022,Wyoming,Mountain West,puntReturnYards,29
+2022,Kansas,Big 12,puntReturnTDs,0
+2022,TCU,Big 12,puntReturnTDs,2
+2022,San Diego State,Mountain West,passingTDs,13
+2022,Stanford,Pac-12,fourthDowns,21
+2022,Iowa,Big Ten,penalties,51
+2022,Navy,American Athletic,sacks,33
+2022,Texas,Big 12,totalYards,5162
+2022,Iowa,Big Ten,fumblesRecovered,14
+2022,Virginia Tech,ACC,interceptions,9
+2022,Nevada,Mountain West,fourthDowns,26
+2022,Houston,American Athletic,rushingAttempts,364
+2022,Tennessee,SEC,kickReturnYards,299
+2022,South Alabama,Sun Belt,thirdDownConversions,76
+2022,Louisiana Tech,Conference USA,possessionTime,21663
+2022,Wyoming,Mountain West,rushingTDs,14
+2022,Arizona,Pac-12,kickReturns,20
+2022,Michigan State,Big Ten,tacklesForLoss,76
+2022,Auburn,SEC,passCompletions,159
+2022,UCF,American Athletic,puntReturns,29
+2022,Texas State,Sun Belt,puntReturnYards,140
+2022,Indiana,Big Ten,rushingTDs,15
+2022,Army,FBS Independents,rushingTDs,38
+2022,Oklahoma State,Big 12,kickReturns,31
+2022,Louisville,ACC,turnovers,19
+2022,Notre Dame,FBS Independents,tacklesForLoss,76
+2022,Western Michigan,Mid-American,penalties,80
+2022,TCU,Big 12,rushingYards,2600
+2022,Purdue,Big Ten,thirdDownConversions,76
+2022,Georgia State,Sun Belt,fumblesLost,12
+2022,Western Kentucky,Conference USA,netPassingYards,4410
+2022,Utah,Pac-12,rushingTDs,37
+2022,Ole Miss,SEC,turnovers,16
+2022,New Mexico State,FBS Independents,totalYards,3893
+2022,Texas,Big 12,interceptionTDs,2
+2022,Michigan,Big Ten,firstDowns,301
+2022,Boise State,Mountain West,interceptions,9
+2022,Fresno State,Mountain West,sacks,23
+2022,Virginia,ACC,totalYards,3440
+2022,Georgia Tech,ACC,rushingTDs,13
+2022,San Diego State,Mountain West,rushingAttempts,438
+2022,Vanderbilt,SEC,possessionTime,22752
+2022,New Mexico State,FBS Independents,fourthDowns,14
+2022,Nebraska,Big Ten,rushingAttempts,420
+2022,Miami (OH),Mid-American,passCompletions,169
+2022,Middle Tennessee,Conference USA,puntReturns,20
+2022,Ohio,Mid-American,passesIntercepted,11
+2022,Arizona State,Pac-12,puntReturnYards,63
+2022,Michigan State,Big Ten,passingTDs,23
+2022,Michigan State,Big Ten,turnovers,16
+2022,South Alabama,Sun Belt,rushingAttempts,479
+2022,NC State,ACC,passingTDs,23
+2022,Tulsa,American Athletic,rushingAttempts,429
+2022,Wake Forest,ACC,penalties,56
+2022,Houston,American Athletic,possessionTime,21384
+2022,LSU,SEC,thirdDowns,167
+2022,South Carolina,SEC,passesIntercepted,12
+2022,Florida Atlantic,Conference USA,turnovers,13
+2022,Colorado,Pac-12,passingTDs,10
+2022,Arkansas,SEC,penalties,76
+2022,Utah,Pac-12,netPassingYards,3282
+2022,Missouri,SEC,fourthDownConversions,8
+2022,Michigan State,Big Ten,rushingTDs,16
+2022,BYU,FBS Independents,interceptionYards,74
+2022,Nevada,Mountain West,rushingAttempts,427
+2022,Auburn,SEC,penaltyYards,688
+2022,Louisiana,Sun Belt,kickReturnYards,432
+2022,Army,FBS Independents,penaltyYards,465
+2022,Colorado State,Mountain West,kickReturnYards,319
+2022,Washington,Pac-12,puntReturnTDs,0
+2022,Kent State,Mid-American,totalYards,5015
+2022,Georgia,SEC,kickReturnTDs,0
+2022,UMass,FBS Independents,puntReturnYards,96
+2022,Coastal Carolina,Sun Belt,fumblesLost,10
+2022,South Carolina,SEC,fumblesLost,12
+2022,Michigan State,Big Ten,totalYards,4236
+2022,Colorado,Pac-12,rushingYards,1300
+2022,Central Michigan,Mid-American,fourthDownConversions,18
+2022,UAB,Conference USA,tacklesForLoss,57
+2022,Rutgers,Big Ten,puntReturns,16
+2022,Texas A&M,SEC,rushingYards,1707
+2022,Miami (OH),Mid-American,rushingAttempts,446
+2022,Houston,American Athletic,passCompletions,319
+2022,Tulane,American Athletic,tacklesForLoss,57
+2022,USC,Pac-12,kickReturnTDs,0
+2022,North Texas,Conference USA,sacks,27
+2022,Colorado,Pac-12,rushingTDs,11
+2022,UMass,FBS Independents,rushingYards,1804
+2022,UNLV,Mountain West,fourthDownConversions,10
+2022,Auburn,SEC,puntReturns,20
+2022,NC State,ACC,turnovers,14
+2022,UTEP,Conference USA,possessionTime,24322
+2022,Georgia State,Sun Belt,puntReturnTDs,0
+2022,Tulsa,American Athletic,interceptionTDs,0
+2022,Navy,American Athletic,penaltyYards,376
+2022,Air Force,Mountain West,interceptionYards,89
+2022,East Carolina,American Athletic,possessionTime,22432
+2022,Wisconsin,Big Ten,kickReturnTDs,0
+2022,Vanderbilt,SEC,passesIntercepted,6
+2022,Clemson,ACC,puntReturnYards,190
+2022,TCU,Big 12,penaltyYards,609
+2022,California,Pac-12,fourthDownConversions,12
+2022,Iowa,Big Ten,interceptions,7
+2022,Army,FBS Independents,kickReturnYards,211
+2022,Wyoming,Mountain West,puntReturns,7
+2022,Tulsa,American Athletic,firstDowns,257
+2022,NC State,ACC,netPassingYards,2670
+2022,Arizona State,Pac-12,tacklesForLoss,50
+2022,San José State,Mountain West,tacklesForLoss,81
+2022,Colorado State,Mountain West,thirdDownConversions,34
+2022,Miami (OH),Mid-American,interceptionYards,128
+2022,South Alabama,Sun Belt,thirdDowns,178
+2022,Minnesota,Big Ten,kickReturnYards,425
+2022,Florida,SEC,fumblesRecovered,17
+2022,Kansas,Big 12,kickReturnTDs,0
+2022,Connecticut,FBS Independents,passingTDs,10
+2022,Arizona,Pac-12,tacklesForLoss,55
+2022,Arizona State,Pac-12,puntReturns,19
+2022,Ohio State,Big Ten,interceptionYards,94
+2022,Missouri,SEC,thirdDownConversions,68
+2022,Kansas,Big 12,fourthDownConversions,8
+2022,Missouri,SEC,rushingTDs,20
+2022,Utah,Pac-12,thirdDowns,161
+2022,Wake Forest,ACC,totalYards,5383
+2022,Wake Forest,ACC,kickReturnTDs,0
+2022,Miami,ACC,fourthDownConversions,9
+2022,Arkansas,SEC,kickReturnYards,123
+2022,Virginia,ACC,interceptionYards,40
+2022,Duke,ACC,games,12
+2022,Houston,American Athletic,puntReturnTDs,1
+2022,Maryland,Big Ten,rushingTDs,23
+2022,Wisconsin,Big Ten,fourthDownConversions,5
+2022,Colorado,Pac-12,interceptionYards,57
+2022,Fresno State,Mountain West,kickReturnYards,673
+2022,Washington,Pac-12,thirdDowns,163
+2022,Colorado State,Mountain West,fourthDowns,33
+2022,Western Michigan,Mid-American,kickReturnYards,664
+2022,Florida International,Conference USA,tacklesForLoss,65
+2022,BYU,FBS Independents,kickReturnYards,425
+2022,Maryland,Big Ten,turnovers,13
+2022,Nevada,Mountain West,passAttempts,398
+2022,UCF,American Athletic,interceptionYards,34
+2022,NC State,ACC,rushingAttempts,424
+2022,Arkansas,SEC,kickReturnTDs,0
+2022,Troy,Sun Belt,thirdDownConversions,54
+2022,Mississippi State,SEC,rushingYards,957
+2022,Washington State,Pac-12,kickReturns,24
+2022,UMass,FBS Independents,thirdDownConversions,55
+2022,Alabama,SEC,firstDowns,293
+2022,Charlotte,Conference USA,thirdDowns,159
+2022,Washington State,Pac-12,passAttempts,467
+2022,Western Michigan,Mid-American,netPassingYards,1988
+2022,UCF,American Athletic,kickReturnYards,575
+2022,Western Michigan,Mid-American,interceptionTDs,2
+2022,UCF,American Athletic,passingTDs,22
+2022,California,Pac-12,rushingTDs,10
+2022,Navy,American Athletic,rushingAttempts,708
+2022,South Alabama,Sun Belt,passingTDs,25
+2022,Florida,SEC,rushingYards,2564
+2022,Bowling Green,Mid-American,rushingAttempts,394
+2022,Purdue,Big Ten,passingTDs,25
+2022,Maryland,Big Ten,penalties,93
+2022,Arizona,Pac-12,rushingTDs,19
+2022,Arizona,Pac-12,passingTDs,26
+2022,Kansas,Big 12,fumblesLost,10
+2022,Florida International,Conference USA,kickReturnTDs,0
+2022,Syracuse,ACC,puntReturns,23
+2022,BYU,FBS Independents,netPassingYards,3199
+2022,Texas,Big 12,fourthDowns,19
+2022,Temple,American Athletic,penalties,55
+2022,Texas Tech,Big 12,interceptions,17
+2022,Houston,American Athletic,firstDowns,283
+2022,Oregon State,Pac-12,rushingTDs,33
+2022,Charlotte,Conference USA,puntReturnYards,107
+2022,Coastal Carolina,Sun Belt,kickReturnTDs,1
+2022,Nebraska,Big Ten,thirdDowns,165
+2022,Utah State,Mountain West,netPassingYards,2402
+2022,Florida State,ACC,thirdDownConversions,81
+2022,Ole Miss,SEC,passingTDs,20
+2022,Memphis,American Athletic,sacks,17
+2022,Georgia State,Sun Belt,puntReturns,11
+2022,Bowling Green,Mid-American,netPassingYards,2841
+2022,Oregon,Pac-12,puntReturnYards,68
+2022,Marshall,Sun Belt,puntReturns,23
+2022,SMU,American Athletic,thirdDowns,185
+2022,Florida,SEC,passCompletions,186
+2022,Maryland,Big Ten,fumblesRecovered,12
+2022,Iowa State,Big 12,interceptionTDs,0
+2022,Texas,Big 12,puntReturnYards,186
+2022,UT San Antonio,Conference USA,kickReturns,20
+2022,Oregon State,Pac-12,passingTDs,15
+2022,UCLA,Pac-12,passesIntercepted,10
+2022,Arkansas State,Sun Belt,interceptionYards,115
+2022,Arkansas,SEC,rushingTDs,22
+2022,Northern Illinois,Mid-American,penalties,76
+2022,Western Michigan,Mid-American,sacks,31
+2022,Texas,Big 12,penaltyYards,570
+2022,Georgia Southern,Sun Belt,fumblesRecovered,8
+2022,Ohio State,Big Ten,netPassingYards,3530
+2022,Texas Tech,Big 12,fumblesRecovered,11
+2022,UMass,FBS Independents,games,12
+2022,James Madison,Sun Belt,puntReturns,20
+2022,Arizona State,Pac-12,thirdDowns,151
+2022,UT San Antonio,Conference USA,totalYards,6319
+2022,Stanford,Pac-12,puntReturns,17
+2022,Ohio State,Big Ten,passCompletions,251
+2022,Clemson,ACC,totalYards,5260
+2022,Oregon,Pac-12,fourthDownConversions,19
+2022,Florida Atlantic,Conference USA,fumblesRecovered,11
+2022,Miami (OH),Mid-American,interceptions,5
+2022,South Carolina,SEC,tacklesForLoss,54
+2022,Nebraska,Big Ten,rushingYards,1480
+2022,Hawai'i,Mountain West,fourthDownConversions,18
+2022,Northern Illinois,Mid-American,passCompletions,185
+2022,Florida State,ACC,turnovers,13
+2022,Tulane,American Athletic,puntReturns,23
+2022,Ole Miss,SEC,puntReturnYards,111
+2022,Georgia State,Sun Belt,kickReturnYards,103
+2022,TCU,Big 12,puntReturns,24
+2022,Georgia,SEC,netPassingYards,3704
+2022,California,Pac-12,interceptions,9
+2022,Boston College,ACC,kickReturnTDs,0
+2022,Memphis,American Athletic,passesIntercepted,13
+2022,Texas A&M,SEC,interceptionTDs,0
+2022,Southern Mississippi,Sun Belt,fourthDowns,19
+2022,Louisiana,Sun Belt,interceptionYards,154
+2022,Kansas,Big 12,passCompletions,205
+2022,Old Dominion,Sun Belt,passCompletions,237
+2022,Vanderbilt,SEC,firstDowns,210
+2022,Kentucky,SEC,fumblesRecovered,10
+2022,Illinois,Big Ten,rushingYards,2145
+2022,Minnesota,Big Ten,puntReturns,13
+2022,Ohio State,Big Ten,passingTDs,38
+2022,Indiana,Big Ten,thirdDownConversions,65
+2022,Virginia,ACC,puntReturnTDs,0
+2022,Tulane,American Athletic,firstDowns,286
+2022,Fresno State,Mountain West,fumblesRecovered,10
+2022,New Mexico,Mountain West,penalties,73
+2022,Old Dominion,Sun Belt,interceptionYards,96
+2022,Penn State,Big Ten,passCompletions,254
+2022,Ole Miss,SEC,penaltyYards,740
+2022,Arizona,Pac-12,kickReturnTDs,0
+2022,West Virginia,Big 12,firstDowns,276
+2022,Virginia,ACC,kickReturnTDs,0
+2022,Rice,Conference USA,rushingTDs,17
+2022,Missouri,SEC,puntReturns,12
+2022,Colorado State,Mountain West,rushingTDs,4
+2022,Alabama,SEC,puntReturnTDs,2
+2022,Coastal Carolina,Sun Belt,passingTDs,26
+2022,Cincinnati,American Athletic,passAttempts,402
+2022,Missouri,SEC,penaltyYards,743
+2022,Ohio State,Big Ten,penalties,69
+2022,North Texas,Conference USA,netPassingYards,3408
+2022,Ohio State,Big Ten,puntReturnYards,141
+2022,Florida International,Conference USA,rushingTDs,11
+2022,Georgia Tech,ACC,passesIntercepted,11
+2022,Utah,Pac-12,possessionTime,26173
+2022,USC,Pac-12,netPassingYards,4234
+2022,California,Pac-12,rushingAttempts,318
+2022,Boise State,Mountain West,rushingTDs,24
+2022,East Carolina,American Athletic,totalYards,5508
+2022,SMU,American Athletic,passesIntercepted,9
+2022,Army,FBS Independents,totalYards,4391
+2022,Maryland,Big Ten,rushingAttempts,428
+2022,Virginia Tech,ACC,turnovers,15
+2022,Illinois,Big Ten,interceptions,5
+2022,Florida,SEC,totalYards,5294
+2022,Duke,ACC,totalYards,5054
+2022,Nevada,Mountain West,puntReturnTDs,0
+2022,Charlotte,Conference USA,possessionTime,21272
+2022,Texas A&M,SEC,interceptionYards,13
+2022,Florida Atlantic,Conference USA,kickReturnYards,241
+2022,Akron,Mid-American,puntReturns,17
+2022,Rutgers,Big Ten,totalYards,3375
+2022,Louisiana,Sun Belt,penalties,80
+2022,Georgia Southern,Sun Belt,netPassingYards,3927
+2022,Rice,Conference USA,puntReturnTDs,0
+2022,Arkansas State,Sun Belt,puntReturns,17
+2022,South Florida,American Athletic,puntReturnTDs,0
+2022,Purdue,Big Ten,fumblesRecovered,9
+2022,Louisiana,Sun Belt,puntReturnYards,406
+2022,Florida Atlantic,Conference USA,rushingTDs,19
+2022,California,Pac-12,rushingYards,1158
+2022,East Carolina,American Athletic,passAttempts,445
+2022,West Virginia,Big 12,puntReturns,12
+2022,New Mexico State,FBS Independents,passesIntercepted,6
+2022,Boise State,Mountain West,tacklesForLoss,71
+2022,Kentucky,SEC,rushingYards,1443
+2022,Houston,American Athletic,kickReturns,38
+2022,Army,FBS Independents,sacks,18
+2022,Ohio,Mid-American,penaltyYards,575
+2022,Boston College,ACC,fumblesLost,12
+2022,Clemson,ACC,firstDowns,285
+2022,Virginia,ACC,sacks,30
+2022,Rutgers,Big Ten,fourthDowns,17
+2022,Illinois,Big Ten,puntReturnYards,137
+2022,Purdue,Big Ten,puntReturnYards,129
+2022,Rice,Conference USA,totalYards,4440
+2022,LSU,SEC,rushingYards,2348
+2022,Wisconsin,Big Ten,passCompletions,172
+2022,Minnesota,Big Ten,turnovers,13
+2022,Pittsburgh,ACC,penalties,90
+2022,New Mexico,Mountain West,rushingAttempts,438
+2022,Western Kentucky,Conference USA,fumblesRecovered,23
+2022,Wake Forest,ACC,thirdDowns,170
+2022,Liberty,FBS Independents,rushingAttempts,472
+2022,Louisiana,Sun Belt,passAttempts,411
+2022,Purdue,Big Ten,thirdDowns,190
+2022,Pittsburgh,ACC,interceptionTDs,4
+2022,Liberty,FBS Independents,puntReturnTDs,0
+2022,Florida International,Conference USA,passingTDs,16
+2022,USC,Pac-12,passAttempts,463
+2022,Texas Tech,Big 12,passAttempts,530
+2022,Georgia,SEC,rushingYards,2691
+2022,Clemson,ACC,kickReturnYards,322
+2022,Illinois,Big Ten,passingTDs,15
+2022,California,Pac-12,totalYards,4375
+2022,Colorado,Pac-12,fourthDownConversions,11
+2022,Louisiana Tech,Conference USA,kickReturns,36
+2022,Louisiana,Sun Belt,fumblesRecovered,14
+2022,Miami,ACC,thirdDownConversions,67
+2022,Tulane,American Athletic,interceptionYards,53
+2022,Boston College,ACC,rushingYards,768
+2022,Texas A&M,SEC,puntReturnYards,121
+2022,Fresno State,Mountain West,kickReturnTDs,0
+2022,Appalachian State,Sun Belt,interceptionTDs,0
+2022,Maryland,Big Ten,firstDowns,246
+2022,Rutgers,Big Ten,puntReturnYards,108
+2022,Buffalo,Mid-American,penalties,58
+2022,Florida State,ACC,passCompletions,222
+2022,Memphis,American Athletic,turnovers,15
+2022,South Florida,American Athletic,passesIntercepted,6
+2022,Temple,American Athletic,kickReturnYards,673
+2022,Arizona State,Pac-12,netPassingYards,3023
+2022,Florida State,ACC,netPassingYards,3094
+2022,Wisconsin,Big Ten,penaltyYards,731
+2022,Air Force,Mountain West,passCompletions,37
+2022,Miami,ACC,interceptions,12
+2022,Southern Mississippi,Sun Belt,rushingYards,1481
+2022,UCF,American Athletic,puntReturnYards,240
+2022,Northwestern,Big Ten,firstDowns,228
+2022,Akron,Mid-American,fumblesRecovered,2
+2022,UT San Antonio,Conference USA,possessionTime,23373
+2022,Vanderbilt,SEC,interceptions,6
+2022,Clemson,ACC,puntReturnTDs,0
+2022,Temple,American Athletic,penaltyYards,444
+2022,Utah State,Mountain West,totalYards,4347
+2022,Bowling Green,Mid-American,penaltyYards,855
+2022,Missouri,SEC,totalYards,4450
+2022,Auburn,SEC,interceptionTDs,1
+2022,Eastern Michigan,Mid-American,netPassingYards,2616
+2022,Miami (OH),Mid-American,fumblesLost,6
+2022,Wisconsin,Big Ten,rushingAttempts,454
+2022,Michigan State,Big Ten,games,12
+2022,Arkansas State,Sun Belt,totalYards,3779
+2022,Florida,SEC,passAttempts,344
+2022,Illinois,Big Ten,interceptionTDs,1
+2022,Auburn,SEC,tacklesForLoss,62
+2022,Wake Forest,ACC,sacks,28
+2022,Maryland,Big Ten,kickReturnTDs,0
+2022,Colorado,Pac-12,interceptionTDs,0
+2022,Georgia State,Sun Belt,interceptions,7
+2022,Oregon,Pac-12,interceptions,8
+2022,New Mexico State,FBS Independents,netPassingYards,2032
+2022,Old Dominion,Sun Belt,puntReturnYards,120
+2022,Duke,ACC,interceptionTDs,1
+2022,UMass,FBS Independents,interceptionYards,95
+2022,Ohio,Mid-American,penalties,65
+2022,Ole Miss,SEC,puntReturns,17
+2022,UCF,American Athletic,fumblesLost,11
+2022,Indiana,Big Ten,sacks,20
+2022,UNLV,Mountain West,passCompletions,227
+2022,Missouri,SEC,interceptionYards,99
+2022,Michigan State,Big Ten,puntReturnYards,158
